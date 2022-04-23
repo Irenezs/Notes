@@ -4,7 +4,14 @@
 1. 
 	a. ![[Phys Exam 1a|5000]]b.
 		i.
-		The gradient of a velocity-time graph is the acceleration, as the gradient of the line when t>0.5 is constant, we know the deceleration is uniform.
-		ii. ![[Phys Exam 1bii|1000]]
-2. 
-3. 
+				The gradient of a velocity-time graph is the acceleration, as the gradient of the line when t>0.5 is constant, we know the deceleration is uniform.
+		ii. 
+			![[Phys Exam 1bii|1000]]
+1. 
+	a.
+		i.
+			A vector has a direction and magnitude, a scalar only has magnitude
+		ii.
+			Scalar - Distance, Speed
+			Vector - Velocity,  Acceleration
+	b.
