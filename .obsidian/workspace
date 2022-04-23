@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "f3adcb10adc08690",
+    "type": "split",
+    "children": [
+      {
+        "id": "f382f63cdc9b814a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics Exam.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73cd2746f34a0835",
+    "type": "split",
+    "children": [
+      {
+        "id": "a990302be50fc31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e85c0fe1e091b3b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eff01aaf2b663ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263
+  },
+  "right": {
+    "id": "0a2325fe01975dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52866f6fefa4807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53863ba5374be8e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics Exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d5f5b565ec3697a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics Exam.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fcfc29445e6b1156",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f382f63cdc9b814a",
+  "lastOpenFiles": [
+    "Physics Exam.md",
+    "Excalidraw/Phys Exam 1bii.md",
+    "Excalidraw/Phys Exam 1a.md",
+    "Excalidraw/Pasted Image 20220423162529_704.png",
+    "TODO.md",
+    "Phys Exam 1a.excelidraw.md",
+    "Maths Gapped Notes/Mechanics/Mech3 Forces in Context.md",
+    "Excalidraw/Resolving Example.md",
+    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
+    "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md"
+  ]
+}

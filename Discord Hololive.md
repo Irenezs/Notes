@@ -1,0 +1,89 @@
+- [ ] A-Chan
+- [ ] Airani Iofiteen
+- [ ] Akai Haato
+- [x] Aki Rosenthal
+- [ ] Amame Kanata
+- [ ] Anya Melfissa
+- [x] Artia
+- [ ] Ayunda Risu
+- [ ] Bibi
+- [ ] Bloop
+- [ ] Boros
+- [ ] Bubba
+- [x] Ceres Fauna
+- [x] Civia
+- [ ] Daifuku
+-15
+- [x] Doris
+- [ ] Ebifrion
+- [ ] EnMa
+- [ ] Friend
+- [ ] Gawr Gura -Alex
+- [x] Hakos Baelz
+- [x] Hakui Koyori
+- [x] Himemori Luna
+- [ ] Hitomi Chris
+- [ ] Hoshimachi Suisei
+- [ ] Hosoinu
+- [x] Houshou Marine
+- [x] IRyS
+- [ ] Inugami Korone
+- [ ] Kaela Kovalskia
+-30
+- [x] Kazama Iroha
+- [ ] Kintsuba
+- [x] Kiryu Coco
+- [ ] Kobo Kanaeru
+- [ ] Kureiji Ollie
+- [ ] La+ Darknesss
+- [x] Mano Aloe
+- [x] Minato Aqua
+- [ ] Momosuzu Nene
+- [x] Moona Hoshinova
+- [x] Mori Calliope
+- [ ] Mr. Squeaks
+- [ ] Murasaki Shion
+- [ ] Nakiri Ayame
+- [ ] Nanashi Mumei
+-45
+- [x] Natsuiro Matsuri
+- [ ] Nekko
+- [x] Nekomata Okayu
+- [x] Nemu
+- [x] Ninomae Ina'nis
+- [ ] Nousagi
+- [ ] Omaru Polka
+- [ ] OmegaAlpha
+- [x] Ookami Mio
+- [ ] Oozora Subaru
+- [ ] Ouro Kronii
+- [ ] Pavolia Reine
+- [x] Roboco-san
+- [ ] Rosalyn
+- [ ] Sakamata Chloe
+-60
+- [ ] Sakura Miko
+- [ ] Shirakami Fubuki
+- [x] Shiranui Flare
+- [x] Shirogame Noel
+- [x] Shishiro Botan
+- [ ] Spade Echo
+- [ ] Takanashi Kiara
+- [ ] Takane Lui
+- [ ] Tokino Sora
+- [x] Tokoyami Towa
+- [x] Tsukumo Sana
+- [x] Tsunomaki Watame
+- [ ] Udin
+- [x] Uruha Rushia -Jacob
+- [x] Usada Pekora
+-75
+- [ ] Vestia Zeta
+- [ ] AZKi
+- [ ] Watson Amelia
+- [ ] Yatagarasu
+- [ ] Yogiri
+- [x] Yozora Mel
+- [ ] Yukihana Lamy
+- [x] Yuzuki Choco
+-83
