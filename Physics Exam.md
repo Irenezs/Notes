@@ -42,4 +42,6 @@
 		![[Phys Exam 4a|5000]]
 	b.
 		i.
-			
+			![[Phys Exam 4bi|5000]]
+		ii.
+			![[Phys Exam 4bii|5000]]
