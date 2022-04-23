@@ -1,6 +1,6 @@
 {
-  "commitMessage": "{{hostname}} backup: {{date}}",
-  "autoCommitMessage": "{{hostname}} backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPullInterval": 0,
@@ -17,5 +17,5 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "Irenezs/Notes"
+  "basePath": ""
 }
