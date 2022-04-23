@@ -6,5 +6,5 @@
 		i.
 		The gradient of a velocity-time graph is the acceleration, as the gradient of the line when t>0.5 is constant, we know the deceleration is uniform.
 		ii. ![[Phys Exam 1bii|1000]]
-		
-1. 
+2. 
+3. 
