@@ -25,11 +25,11 @@
 		![[Phys Exam 2c|5000]]
 3. 
 	a.
-		Hooke's law is that the extension of a spring is directly proportional to the force applied, provided the elastic limit is not reached.
+		Hooke's law is that the extension of a spring is directly proportional to the force applied, provided the limit of proportionality is not reached.
 	b.
 		i.
 			1. Start with the smallest mass. Measure the new length.
-			2. Record the mass and new length.
+			2. Record the mass and new length-initial length.
 			3. Repeat for all masses.
-			4. Graph the weight (mass x g (9.81))
+			4. Graph the mass against extension ()
 	
