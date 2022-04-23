@@ -36,5 +36,8 @@
 			6. Find the extension due to the rock sample.
 			7. Use the line of best fit to find the mass corresponding to the extension of the rock sample.
 		ii.
-			Use a clamp to secure the stand
+			Use a clamp to secure the stand to the table, this provides an opposite moment to the weights on the stand.
+4. a
+	a.
+		
 	
