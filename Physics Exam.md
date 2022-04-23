@@ -45,3 +45,6 @@
 			![[Phys Exam 4bi|5000]]
 		ii.
 			![[Phys Exam 4bii|5000]]
+5. b
+	a.
+		The string is fixed on both ends, meaning that the wave will reflect off of the nodes (stationary points). As the string is plucked in the centre, the 
