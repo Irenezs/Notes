@@ -31,5 +31,5 @@
 			1. Start with the smallest mass. Measure the new length.
 			2. Record the mass and new length.
 			3. Repeat for all masses.
-			4. Graph the 
+			4. Graph the weight (mass x g (9.81))
 	
