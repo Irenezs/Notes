@@ -31,5 +31,10 @@
 			1. Start with the smallest mass. Measure the new length.
 			2. Record the mass and new length-initial length.
 			3. Repeat for all masses.
-			4. Graph the mass against extension ()
+			4. Graph the mass against extension.
+			5. Draw a line of best fit.
+			6. Find the extension due to the rock sample.
+			7. Use the line of best fit to find the mass corresponding to the extension of the rock sample.
+		ii.
+			Use a clamp to secure the stand
 	
