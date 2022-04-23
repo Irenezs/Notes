@@ -27,5 +27,6 @@
 	a.
 		Hooke's law is that the extension of a spring is directly proportional to the force applied, provided the elastic limit is not reached.
 	b.
-		D or d:
+		i.
+			Sex
 	
