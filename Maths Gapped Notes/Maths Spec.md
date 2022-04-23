@@ -21,6 +21,7 @@
 - [[M2 Using Graphs]]
 - [[M3 Logarithms]]
 - [[M4 Trigonometric Functions]]
+- [[M5 Trigonometry]]
 
 # Mechanics
 - [[Mech1 Kinematics|Kinematics]]

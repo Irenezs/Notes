@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f382f63cdc9b814a",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Phys Exam 1bii.md"
-          }
-        }
-      },
-      {
         "id": "fa329b130ba67480",
         "type": "leaf",
         "state": {
@@ -120,14 +110,14 @@
   "active": "fa329b130ba67480",
   "lastOpenFiles": [
     "Physics Exam.md",
-    "Excalidraw/Phys Exam 1bii.md",
-    "Excalidraw/Phys Exam 1a.md",
-    "Excalidraw/Pasted Image 20220423162529_704.png",
-    "TODO.md",
-    "Phys Exam 1a.excelidraw.md",
-    "Maths Gapped Notes/Mechanics/Mech3 Forces in Context.md",
-    "Excalidraw/Resolving Example.md",
+    "Excalidraw/Phys Exam 2c.md",
+    "Excalidraw/Phys Exam 2bii.md",
+    "Maths Gapped Notes/Misc/M5 Trigonometry.md",
+    "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
-    "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md"
+    "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md",
+    "Excalidraw/Resolving Example.md",
+    "Excalidraw/Phys Exam 1bii.md",
+    "Excalidraw/Phys Exam 2bi.md"
   ]
 }
