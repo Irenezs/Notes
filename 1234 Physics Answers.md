@@ -7,7 +7,7 @@
 6.2 Q4
 	As there is a range of kinetic energies, there must be something else taking the rest of the energy away, as due to the conservation of energy all of the input energy must be conserved, and so there must be some particle taking away that excess energy, which was called a neutrino. 
 6.4 Q1
-	Ex
+	Ionisation is where an atom loses one or more electrons.
 6.5 Q3
 	Ex
 10.2 Q4
