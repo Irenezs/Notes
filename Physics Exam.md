@@ -55,6 +55,7 @@
 			![[Phys Exam 5bii|5000]]
 6. 
 	a.
-		![[Phys Exam 6ai|5000]]
-	b.
-		!
+		i.
+				![[Phys Exam 6ai|5000]]
+			ii.
+				![[Phys Exam 6aii|5000]]
