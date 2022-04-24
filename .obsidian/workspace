@@ -7,11 +7,9 @@
         "id": "a08342bfeecfb575",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "1234 Physics Answers.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/5.2 Q3.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1234 Physics Answers.md",
+                "file": "Excalidraw/5.2 Q3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1234 Physics Answers.md",
+                "file": "Excalidraw/5.2 Q3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -120,6 +118,7 @@
   },
   "active": "a08342bfeecfb575",
   "lastOpenFiles": [
+    "Excalidraw/5.2 Q3.md",
     "1234 Physics Answers.md",
     "Excalidraw/4.1 Q4.md",
     "Excalidraw/1.4 Q4.md",
@@ -128,7 +127,6 @@
     "1234 Tasks.md",
     "Excalidraw/Drawing 2022-04-24 17.50.45.excalidraw.md",
     "Phys Exam Marked.pdf",
-    "Physics Exam.pdf",
-    "Physics Exam.md"
+    "Physics Exam.pdf"
   ]
 }
