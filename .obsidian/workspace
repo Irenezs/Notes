@@ -7,11 +7,9 @@
         "id": "fa329b130ba67480",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Physics Exam.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Phys Exam 6ai.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Exam.md",
+                "file": "Excalidraw/Phys Exam 6ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Exam.md",
+                "file": "Excalidraw/Phys Exam 6ai.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,6 +107,7 @@
   },
   "active": "fa329b130ba67480",
   "lastOpenFiles": [
+    "Excalidraw/Phys Exam 6ai.md",
     "Physics Exam.md",
     "Discord Hololive.md",
     "Excalidraw/Pasted Image 20220424015326_689.png",
@@ -117,7 +116,6 @@
     "Excalidraw/Phys Exam 4bii.md",
     "Excalidraw/Phys Exam 4bi.md",
     "Excalidraw/Phys Exam 4a.md",
-    "Restarting Git.md",
-    "Excalidraw/Phys Exam 2c.md"
+    "Restarting Git.md"
   ]
 }
