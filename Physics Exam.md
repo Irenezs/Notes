@@ -63,4 +63,14 @@
 		i.
 			In 6ai, the critical angle is found to be $49\degree$.  As the angle of R is $60\degree$, greater than $49\degree$, the ray will be totally internally reflected.
 		ii.
-			!  
+			!
+7. a
+	a.
+		i.
+			b
+		ii.
+			b
+		iii.
+			!
+	b.
+		b
