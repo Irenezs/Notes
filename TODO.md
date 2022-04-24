@@ -5,7 +5,6 @@
 - [x] Physics Exam
 	- [[Physics Exam]]
 - [ ] Physics Response
-	- [Cedar 4 Video](file:///C:/Users/matth_/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/TempState/msohtmlclip/clip_image001.png)
 - [ ] Physics Study Cycle
 	- Work on a topic not solid on
 - [ ] Physics Kerboodle
