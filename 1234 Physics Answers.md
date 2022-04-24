@@ -5,7 +5,7 @@
 5.2 Q3
 	![[5.2 Q3|1000]]
 6.2 Q4
-	As there is a range of kinetic energies, there must be something else taking the rest of the energy away, as 
+	As there is a range of kinetic energies, there must be something else taking the rest of the energy away, as due to the conservation of energy
 6.4 Q1
 	Ex
 6.5 Q3
