@@ -7,9 +7,11 @@
         "id": "fa329b130ba67480",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Phys Exam 7aiii.md"
+            "file": "Physics Exam.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Phys Exam 7aiii.md",
+                "file": "Physics Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Phys Exam 7aiii.md",
+                "file": "Physics Exam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,6 +99,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "45fc16ec9630776a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -107,8 +120,8 @@
   },
   "active": "fa329b130ba67480",
   "lastOpenFiles": [
-    "Excalidraw/Phys Exam 7aiii.md",
     "Physics Exam.md",
+    "Excalidraw/Phys Exam 7aiii.md",
     "Discord Hololive.md",
     "Excalidraw/Phys Exam 6bii.md",
     "Excalidraw/Pasted Image 20220424025635_142.png",

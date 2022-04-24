@@ -71,6 +71,6 @@
 		ii.
 			Interference where the light superposes near at the screen causes the fringe pattern. Bright fringes are formed where the light interferes constructively, dark fringes appear where the light interferes destructively.
 		iii.
-			!
+			![[Phys Exam 7aiii]]
 	b.
-		b
+		The appearance would change by the fringes becoming a spectrum, with the center being 
