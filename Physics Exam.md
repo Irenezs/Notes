@@ -69,7 +69,7 @@
 		i.
 			Diffraction
 		ii.
-			The fringes seen will be of equal width, with the 
+			Interference where the light superposes near at the screen causes the fringe pattern. Bright fringes are formed where the light interferes constructively, dark fringes appear where the light interferes destructively.
 		iii.
 			!
 	b.
