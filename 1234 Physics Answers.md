@@ -5,7 +5,7 @@
 5.2 Q3
 	![[5.2 Q3|1000]]
 6.2 Q4
-	Ex
+	As there is a range of kinetic energies, 
 6.4 Q1
 	Ex
 6.5 Q3
