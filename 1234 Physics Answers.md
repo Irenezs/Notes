@@ -9,7 +9,7 @@
 6.4 Q1
 	Ionisation is where an atom loses one or more electrons.
 6.5 Q3
-	Ex
+	Between 0fm and 0.5fm, the strong nuclear force repels nucleons, where the closer they are the stronger the repelling force. From 0.5fm the strong interaction attracts nucleons. It has a range of around 2-3fm.
 10.2 Q4
 	Ex
 10.4 Q4
