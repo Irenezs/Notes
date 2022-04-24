@@ -61,4 +61,6 @@
 				![[Phys Exam 6aii|5000]]
 	b.
 		i.
-			SLSEDF
+			In 6ai, the critical angle is found to be $49\degree$.  As the angle of R is $60\degree$, greater than $49\degree$, the ray will be totally internally reflected.
+		ii.
+			!  
