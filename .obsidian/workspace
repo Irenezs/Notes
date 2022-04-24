@@ -7,8 +7,12 @@
         "id": "a08342bfeecfb575",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1234 Physics Answers.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1234 Physics Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1234 Physics Answers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,8 +120,8 @@
   },
   "active": "a08342bfeecfb575",
   "lastOpenFiles": [
-    "Non-Work/Discord Hololive.md",
     "1234 Physics Answers.md",
+    "Non-Work/Discord Hololive.md",
     "Physics Exam.pdf",
     "Excalidraw/5.2 Q3.md",
     "Excalidraw/4.1 Q4.md",

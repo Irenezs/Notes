@@ -11,7 +11,7 @@
 6.5 Q3
 	Between 0fm and 0.5fm, the strong nuclear force repels nucleons, where the closer they are the stronger the repelling force. From 0.5fm the strong interaction attracts nucleons. It has a range of around 2-3fm.
 10.2 Q4
-	Ex
+	$$E:p+e\$$
 10.4 Q4
 	!
 11.1 Q3
