@@ -63,13 +63,13 @@
 		i.
 			In 6ai, the critical angle is found to be $49\degree$.  As the angle of R is $60\degree$, greater than $49\degree$, the ray will be totally internally reflected.
 		ii.
-			!
+			![[Phys Exam 6bii|5000]]
 7. a
 	a.
 		i.
-			b
+			Diffraction
 		ii.
-			b
+			The fringes seen will be of equal width, with the 
 		iii.
 			!
 	b.
