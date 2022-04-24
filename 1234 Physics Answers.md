@@ -11,7 +11,9 @@
 6.5 Q3
 	Between 0fm and 0.5fm, the strong nuclear force repels nucleons, where the closer they are the stronger the repelling force. From 0.5fm the strong interaction attracts nucleons. It has a range of around 2-3fm.
 10.2 Q4
-	$$E:p+e\$$
+	$E:p+e\to n+\nu_e$
+	$L_e:0+1\to 0+1$ <= Electron lepton number
+	$B:1+0\to 1+0$ <= Baryon Number
 10.4 Q4
 	!
 11.1 Q3
