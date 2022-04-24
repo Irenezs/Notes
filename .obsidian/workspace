@@ -7,9 +7,11 @@
         "id": "fa329b130ba67480",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Phys Exam 5bii.md"
+            "file": "Physics Exam.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Phys Exam 5bii.md",
+                "file": "Physics Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Phys Exam 5bii.md",
+                "file": "Physics Exam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,15 +109,15 @@
   },
   "active": "fa329b130ba67480",
   "lastOpenFiles": [
-    "Excalidraw/Phys Exam 5bii.md",
-    "Excalidraw/Phys Exam 5bi.md",
     "Physics Exam.md",
+    "Discord Hololive.md",
+    "Excalidraw/Pasted Image 20220424015326_689.png",
+    "Excalidraw/Phys Exam 5bi.md",
+    "Excalidraw/Phys Exam 5bii.md",
     "Excalidraw/Phys Exam 4bii.md",
     "Excalidraw/Phys Exam 4bi.md",
     "Excalidraw/Phys Exam 4a.md",
     "Restarting Git.md",
-    "Excalidraw/Phys Exam 2c.md",
-    "Excalidraw/Phys Exam 2bii.md",
-    "Maths Gapped Notes/Misc/M5 Trigonometry.md"
+    "Excalidraw/Phys Exam 2c.md"
   ]
 }

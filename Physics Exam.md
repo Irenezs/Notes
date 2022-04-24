@@ -45,9 +45,16 @@
 			![[Phys Exam 4bi|5000]]
 		ii.
 			![[Phys Exam 4bii|5000]]
-5. b
+5. 
 	a.
 		The string is fixed on both ends, meaning that the wave will reflect off of the nodes (stationary points). The progressive waves caused by the pluck will therefore interfere with each other, and will undergo constructive interference as they have the same frequency.
 	b.
 		i.
-			
+			![[Phys Exam 5bi|5000]]
+		ii.
+			![[Phys Exam 5bii|5000]]
+6. 
+	a.
+		![[Phys Exam 6ai|5000]]
+	b.
+		!
