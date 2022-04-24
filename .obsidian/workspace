@@ -7,8 +7,12 @@
         "id": "5942c021a8db5092",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1234 Tasks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1234 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1234 Tasks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,6 +120,7 @@
   },
   "active": "5942c021a8db5092",
   "lastOpenFiles": [
+    "1234 Tasks.md",
     "Excalidraw/Drawing 2022-04-24 17.50.45.excalidraw.md",
     "TODO.md",
     "Phys Exam Marked.pdf",
@@ -122,7 +129,6 @@
     "Discord Hololive.md",
     "Excalidraw/Phys Exam 7aiii.md",
     "Excalidraw/Phys Exam 6bii.md",
-    "Excalidraw/Pasted Image 20220424025635_142.png",
-    "Excalidraw/Pasted Image 20220424023259_429.png"
+    "Excalidraw/Pasted Image 20220424025635_142.png"
   ]
 }
