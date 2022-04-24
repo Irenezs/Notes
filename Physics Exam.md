@@ -47,4 +47,7 @@
 			![[Phys Exam 4bii|5000]]
 5. b
 	a.
-		The string is fixed on both ends, meaning that the wave will reflect off of the nodes (stationary points). As the string is plucked in the centre, the 
+		The string is fixed on both ends, meaning that the wave will reflect off of the nodes (stationary points). The progressive waves caused by the pluck will therefore interfere with each other, and will undergo constructive interference as they have the same frequency.
+	b.
+		i.
+			
