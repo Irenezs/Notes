@@ -2,11 +2,12 @@
 	- [x] [[S2 Binomial Expansion]]
 	- [x] [[S3 Sequences and Series]]
 	- [x] [[Mech3 Forces in Context]]
-- [ ] Physics Exam
+- [x] Physics Exam
 	- [[Physics Exam]]
 - [ ] Physics Response
 	- [Cedar 4 Video](file:///C:/Users/matth_/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/TempState/msohtmlclip/clip_image001.png)
-- [ ] Maths Consolidation
+- [ ] Physics Study Cycle
+	- Work on a topic not solid on
 - [ ] Physics Kerboodle
 	- 10.1 2-4
 	- 10.2
@@ -14,3 +15,4 @@
 	- 10.4
 	- Pre 11.3
 	- Mech booklet 35-41
+- [ ] Maths Consolidation
