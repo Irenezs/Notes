@@ -87,3 +87,9 @@
 - [ ] Yukihana Lamy
 - [x] Yuzuki Choco
 -83
+
+# For Alex
+- ~~Jesus Christ
+- ~~Robbie Rotten
+- ~~Adolf Hitler
+- Big Chungus
