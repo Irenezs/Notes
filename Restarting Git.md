@@ -1,2 +1,2 @@
-Do git config --global credential.helper wincred in D:\Notes
+Do git config --global credential.helper wincred in Notes dir
 Then refresh
