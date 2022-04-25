@@ -17,9 +17,9 @@
 10.4 Q4
 	![[10.4 Q4|1000]]
 11.1 Q3
-	
+	In $hf=\phi + E_k$, $\phi$ is constant so increasing the frequency will increase the stopping potential.
 11.4 Q2
-	Ex
+	The work function is the energy required to get an electron out of the metal.
 11.5 Q1
 	!
 13.4 Q3
