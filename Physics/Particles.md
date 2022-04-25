@@ -14,7 +14,16 @@ Each quark has a counterpart; anti-quarks have essentially the same properties, 
 
 Quarks cannot be on their own, due to their fractional properties. 
 
-Quark-based particles are called hadrons, which can be broken into two separate groups: mesons, containing a quark and antiquark, and baryons, containing 3 quarks or 3 antiquarks.
+Quark-based particles are called [[#Hadrons]], which can be broken into two separate groups: mesons, containing a quark and antiquark, and baryons, containing 3 quarks or 3 antiquarks.
+
+# Hadrons
+## Mesons
+- quark / anti-quark pair
+- 8 needed to memorise for the course
+
+Meson|Symbol|Quarks|Charge|Strangeness
+---|---|---|---|---
+Pion +|$\pi$
 
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
