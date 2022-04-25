@@ -23,7 +23,11 @@ Quark-based particles are called [[#Hadrons]], which can be broken into two sepa
 
 Meson|Symbol|Quarks|Charge|Strangeness
 ---|---|---|---|---
-Pion +|$\pi$
+Pion +|$\pi^+$|$u\overline{d}$|+1|0
+Pion -|$\pi^-$|$\overline{u}d$|-1|0
+Pion 0|$\pi^0$|$u\overline{u}$|0|0
+Pion 0|$\pi^0$|$d\overline{d}$|0|0
+Kaon +|$K^+$|
 
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
