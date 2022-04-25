@@ -15,3 +15,4 @@ Each quark has a counterpart; anti-quarks have essentially the same properties, 
 Quarks cannot be on their own, due to their fractional properties. 
 
 Quark-based particles are called hadrons, which can be broken into two separate groups: mesons, containing a quark and antiquark, and baryons, containing 3 quarks or 3 antiquarks.
+
