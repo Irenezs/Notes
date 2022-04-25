@@ -4,4 +4,11 @@ In 1968, a group of physicists conducted an experiment to Rutherford's gold foil
 
 ## Quarks
 There are 6 different quarks, although this course only cares about 3:
-up, u
+up: u, down: d, and strange: s. Their properties are below:
+
+Quark|Charge|Baryon Number|Strangeness
+---|---|---|---
+u|+2/3|+1/3|0
+d|-1/3|+1/3|0
+s|-1/3|+1/3|-1
+Each quark has a counterpart; anti-quarks have essentially the same properties, but just reversed, so anti-up has a charge of -2/3, for example.
