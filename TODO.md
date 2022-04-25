@@ -6,7 +6,7 @@
 	- [[Physics Exam]]
 - [x] Physics Response
 - [ ] Physics Study Cycle
-	- Work on a topic not solid on
+	- Work on Particles
 - [x] Physics Kerboodle
 	- 10.1 2-4
 	- 10.2
