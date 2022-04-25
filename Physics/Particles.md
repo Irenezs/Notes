@@ -25,12 +25,15 @@ Meson|Symbol|Quarks|Charge|Strangeness
 ---|---|---|---|---
 Pion +|$\pi^+$|$u\overline{d}$|+1|0
 Pion -|$\pi^-$|$\overline{u}d$|-1|0
-Pion 0|$\pi^0$|$u\overline{u}$|0|0
 Pion 0|$\pi^0$|$d\overline{d}$|0|0
+Anti-Pion 0|$\pi^0$|$u\overline{u}$|0|0
 Kaon +|$K^+$|$u\overline{s}$|+1|+1
 Kaon -|$K^-$|$\overline{u}s$|-1|-1
 Kaon 0|$K^0$|$d\overline{s}$|0|+1
-Anti-Kaon 0|$\overline{K}^0$|
+Anti-Kaon 0|$\overline{K}^0$|$\overline{d}s$|0|-1
+
+## Baryons
+- 3 quarks OR 3 anti-quarks
 
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
