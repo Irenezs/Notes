@@ -23,5 +23,6 @@
 11.5 Q1
 	![[11.5 Q1|1000]]
 15.2 Q4
-	![[15.2 Q4|1000]]15.4 Q2
+	![[15.2 Q4|1000]]
+15.4 Q2
 	The moment of a couple is the rotational affect of two opposite and equal forces acting some perpendicular distance from each other.
