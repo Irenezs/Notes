@@ -7,7 +7,7 @@
 - [x] Physics Response
 - [ ] Physics Study Cycle
 	- Work on a topic not solid on
-- [ ] Physics Kerboodle
+- [x] Physics Kerboodle
 	- 10.1 2-4
 	- 10.2
 	- 10.3
