@@ -34,7 +34,8 @@ Anti-Kaon 0|$\overline{K}^0$|$\overline{d}s$|0|-1
 
 ## Baryons
 - 3 quarks OR 3 anti-quarks
-- 4 needed to know for course, kinda just 2 tho
+- 4 needed to know for course
+
 Baryon|Symbol|Quarks|Charge|Strangeness|Baryon Number
 ---|---|---|---|---|---
 proton|$p$|$uud$|+1|0|+1
