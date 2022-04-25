@@ -1,6 +1,6 @@
 - [ ] A-Chan
 - [ ] Airani Iofiteen
-- [ ] Akai Haato
+- [x] Akai Haato
 - [x] Aki Rosenthal
 - [ ] Amame Kanata
 - [ ] Anya Melfissa
