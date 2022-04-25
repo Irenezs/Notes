@@ -21,12 +21,7 @@
 11.4 Q2
 	The work function is the minimum energy required to get an electron out of the metal surface.
 11.5 Q1
-	!
-13.4 Q3
-	!
-14.4 Q3
-	!
+	![[11.5 Q1|1000]]
 15.2 Q4
-	!
-15.4 Q2
-	Ex
+	![[15.2 Q4|1000]]15.4 Q2
+	The moment of a couple is the rotational affect of two opposite and equal forces acting some perpendicular distance from each other.
