@@ -16,3 +16,8 @@ Quarks cannot be on their own, due to their fractional properties.
 
 Quark-based particles are called hadrons, which can be broken into two separate groups: mesons, containing a quark and antiquark, and baryons, containing 3 quarks or 3 antiquarks.
 
+# Standard Model of Elementary Particles.
+![[Standard Model.jpg]]
+The strong interaction only interacts with quarks.
+The electromagnetic interaction interacts with quarks and top shelf leptons.
+The weak interaction interacts with every particle except the Higgs boson.
