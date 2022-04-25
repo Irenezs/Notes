@@ -15,9 +15,9 @@
 	$L_e:0+1\to 0+1$ <= Electron lepton number
 	$B:1+0\to 1+0$ <= Baryon Number
 10.4 Q4
-	!
+	![[10.4 Q4|1000]]
 11.1 Q3
-	Ex
+	
 11.4 Q2
 	Ex
 11.5 Q1
