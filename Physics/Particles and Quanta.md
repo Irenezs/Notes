@@ -48,9 +48,19 @@ Force|Range|Relative Strength
 :---|---|---:
 Strong Nuclear|~$10^{-15}$m|$1$
 Weak Nuclear|~$10^{-18}$m|~$10^{-7}$
-Electromagnetic|$\infty$|~$10^{-2}
-Gravitational|\infty m
+Electromagnetic|$\infty$m|~$10^{-2}$
+Gravitational|$\infty$m|~$10^{-36}$
 ## Strong Nuclear Force
+Causes an attractive or repulsive force between quarks (and by extension hadrons)
+
+## Weak Nuclear Force
+Does not cause a physical force, but makes particles decay. The weak means that it is rare.
+
+## Electromagnetic
+Causes an attractive or repulsive force between charges.
+
+## Gravitational
+Causes an attractive force between masses.
 
 
 # The Photoelectric Effect
