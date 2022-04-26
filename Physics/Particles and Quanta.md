@@ -60,4 +60,6 @@ Einstein went on to develop the photoelectric effect, and suggested that each ph
 $$\text{The formula derived for this is: }hf=\phi+E_k$$
 The $\phi$ is the work function of the metal, meaning how much energy is required to remove the electron from the metal.
 
-A key term 
+A key term to learn is the threshold frequency, $f_0$, which is the lowest frequency of photon that can still release an electron. This means the electron will have no kinetic energy. A formula can be found through rearrangement: $$f_0=\frac{\phi}{h}$$
+## Graph
+If we graph kinetic energy against frequency, we get a graph that has a $
