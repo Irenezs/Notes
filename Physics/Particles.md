@@ -50,4 +50,7 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 ## Basics
 When light of high enough energy is incident on a metal plate, it was observed that electrons were released from the surface of the plate. When the intensity of light was increased, the number of electrons emitted increased. If the frequency of light was lowered past some threshold, no electrons were emitted.
 
-When this was discovered, light was believ
+When this was discovered, light was believed to act as a wave. These observations contradicted this model, as if light acted as a wave, increasing the intensity of light should have increased the energy of the light, and the energy of the light should have released the electrons slowly, rather than instantly.
+
+## Photon
+Because of the observations in [[#Basics]], Max Planck had the idea that light could be small packets of energy, which Einstein developed further, giving them the name photons. The energy of a photon was found to be $$$$
