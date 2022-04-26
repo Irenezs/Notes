@@ -62,4 +62,5 @@ The $\phi$ is the work function of the metal, meaning how much energy is require
 
 A key term to learn is the threshold frequency, $f_0$, which is the lowest frequency of photon that can still release an electron. This means the electron will have no kinetic energy. A formula can be found through rearrangement: $$f_0=\frac{\phi}{h}$$
 ## Graph
-If we graph kinetic energy against frequency, we get a graph that has a $
+If we graph kinetic energy against frequency, we get a graph that describes the formula derived in [[#Technical Explanation]], as shown below: $$y=mx+c \Rightarrow E_k=hf-\phi$$
+This shows that 
