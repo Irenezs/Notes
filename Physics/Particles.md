@@ -46,4 +46,6 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
 # Fundamental Forces
-# Th
+# The Photoelectric Effect
+## Basics
+When light of high enough energy is incident on a metal plate, it was observed 
