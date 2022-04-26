@@ -48,4 +48,6 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Fundamental Forces
 # The Photoelectric Effect
 ## Basics
-When light of high enough energy^[1] is incident on a metal plate, it was observed that electrons were released from the surface of the plate. When the intensity of light was increased, the number of electrons emitted increased.
+When light of high enough energy is incident on a metal plate, it was observed that electrons were released from the surface of the plate. When the intensity of light was increased, the number of electrons emitted increased. If the frequency of light was lowered past some threshold, no electrons were emitted.
+
+When this was discovered, light was believ
