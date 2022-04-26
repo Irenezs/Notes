@@ -45,9 +45,11 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Fundamental Forces
 There are 4 fundamental forces, gravity, electromagnetic, strong nuclear, and weak nuclear, which each have different ranges and strengths, shown below:
 Force|Range|Relative Strength
----|---|---
-Strong Nuclear|~$$
-
+:---|---|---:
+Strong Nuclear|~$10^{-15}$m|$1$
+Weak Nuclear|~$10^{-18}$m|~$10^{-7}$
+Electromagnetic|$\infty$|~$10^{-2}
+Gravitational|\infty m
 ## Strong Nuclear Force
 
 
