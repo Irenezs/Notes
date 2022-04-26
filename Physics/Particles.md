@@ -45,6 +45,5 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
-The strong interaction only interacts with quarks.
-The electromagnetic interaction interacts with quarks and top shelf leptons.
-The weak interaction interacts with every particle except the Higgs boson.
+# Fundamental Forces
+# 
