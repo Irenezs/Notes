@@ -5,7 +5,7 @@
 - [x] Physics Exam
 	- [[Physics Exam]]
 - [x] Physics Response
-- [ ] Physics Study Cycle
+- [x] Physics Study Cycle
 	- Work on Particles
 - [x] Physics Kerboodle
 	- 10.1 2-4
