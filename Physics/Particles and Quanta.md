@@ -56,16 +56,16 @@ Gravitational|$\infty$m|~$10^{-36}$
 Virtual Particles, or Exchange Particles, are what carry the force between two particles. This set of particles are called Bosons, some of which are in the image before [[#Quarks]].
 
 ### Strong Nuclear Force
-Causes an attractive or repulsive force between quarks (and by extension hadrons). The bosons related to the strong interaction are the gluon and pion, where the gluon will be used between quarks and the pion between baryons.
+Causes an attractive or repulsive force between quarks (and by extension hadrons). The bosons related to the strong interaction are the gluon, $g$, and pion, $\pi^{\pm/0}$, where the gluon will be used between quarks and the pion between baryons.
 
 ### Weak Nuclear Force
-Does not cause a physical force, but makes particles decay. The weak means that it is rare. The bosons related to the weak interaction are $W^+$,$W^-$, and $Z^0$.
+Does not cause a physical force, but makes particles decay. The weak means that it is rare. The bosons related to the weak interaction are the $W^+$,$W^-$, and $Z^0$ bosons.
 
 ### Electromagnetic
-Causes an attractive or repulsive force between charges.
+Causes an attractive or repulsive force between charges. The boson related to electromagnetism is the virtual photon, $\gamma$. The electromagnetic interaction acts upon charged particles.
 
 ### Gravitational
-Causes an attractive force between masses.
+Causes an attractive force between masses. The boson related to gravitation is the graviton, with no symbol. It acts on particles with mass.
 
 
 # The Photoelectric Effect
