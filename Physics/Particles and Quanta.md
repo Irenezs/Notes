@@ -58,3 +58,4 @@ Because of the observations in [[#Basics]], Max Planck had the idea that light c
 ## Technical Explanation
 Einstein went on to develop the photoelectric effect, and suggested that each photon interacts with a single electron in the metal. The energy of the photon would then be absorbed by the electron, where it uses some to break the bonds keeping it to the metal, then stored the rest as kinetic energy.
 $$\text{The formula derived for this is: }hf=\phi+E_k$$
+The $\phi$ is the work function of the metal, meaning how much energy is required to remove the electron from the metal.
