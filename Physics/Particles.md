@@ -46,4 +46,4 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
 # Fundamental Forces
-# 
+# Th
