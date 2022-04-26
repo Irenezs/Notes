@@ -53,4 +53,8 @@ When light of high enough energy is incident on a metal plate, it was observed t
 When this was discovered, light was believed to act as a wave. These observations contradicted this model, as if light acted as a wave, increasing the intensity of light should have increased the energy of the light, and the energy of the light should have released the electrons slowly, rather than instantly.
 
 ## Photon
-Because of the observations in [[#Basics]], Max Planck had the idea that light could be small packets of energy, which Einstein developed further, giving them the name photons. The energy of a photon was found to be $$$$
+Because of the observations in [[#Basics]], Max Planck had the idea that light could be small packets of energy, which Einstein developed further, giving them the name photons. The energy of a photon was found to be $E=hf$.
+
+## Technical Explanation
+Einstein went on to develop the photoelectric effect, and suggested that each photon interacts with a single electron in the metal. The energy of the photon would then be absorbed by the electron, where it uses some to break the bonds keeping it to the metal, then stored the rest as kinetic energy.
+$$\text{The formula derived for this is: }hf=\phi+E_k$$
