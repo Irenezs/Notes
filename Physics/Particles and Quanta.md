@@ -1,8 +1,8 @@
 # Standard Model of Elementary Particles
-## Smaller Scattering
-In 1968, a group of physicists conducted an experiment to Rutherford's gold foil experiment, but on nucleons, with a beam of electrons. This yielded similar results, such as deflections of varying angles, proving that nucleons were made of something smaller, which came to be known as quarks, currently accepted to be the smallest indivisible particle.
-
+![[Standard Model.jpg]]
 ## Quarks
+### Smaller Scattering
+In 1968, a group of physicists conducted an experiment to Rutherford's gold foil experiment, but on nucleons, with a beam of electrons. This yielded similar results, such as deflections of varying angles, proving that nucleons were made of something smaller, which came to be known as quarks, currently accepted to be the smallest indivisible particle.
 There are 6 different quarks, although this course only cares about 3:
 up: u, down: d, and strange: s. Their properties are below:
 Quark|Charge|Baryon Number|Strangeness
@@ -16,8 +16,8 @@ Quarks cannot be on their own, due to their fractional properties.
 
 Quark-based particles are called [[#Hadrons|hadrons]], which can be broken into two separate groups: [[#Mesons|mesons]], containing a quark and antiquark, and [[#Baryons|baryons]], containing 3 quarks or 3 antiquarks.
 
-# Hadrons
-## Mesons
+## Hadrons
+### Mesons
 - quark / anti-quark pair
 - 8 needed to memorise for the course
 
@@ -32,7 +32,7 @@ Kaon -|$K^-$|$\overline{u}s$|-1|-1
 Kaon 0|$K^0$|$d\overline{s}$|0|+1
 Anti-Kaon 0|$\overline{K}^0$|$\overline{d}s$|0|-1
 
-## Baryons
+### Baryons
 - 3 quarks OR 3 anti-quarks
 - 4 needed to know for course
 
@@ -42,8 +42,6 @@ proton|$p$|$uud$|+1|0|+1
 neutron|$n$|$udd$|0|0|+1
 anti-proton|$\overline{p}$|$\overline{uud}$|-1|0|-1
 anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
-
-![[Standard Model.jpg]]
 # Fundamental Forces
 
 # The Photoelectric Effect
