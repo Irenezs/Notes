@@ -55,7 +55,7 @@ Gravitational|$\infty$m|~$10^{-36}$
 ### Exchange Particles
 Virtual Particles, or Exchange Particles, are what carry the force between two particles. This set of particles are called Bosons, some of which are in the image before [[#Quarks]].
 
-These particles are made from energy that shouldn't exist, which is shockingly possible. This is able to be done because of the Heisenberg Uncertanty Pronciple, which establishes that a particle of mass-energy $\Delta E$ _can_ exist for time $\Delta t$, as long as $\Delta E.\Delta t \leq 
+These particles are made from energy that shouldn't exist, which is shockingly possible. This is able to be done because of the Heisenberg Uncertainty Principle, which establishes that a particle of mass-energy $\Delta E$ _can_ exist for time $\Delta t$, as long as $\Delta E\times\Delta t \leq h$.
 
 ### Strong Nuclear Force
 Causes an attractive or repulsive force between quarks (and by extension hadrons). The bosons related to the strong interaction are the gluon, $g$, and pion, $\pi^{\pm/0}$, where the gluon will be used between quarks and the pion between baryons. The strong interaction acts upon nucleons.
