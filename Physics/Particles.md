@@ -48,4 +48,4 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Fundamental Forces
 # The Photoelectric Effect
 ## Basics
-When light of high enough energy is incident on a metal plate, it was observed 
+When light of high enough energy is incident on a metal plate, it was observed that electrons were rel
