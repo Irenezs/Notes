@@ -1,4 +1,4 @@
-# Quarks
+# Standard Model of Elementary Particles
 ## Smaller Scattering
 In 1968, a group of physicists conducted an experiment to Rutherford's gold foil experiment, but on nucleons, with a beam of electrons. This yielded similar results, such as deflections of varying angles, proving that nucleons were made of something smaller, which came to be known as quarks, currently accepted to be the smallest indivisible particle.
 
@@ -43,9 +43,9 @@ neutron|$n$|$udd$|0|0|+1
 anti-proton|$\overline{p}$|$\overline{uud}$|-1|0|-1
 anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 
-# Standard Model of Elementary Particles.
 ![[Standard Model.jpg]]
 # Fundamental Forces
+
 # The Photoelectric Effect
 ## Basics
 When light of high enough energy is incident on a metal plate, it was observed that electrons were released from the surface of the plate. When the intensity of light was increased, the number of electrons emitted increased. If the frequency of light was lowered past some threshold, no electrons were emitted.
@@ -65,5 +65,5 @@ A key term to learn is the threshold frequency, $f_0$, which is the lowest frequ
 If we graph kinetic energy against frequency, we get a graph that describes the formula derived in [[#Technical Explanation]], as shown below: $$y=mx+c \Rightarrow E_k=hf-\phi$$
 When plotted, this graph will have a gradient of Planck's constant, and if extrapolated below 0, a y-intercept of the work function: ![[Photoelectric Graph.png|500]]
 
-# Wave-Particle Duality
+
 
