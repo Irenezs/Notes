@@ -1,4 +1,4 @@
-# Standard Model of Elementary Particles
+# Standard Model of Particle Physics
 ![[Standard Model.jpg]]
 ## Quarks
 ### Smaller Scattering
@@ -42,24 +42,29 @@ proton|$p$|$uud$|+1|0|+1
 neutron|$n$|$udd$|0|0|+1
 anti-proton|$\overline{p}$|$\overline{uud}$|-1|0|-1
 anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
-# Fundamental Forces
+## Leptons
+- TODO
+## Fundamental Forces
 There are 4 fundamental forces, gravity, electromagnetic, strong nuclear, and weak nuclear, which each have different ranges and strengths, shown below:
 Force|Range|Relative Strength
-:---|---|---:
+---|---|---
 Strong Nuclear|~$10^{-15}$m|$1$
 Weak Nuclear|~$10^{-18}$m|~$10^{-7}$
 Electromagnetic|$\infty$m|~$10^{-2}$
 Gravitational|$\infty$m|~$10^{-36}$
-## Strong Nuclear Force
+### Exchange Particles
+Virtual Particles, or Exchange Particles, are what carry the force between two particles.
+
+### Strong Nuclear Force
 Causes an attractive or repulsive force between quarks (and by extension hadrons)
 
-## Weak Nuclear Force
+### Weak Nuclear Force
 Does not cause a physical force, but makes particles decay. The weak means that it is rare.
 
-## Electromagnetic
+### Electromagnetic
 Causes an attractive or repulsive force between charges.
 
-## Gravitational
+### Gravitational
 Causes an attractive force between masses.
 
 
