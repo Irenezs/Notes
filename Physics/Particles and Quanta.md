@@ -43,6 +43,13 @@ neutron|$n$|$udd$|0|0|+1
 anti-proton|$\overline{p}$|$\overline{uud}$|-1|0|-1
 anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 # Fundamental Forces
+There are 4 fundamental forces, gravity, electromagnetic, strong nuclear, and weak nuclear, which each have different ranges and strengths, shown below:
+Force|Range|Relative Strength
+---|---|---
+Strong Nuclear|~$$
+
+## Strong Nuclear Force
+
 
 # The Photoelectric Effect
 ## Basics
