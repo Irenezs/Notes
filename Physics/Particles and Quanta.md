@@ -47,19 +47,19 @@ anti-neutron|$\overline{n}$|$\overline{udd}$|0|0|-1
 ## Fundamental Forces
 There are 4 fundamental forces, gravity, electromagnetic, strong nuclear, and weak nuclear, which each have different ranges and strengths, shown below:
 Force|Range|Relative Strength
----|---|---
+:---|:---:|---:
 Strong Nuclear|~$10^{-15}$m|$1$
 Weak Nuclear|~$10^{-18}$m|~$10^{-7}$
 Electromagnetic|$\infty$m|~$10^{-2}$
 Gravitational|$\infty$m|~$10^{-36}$
 ### Exchange Particles
-Virtual Particles, or Exchange Particles, are what carry the force between two particles.
+Virtual Particles, or Exchange Particles, are what carry the force between two particles. This set of particles are called Bosons, some of which are in the image before [[#Quarks]].
 
 ### Strong Nuclear Force
-Causes an attractive or repulsive force between quarks (and by extension hadrons)
+Causes an attractive or repulsive force between quarks (and by extension hadrons). The bosons related to the strong interaction are the gluon and pion, where the gluon will be used between quarks and the pion between baryons.
 
 ### Weak Nuclear Force
-Does not cause a physical force, but makes particles decay. The weak means that it is rare.
+Does not cause a physical force, but makes particles decay. The weak means that it is rare. The bosons related to the weak interaction are $W^+$,$W^-$, and $Z^0$.
 
 ### Electromagnetic
 Causes an attractive or repulsive force between charges.
