@@ -1,5 +1,5 @@
 # Resolving Forces
-![[Resolving Example.drawio.png]]
+![[Resolving Example.png]]
 # Friction
 Friction acts to oppose motion on rough surfaces.
 The formula for friction is as follows: $$F_r\le \mu R$$
