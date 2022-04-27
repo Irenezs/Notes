@@ -2,13 +2,13 @@
 - [ ] Airani Iofiteen
 - [x] Akai Haato
 - [x] Aki Rosenthal
-- [ ] Amame Kanata
+- [x] Amame Kanata
 - [ ] Anya Melfissa
 - [x] Artia
-- [ ] Ayunda Risu
+- [x] Ayunda Risu
 - [ ] Bibi
 - [ ] Bloop
-- [ ] Boros
+- [x] Boros
 - [ ] Bubba
 - [x] Ceres Fauna
 - [x] Civia
@@ -16,8 +16,8 @@
 -15
 - [x] Doris
 - [ ] Ebifrion
-- [ ] EnMa
-- [ ] Friend
+- [x] EnMa
+- [x] Friend
 - [ ] Gawr Gura -Alex
 - [x] Hakos Baelz
 - [x] Hakui Koyori
@@ -69,7 +69,7 @@
 - [x] Shishiro Botan
 - [ ] Spade Echo
 - [ ] Takanashi Kiara
-- [ ] Takane Lui
+- [x] Takane Lui
 - [ ] Tokino Sora
 - [x] Tokoyami Towa
 - [x] Tsukumo Sana
@@ -79,7 +79,7 @@
 - [x] Usada Pekora
 -75
 - [ ] Vestia Zeta
-- [ ] AZKi
+- [x] AZKi
 - [ ] Watson Amelia
 - [ ] Yatagarasu
 - [ ] Yogiri
@@ -88,8 +88,3 @@
 - [x] Yuzuki Choco
 -83
 
-# For Alex
-- ~~Jesus Christ
-- ~~Robbie Rotten
-- ~~Adolf Hitler
-- Big Chungus
