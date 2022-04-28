@@ -60,7 +60,7 @@
 - [ ] Pavolia Reine
 - [x] Roboco-san
 - [ ] Rosalyn
-- [ ] Sakamata Chloe
+- [x] Sakamata Chloe
 -60
 - [ ] Sakura Miko
 - [x] Shirakami Fubuki
