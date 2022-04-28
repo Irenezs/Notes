@@ -1,5 +1,5 @@
 - [ ] A-Chan
-- [ ] Airani Iofiteen - Backlog
+- [x] Airani Iofiteen
 - [x] Akai Haato
 - [x] Aki Rosenthal
 - [x] Amame Kanata
