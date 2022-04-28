@@ -9,3 +9,5 @@ Friction will only give as much force as is necessary to oppose motion until it 
 # Slopes
 When dealing with objects on slopes, it is important to resolve all forces parallel and perpendicular to the slope, as to make it so much easier.
 
+On a slope, gravity is $mg\sin\alpha$ $\parallel$ to the slope and $mg\cos\alpha$ $\perp$ to the slope.
+
