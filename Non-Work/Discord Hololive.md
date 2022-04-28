@@ -63,7 +63,7 @@
 - [ ] Sakamata Chloe
 -60
 - [ ] Sakura Miko
-- [ ] Shirakami Fubuki - Backlog
+- [x] Shirakami Fubuki
 - [x] Shiranui Flare
 - [x] Shirogame Noel
 - [x] Shishiro Botan
