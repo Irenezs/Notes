@@ -52,7 +52,7 @@
 - [x] Nemu
 - [x] Ninomae Ina'nis
 - [ ] Nousagi
-- [ ] Omaru Polka - Backlog
+- [x] Omaru Polka
 - [ ] OmegaAlpha
 - [x] Ookami Mio
 - [x] Oozora Subaru
