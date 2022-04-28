@@ -24,7 +24,7 @@
 - [x] Himemori Luna
 - [ ] Hitomi Chris
 - [ ] Hoshimachi Suisei
-- [ ] Hosoinu
+- [x] Hosoinu
 - [x] Houshou Marine
 - [x] IRyS
 - [ ] Inugami Korone
@@ -34,7 +34,7 @@
 - [ ] Kintsuba
 - [x] Kiryu Coco
 - [ ] Kobo Kanaeru
-- [ ] Kureiji Ollie
+- [x] Kureiji Ollie
 - [ ] La+ Darknesss
 - [x] Mano Aloe
 - [x] Minato Aqua
@@ -70,7 +70,7 @@
 - [ ] Spade Echo
 - [ ] Takanashi Kiara
 - [x] Takane Lui
-- [ ] Tokino Sora
+- [x] Tokino Sora
 - [x] Tokoyami Towa
 - [x] Tsukumo Sana
 - [x] Tsunomaki Watame
@@ -78,7 +78,7 @@
 - [x] Uruha Rushia -Jacob
 - [x] Usada Pekora
 -75
-- [ ] Vestia Zeta
+- [x] Vestia Zeta
 - [x] AZKi
 - [ ] Watson Amelia
 - [ ] Yatagarasu
