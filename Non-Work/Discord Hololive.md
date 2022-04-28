@@ -47,7 +47,7 @@
 - [x] Nanashi Mumei
 -45
 - [x] Natsuiro Matsuri
-- [ ] Nekko
+- [x] Nekko
 - [x] Nekomata Okayu
 - [x] Nemu
 - [x] Ninomae Ina'nis
