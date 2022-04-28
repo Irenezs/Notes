@@ -56,7 +56,7 @@
 - [ ] OmegaAlpha
 - [x] Ookami Mio
 - [x] Oozora Subaru
-- [ ] Ouro Kronii
+- [x] Ouro Kronii
 - [ ] Pavolia Reine
 - [x] Roboco-san
 - [ ] Rosalyn
