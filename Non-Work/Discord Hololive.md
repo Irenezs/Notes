@@ -52,7 +52,7 @@
 - [x] Nemu
 - [x] Ninomae Ina'nis
 - [ ] Nousagi
-- [ ] Omaru Polka - Bac
+- [ ] Omaru Polka - Backlog
 - [ ] OmegaAlpha
 - [x] Ookami Mio
 - [x] Oozora Subaru
@@ -63,7 +63,7 @@
 - [ ] Sakamata Chloe
 -60
 - [ ] Sakura Miko
-- [ ] Shirakami Fubuki
+- [ ] Shirakami Fubuki - Backlog
 - [x] Shiranui Flare
 - [x] Shirogame Noel
 - [x] Shishiro Botan
