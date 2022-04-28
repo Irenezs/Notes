@@ -1,5 +1,5 @@
 - [ ] A-Chan
-- [ ] Airani Iofiteen
+- [ ] Airani Iofiteen - Backlog
 - [x] Akai Haato
 - [x] Aki Rosenthal
 - [x] Amame Kanata
@@ -44,7 +44,7 @@
 - [ ] Mr. Squeaks
 - [ ] Murasaki Shion
 - [ ] Nakiri Ayame
-- [ ] Nanashi Mumei
+- [x] Nanashi Mumei
 -45
 - [x] Natsuiro Matsuri
 - [ ] Nekko
@@ -55,7 +55,7 @@
 - [ ] Omaru Polka
 - [ ] OmegaAlpha
 - [x] Ookami Mio
-- [ ] Oozora Subaru
+- [x] Oozora Subaru
 - [ ] Ouro Kronii
 - [ ] Pavolia Reine
 - [x] Roboco-san
