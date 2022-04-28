@@ -28,7 +28,7 @@
 - [x] Houshou Marine
 - [x] IRyS
 - [ ] Inugami Korone
-- [ ] Kaela Kovalskia
+- [x] Kaela Kovalskia
 -30
 - [x] Kazama Iroha
 - [ ] Kintsuba
