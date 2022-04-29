@@ -6,16 +6,16 @@
 - [ ] Anya Melfissa
 - [x] Artia
 - [x] Ayunda Risu
-- [ ] Bibi
-- [ ] Bloop
+- [ ] Bibi ?
+- [ ] Bloop M
 - [x] Boros
-- [ ] Bubba
+- [ ] Bubba M
 - [x] Ceres Fauna
 - [x] Civia
-- [ ] Daifuku
+- [ ] Daifuku ?
 -15
 - [x] Doris
-- [ ] Ebifrion
+- [ ] Ebifrion M
 - [x] EnMa
 - [x] Friend
 - [ ] Gawr Gura -Alex
@@ -41,7 +41,7 @@
 - [ ] Momosuzu Nene
 - [x] Moona Hoshinova
 - [x] Mori Calliope
-- [ ] Mr. Squeaks
+- [ ] Mr.Squeaks  M
 - [ ] Murasaki Shion
 - [x] Nakiri Ayame
 - [x] Nanashi Mumei
@@ -51,9 +51,9 @@
 - [x] Nekomata Okayu
 - [x] Nemu
 - [x] Ninomae Ina'nis
-- [ ] Nousagi
+- [ ] Nousagi ?
 - [x] Omaru Polka
-- [ ] OmegaAlpha
+- [ ] OmegaAlpha ?
 - [x] Ookami Mio
 - [x] Oozora Subaru
 - [x] Ouro Kronii
@@ -74,14 +74,14 @@
 - [x] Tokoyami Towa
 - [x] Tsukumo Sana
 - [x] Tsunomaki Watame
-- [ ] Udin
-- [x] Uruha Rushia -Jacob
+- [ ] Udin ?
+- [ ] Uruha Rushia -Jacob
 - [x] Usada Pekora
 -75
 - [x] Vestia Zeta
 - [x] AZKi
 - [ ] Watson Amelia
-- [ ] Yatagarasu
+- [ ] Yatagarasu ?
 - [ ] Yogiri
 - [x] Yozora Mel
 - [ ] Yukihana Lamy
