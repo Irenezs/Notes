@@ -43,7 +43,7 @@
 - [x] Mori Calliope
 - [ ] Mr. Squeaks
 - [ ] Murasaki Shion
-- [ ] Nakiri Ayame
+- [x] Nakiri Ayame
 - [x] Nanashi Mumei
 -45
 - [x] Natsuiro Matsuri
