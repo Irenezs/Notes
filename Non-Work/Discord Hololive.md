@@ -81,7 +81,7 @@
 - [x] Vestia Zeta
 - [x] AZKi
 - [ ] Watson Amelia
-- [ ] Yatagarasu ?
+- [x] Yatagarasu ?
 - [ ] Yogiri
 - [x] Yozora Mel
 - [ ] Yukihana Lamy
