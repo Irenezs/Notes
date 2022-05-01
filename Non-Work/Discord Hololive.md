@@ -1,9 +1,14 @@
+- Watson Amelia
+- La+ Darknesss
+
+
+
 - [ ] A-Chan
 - [x] Airani Iofiteen
 - [x] Akai Haato
 - [x] Aki Rosenthal
 - [x] Amame Kanata
-- [ ] Anya Melfissa
+- [x] Anya Melfissa
 - [x] Artia
 - [x] Ayunda Risu
 - [ ] Bibi ?
