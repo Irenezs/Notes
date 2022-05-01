@@ -18,3 +18,6 @@
 - Naomi
 - Ayumi Yamagou
 - Wallaby
+- Assam
+- Alina
+- 
