@@ -17,4 +17,3 @@
 - Hamada
 - Naomi
 - Ayumi Yamagou
-- 
