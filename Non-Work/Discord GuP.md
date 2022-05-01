@@ -1,5 +1,4 @@
  30.4.22
-- Akebi Sasaki
 - Shinobu Kawanishi
 - Nagura
 - Taiga Ou
@@ -20,4 +19,9 @@
 - Wallaby
 - Assam
 - Alina
+- Hisako Reizei
+- Tsuchiya
+- Hibiki Inatomi
+- Karina Sakaguchi
+- Oryou
 - 
