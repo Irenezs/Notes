@@ -1,5 +1,3 @@
-28.4.22
-- Rum
 30.4.22
 - Akebi Sasaki
 - Shinobu Kawanishi
@@ -15,4 +13,8 @@
 - Nina
 1.5.22
 - Jajka
+- Ikeda
+- Hamada
+- Naomi
+- Ayumi Yamagou
 - 
