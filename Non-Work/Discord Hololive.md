@@ -1,6 +1,6 @@
-- Watson Amelia
 - La+ Darknesss
-
+- Kinsuba
+- Yukihana Lamy
 
 
 - [ ] A-Chan
@@ -85,7 +85,7 @@
 -75
 - [x] Vestia Zeta
 - [x] AZKi
-- [ ] Watson Amelia
+- [x] Watson Amelia
 - [x] Yatagarasu ?
 - [ ] Yogiri
 - [x] Yozora Mel
