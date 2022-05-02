@@ -20,3 +20,9 @@ Nexusmods|irenezsloynes@gmail.com|Astolfo;luck;cutie2
 git|irenezsloynes@gmail.com|Roll;hats;nutty3
 JustEat|irenezsloynes@gmail.com|Mat1hewl
 A03|Irenezs|Earth;lonely;home2
+Disney+|loza98@hotmail.co.uk|Lauren98
+Iwara|Irenezs|Mat1hewl
+Emlalock|Irenezs|Mat1hewl
+Netflix|samloynes73@gmail.com|Mat1hewl
+Steam|Matthewzs1|Mat1hewl
+Faproulette|Irenezs|Mat1hewl
