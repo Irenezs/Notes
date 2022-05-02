@@ -19,7 +19,7 @@
 - [ ] Ebifrion M
 - [x] EnMa
 - [x] Friend
-- [ ] Gawr Gura -Alex
+- [x] Gawr Gura
 - [x] Hakos Baelz
 - [x] Hakui Koyori
 - [x] Himemori Luna
