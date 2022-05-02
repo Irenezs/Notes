@@ -12,4 +12,11 @@ Google|irenezsloynes@gmail.com|Word;lmao;sex1
 Microsoft|matthewzsloynes@gmail.com|Word;lmao;sex1
 Newgrounds|Irenezs|Kono;kaguya;iino8
 Twitch|Irenezs1|Dust;maid;queue
-Twillio Authy|
+Twillio Authy|07465211253|abvt4edsdeF
+Discord|Irenezs#0404|Red;homely;studio4
+Discord|Irenezs#7381|Row;long;bear5
+mail.com|irenezsloynes@mail.com|Row;long;bear5
+Nexusmods|irenezsloynes@gmail.com|Astolfo;luck;cutie2
+git|irenezsloynes@gmail.com|Roll;hats;nutty3
+JustEat|irenezsloynes@gmail.com|Mat1hewl
+A03|Irenezs|Earth;lonely;home2
