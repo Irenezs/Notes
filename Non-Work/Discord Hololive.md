@@ -1,5 +1,3 @@
-- Yukihana Lamy
-
 
 - [ ] A-Chan
 - [x] Airani Iofiteen
@@ -87,7 +85,7 @@
 - [x] Yatagarasu ?
 - [ ] Yogiri
 - [x] Yozora Mel
-- [ ] Yukihana Lamy
+- [x] Yukihana Lamy
 - [x] Yuzuki Choco
 - 83
 
