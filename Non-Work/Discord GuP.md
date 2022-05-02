@@ -24,4 +24,6 @@
 - Hibiki Inatomi
 - Karina Sakaguchi
 - Oryou
+2.5.22
+- Emi Nakasuga
 - 
