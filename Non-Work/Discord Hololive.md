@@ -1,4 +1,3 @@
-- Kinsuba
 - Yukihana Lamy
 
 
@@ -17,7 +16,7 @@
 - [x] Ceres Fauna
 - [x] Civia
 - [ ] Daifuku ?
--15
+- 15
 - [x] Doris
 - [ ] Ebifrion M
 - [x] EnMa
@@ -33,9 +32,9 @@
 - [x] IRyS
 - [ ] Inugami Korone
 - [x] Kaela Kovalskia
--30
+- 30
 - [x] Kazama Iroha
-- [ ] Kintsuba
+- [x] Kintsuba
 - [x] Kiryu Coco
 - [ ] Kobo Kanaeru
 - [x] Kureiji Ollie
@@ -49,7 +48,7 @@
 - [ ] Murasaki Shion
 - [x] Nakiri Ayame
 - [x] Nanashi Mumei
--45
+- 45
 - [x] Natsuiro Matsuri
 - [x] Nekko
 - [x] Nekomata Okayu
@@ -65,7 +64,7 @@
 - [x] Roboco-san
 - [ ] Rosalyn
 - [x] Sakamata Chloe
--60
+- 60
 - [ ] Sakura Miko
 - [x] Shirakami Fubuki
 - [x] Shiranui Flare
@@ -81,7 +80,7 @@
 - [ ] Udin ?
 - [ ] Uruha Rushia -Jacob
 - [x] Usada Pekora
--75
+- 75
 - [x] Vestia Zeta
 - [x] AZKi
 - [x] Watson Amelia
@@ -90,5 +89,5 @@
 - [x] Yozora Mel
 - [ ] Yukihana Lamy
 - [x] Yuzuki Choco
--83
+- 83
 
