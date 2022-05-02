@@ -1,4 +1,3 @@
-- La+ Darknesss
 - Kinsuba
 - Yukihana Lamy
 
@@ -40,7 +39,7 @@
 - [x] Kiryu Coco
 - [ ] Kobo Kanaeru
 - [x] Kureiji Ollie
-- [ ] La+ Darknesss
+- [x] La+ Darknesss
 - [x] Mano Aloe
 - [x] Minato Aqua
 - [ ] Momosuzu Nene
