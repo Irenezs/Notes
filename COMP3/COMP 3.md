@@ -8,3 +8,6 @@
 
 ![[UI Account Screen.svg]]
 ![[UI Nothing Screen.svg]]
+# Interviews
+## Casual Player
+For 
