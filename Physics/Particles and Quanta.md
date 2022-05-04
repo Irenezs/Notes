@@ -1,4 +1,4 @@
-o# Standard Model of Particle Physics
+# Standard Model of Particle Physics
 ![[Standard Model.jpg]]
 ## Quarks
 ### Smaller Scattering
