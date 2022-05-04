@@ -1,9 +1,8 @@
-  # TODO 
-
+# TODO 
+- Interviews
 - Ability to create and modify servers
 - Join servers
 - Create exampleGame, could just be debug
-- ~~make start on UI~~ 
 
 # UI
 
