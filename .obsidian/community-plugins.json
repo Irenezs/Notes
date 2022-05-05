@@ -1,11 +1,10 @@
 [
   "sliding-panes-obsidian",
   "drawio-obsidian",
-  "obsidian-annotator",
-  "buttons",
   "obsidian-mind-map",
   "periodic-notes",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "table-editor-obsidian"
 ]

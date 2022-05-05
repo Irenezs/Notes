@@ -1,6 +1,6 @@
 {
-  "commitMessage": "laptop backup: {{date}}",
-  "autoCommitMessage": "laptop backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPullInterval": 0,
