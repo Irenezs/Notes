@@ -43,7 +43,7 @@
 - [x] Moona Hoshinova
 - [x] Mori Calliope
 - [ ] Mr.Squeaks  M
-- [ ] Murasaki Shion
+- [x] Murasaki Shion
 - [x] Nakiri Ayame
 - [x] Nanashi Mumei
 - 45
