@@ -40,7 +40,9 @@
 - Took skin and eyes from mother, dark-skinned and teal eyes
 - a set of ears that are semi-elvish
 - striking white hair taken from father
-- Traits: 
+- Traits: Can beat everyone in hometown at archery, except his mother; doesnt like talking about the large collection of wins
+- Ideals: he cannot ever initiate a fight with someone without very good reason
+- Bonds
 # Background
 - Dad (elf) left mother (human) at birth
 - mother taught Aust archery and how to be one with nature
