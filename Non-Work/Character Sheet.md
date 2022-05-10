@@ -27,4 +27,8 @@
 	- explorers pack
 	- longbow + quiver + 20 arrows W=[2,1,20x0.05]
 - Favoured enemy: undead
-- Favoured Terrain: F
+- Favoured Terrain: Forest
+
+
+# Background
+- Ded (elf) left mother (human) at birth
