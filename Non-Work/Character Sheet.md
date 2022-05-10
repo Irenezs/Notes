@@ -28,6 +28,9 @@
 	- longbow + quiver + 20 arrows W=[2,1,20x0.05]
 - Favoured enemy: undead
 - Favoured Terrain: Forest
+- Archery: +2 to attack rolls
+- Spellcasting
+	- 
 
 
 # Background
