@@ -31,5 +31,8 @@
 
 
 # Background
-- Ded (elf) left mother (human) at birth
+- Dad (elf) left mother (human) at birth
+- mother taught Aust archery and how to be one with nature
+- mother taught Aust to be nice to animals and such
+- began adventuring to try and find his dad
 - 
