@@ -23,4 +23,8 @@
 - Skills: Animal Handling, Investigation, Stealth
 - Equipment
 	- leather armour: AC=11, W=10
-	- 
+	- 2x shortsword
+	- explorers pack
+	- longbow + quiver + 20 arrows W=[2,1,20x0.05]
+- Favoured enemy: undead
+- Favoured Terrain: F
