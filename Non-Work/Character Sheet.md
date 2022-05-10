@@ -40,7 +40,7 @@
 - Took skin and eyes from mother, dark-skinned and teal eyes
 - a set of ears that are semi-elvish
 - striking white hair taken from father
-- Traits: Can find common ground with
+- Traits: Can find common ground with just about anyone, Easy to pocket stuff from a hunter background
 - Ideals: he cannot ever initiate a fight with someone without very good reason
 - Bonds: to his mother and hometown, including the forest around it
 - Flaw: his heritage is a soft spot after a close shave with his mother and a wild beast
