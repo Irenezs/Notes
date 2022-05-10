@@ -40,7 +40,7 @@
 - Took skin and eyes from mother, dark-skinned and teal eyes
 - a set of ears that are semi-elvish
 - striking white hair taken from father
-- Traits: Can beat everyone in hometown at archery, except his mother; doesnt like talking about the large collection of wins
+- Traits: Can find common ground with
 - Ideals: he cannot ever initiate a fight with someone without very good reason
 - Bonds: to his mother and hometown, including the forest around it
 - Flaw: his heritage is a soft spot after a close shave with his mother and a wild beast
