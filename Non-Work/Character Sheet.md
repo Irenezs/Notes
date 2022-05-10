@@ -2,7 +2,7 @@
 - Half-Elf
 - Aust Naïlo
 - CHA +2, ??? +1, ??? +1
-- Chaotic Neutral
+- Neutral Good
 - Age 36
 - Size: Medium; 5'5"
 - Speed: 30
@@ -17,4 +17,10 @@
 - Hitpoints at 1st level: 10 + constitution mod
 - Hit points after: 1d10 (or 6) + con mod per level after 1st
 - Armour: light + medium armour, shields
-- 
+- Weapons: simple weapons, martial weapons
+- Tools: none
+- Saving throws: STR, DEX
+- Skills: Animal Handling, Investigation, Stealth
+- Equipment
+	- leather armour: AC=11, W=10
+	- 
