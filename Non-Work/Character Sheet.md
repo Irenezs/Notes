@@ -2,8 +2,8 @@
 - Half-Elf
 - Aust Naïlo
 - CHA +2, ??? +1, ??? +1
-- Neutral Good
-- Age 36
+- Chaotic Good
+- Age 42
 - Size: Medium; 5'9", 120lb
 - Speed: 30
 - Darkvision: dim light 60 feet, darkness as dim, cannot discern colour in darkness
@@ -40,10 +40,15 @@
 - Took skin and eyes from mother, dark-skinned and teal eyes
 - a set of ears that are semi-elvish
 - striking white hair taken from father
-- Traits: Can find common ground with just about anyone, Easy to pocket stuff from a hunter background
-- Ideals: he cannot ever initiate a fight with someone without very good reason
-- Bonds: to his mother and hometown, including the forest around it
-- Flaw: his heritage is a soft spot after a close shave with his mother and a wild beast
+## Background
+Charletain
+- Deception, sleight of hand
+- tool prof: disguise kit, forgery kit
+- equipment:
+	- Set of fine clothes
+	- disguise kit
+	- signet ring of imaginary duke
+	- belt pouch containing 15gp
 # Background
 - Dad (elf) left mother (human) at birth
 - mother taught Aust archery and how to be one with nature
