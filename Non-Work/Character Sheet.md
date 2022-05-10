@@ -4,3 +4,10 @@
 - CHA +2, ??? +1, ??? +1
 - Chaotic Neutral
 - Age 36
+- Size: Medium; 5'5"
+- Speed: 30
+- Darkvision: dim light 60 feet, darkness as dim, cannot discern colour in darkness
+- Advantage on saving throws for being charmed, and cannot be magiced to sleep
+- gain proficiency in two skills of your choice
+- Languages: Common, Elvish, ???
+- 
