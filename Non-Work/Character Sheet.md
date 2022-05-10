@@ -30,7 +30,9 @@
 - Favoured Terrain: Forest
 - Archery: +2 to attack rolls
 - Spellcasting
-	- 
+	- spell dave DC: 8+prof bonus + WIS mod
+	- spell attack mod: prof bonus+WOS mod
+	- Hunter: Horde
 
 
 # Background
