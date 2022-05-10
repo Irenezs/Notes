@@ -9,7 +9,7 @@
 - Darkvision: dim light 60 feet, darkness as dim, cannot discern colour in darkness
 - Advantage on saving throws for being charmed, and cannot be magiced to sleep
 - gain proficiency in two skills of your choice
-- Languages: Common, Elvish, ???
+- Languages: Common, Elvish, Dwarvish
 
 # Class 
 - Ranger
@@ -34,16 +34,15 @@
 	- spell attack mod: prof bonus+WOS mod
 	- 3 spells known, 3 1st lvl slots
 - primeval awareness: uses an action and one spell slot to sense if aberrations, celestials, dragons, elementals, fey, fiends, and undead if they are within 1 mile (or 6 in favoured terrain)
-- 
-
-
 - Hunter: Horde Breaker: Once per turn when making a weapon attack you can make another on another creature using the same weapon if the creature is within 5ft. 
 
 # Description
-- Took skin and eyes from mother, 
+- Took skin and eyes from mother, dark-skinned and teal eyes
+- a set of ears that are semi-elvish
+- striking white hair taken from father
+- Traits: 
 # Background
 - Dad (elf) left mother (human) at birth
 - mother taught Aust archery and how to be one with nature
 - mother taught Aust to be nice to animals and such
 - began adventuring to try and find his dad
-- 
