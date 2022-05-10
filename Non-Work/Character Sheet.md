@@ -4,7 +4,7 @@
 - CHA +2, ??? +1, ??? +1
 - Neutral Good
 - Age 36
-- Size: Medium; 5'5"
+- Size: Medium; 5'9", 120lb
 - Speed: 30
 - Darkvision: dim light 60 feet, darkness as dim, cannot discern colour in darkness
 - Advantage on saving throws for being charmed, and cannot be magiced to sleep
