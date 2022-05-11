@@ -42,7 +42,7 @@
 - a set of ears that are semi-elvish
 - striking white hair taken from father
 ## Background
-Charletain
+Charlatan
 - Deception, sleight of hand
 - tool prof: disguise kit, forgery kit
 - equipment:
@@ -52,7 +52,7 @@ Charletain
 	- belt pouch containing 15gp
 - Scam of choice: put on identities like clothes
 - Feature: false identity: has a false identity with proper documents and connections that can be used very quickly, also can forge official documents
-- Personality traits: Pockets anything that may be of value, flattery is my preffered trick for manipulation
+- Personality traits: Pockets anything that may be of value, flattery is my preferred trick for manipulation
 - Ideals: Charity; distributes the money gained by sleights to those in need
 - Bond: owes everything to mentors; dad who taught him everything he knows about the con
 - Flaw: Cannot resist swindling people if the challenge is there
