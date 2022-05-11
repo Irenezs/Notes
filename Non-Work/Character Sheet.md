@@ -49,6 +49,10 @@ Charletain
 	- disguise kit
 	- signet ring of imaginary duke
 	- belt pouch containing 15gp
+- Scam of choice: put on identities like clothes
+- Feature: false identity: has a false identity with proper documents and connections that can be used very quickly, also can forge official documents
+- Personality traits: Pockets anything that may be of value, flattery is my preffered trick for manipulation
+- Ideals: 
 # Background
 - Dad (elf) left mother (human) at birth
 - mother taught Aust archery and how to be one with nature
