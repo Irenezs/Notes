@@ -52,9 +52,9 @@ Charletain
 - Scam of choice: put on identities like clothes
 - Feature: false identity: has a false identity with proper documents and connections that can be used very quickly, also can forge official documents
 - Personality traits: Pockets anything that may be of value, flattery is my preffered trick for manipulation
-- Ideals: 
+- Ideals: Charity; distributes the money gained by sleights to those in need
+- Bond: owes everything to mentors; dad and mom who taught him everything he knows
+- Flaw: Cannot resist swindling people if the challenge is there
 # Background
-- Dad (elf) left mother (human) at birth
-- mother taught Aust archery and how to be one with nature
-- mother taught Aust to be nice to animals and such
-- began adventuring to try and find his dad
+- dad taught the art of the con, mother taught the art of archery
+- 
