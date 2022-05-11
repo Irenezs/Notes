@@ -53,8 +53,13 @@ Charletain
 - Feature: false identity: has a false identity with proper documents and connections that can be used very quickly, also can forge official documents
 - Personality traits: Pockets anything that may be of value, flattery is my preffered trick for manipulation
 - Ideals: Charity; distributes the money gained by sleights to those in need
-- Bond: owes everything to mentors; dad and mom who taught him everything he knows
+- Bond: owes everything to mentors; dad who taught him everything he knows about the con
 - Flaw: Cannot resist swindling people if the challenge is there
 # Background
 - dad taught the art of the con, mother taught the art of archery
-- dad got caught
+- has friendly competition with parents over these skills
+- dad got caught as aust is 38, trying to steal a great wealth
+- mother cannot deal with it, ostracises aust for being a con like father
+- became a wanderer, using his skills to commit many confidence schemes throughout the land.
+- He is trying to do the same swindle as his father, as if to finally beat his father
+- 
