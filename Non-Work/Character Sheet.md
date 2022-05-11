@@ -57,4 +57,4 @@ Charletain
 - Flaw: Cannot resist swindling people if the challenge is there
 # Background
 - dad taught the art of the con, mother taught the art of archery
-- 
+- dad got caught
