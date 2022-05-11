@@ -6,7 +6,7 @@
 - Age 42
 - Size: Medium; 5'9", 120lb
 - Speed: 30
-- initial wealth: 5d4 x 10 g
+- initial wealth: 5d4 x 10 gp
 - Darkvision: dim light 60 feet, darkness as dim, cannot discern colour in darkness
 - Advantage on saving throws for being charmed, and cannot be magiced to sleep
 - gain proficiency in two skills of your choice
@@ -23,7 +23,7 @@
 - Saving throws: STR, DEX
 - Skills: Animal Handling, Investigation, Stealth
 - Equipment
-	- leather armour: AC=11, W=10
+	- leather armour: AC=11+DEX mod, W=10
 	- 2x shortsword
 	- explorers pack
 	- longbow + quiver + 20 arrows W=[2,1,20x0.05]
