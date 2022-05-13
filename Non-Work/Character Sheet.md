@@ -26,14 +26,14 @@
 	- leather armour: AC=11+DEX mod, W=10
 	- 2x shortsword 1d6 piercing W=2x2, finesse, light
 	- explorers pack W=59
-		- backpack W=5
+		- backpack W=5 - 30lb of gear* can strap items to outside
 		- bedroll W=7
 		- mess kit W=1
 		- tinderbox W=1
 		- torches x10 W=1x10
 		- rations x10 W=2x10
-		- waterskin W=5
-		- 50 ft hempen rope
+		- waterskin W=5 4pnt of liquid
+		- 50 ft hempen rope W=10
 	- longbow 1d8 piercing W=2, Ammo (150/600), heavy, two-handed
 	- quiver + 20 arrows W=[1,20x0.05]
 - Favoured enemy: undead
@@ -56,7 +56,7 @@ Charlatan
 - tool prof: disguise kit, forgery kit
 - equipment:
 	- Set of fine clothes
-	- disguise kit
+	- disguise kit W=3
 	- signet ring of imaginary duke
 	- belt pouch containing 15gp
 - Scam of choice: put on identities like clothes
