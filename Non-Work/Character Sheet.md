@@ -22,10 +22,18 @@
 - Tools: none
 - Saving throws: STR, DEX
 - Skills: Animal Handling, Investigation, Stealth
-- Equipment
+- Equipment 
 	- leather armour: AC=11+DEX mod, W=10
 	- 2x shortsword 1d6 piercing W=2x2, finesse, light
-	- explorers pack
+	- explorers pack W=59
+		- backpack W=5
+		- bedroll W=7
+		- mess kit W=1
+		- tinderbox W=1
+		- torches x10 W=1x10
+		- rations x10 W=2x10
+		- waterskin W=5
+		- 50 ft hempen rope
 	- longbow 1d8 piercing W=2, Ammo (150/600), heavy, two-handed
 	- quiver + 20 arrows W=[1,20x0.05]
 - Favoured enemy: undead
