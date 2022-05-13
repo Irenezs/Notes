@@ -48,9 +48,7 @@
 - Hunter: Horde Breaker: Once per turn when making a weapon attack you can make another on another creature using the same weapon if the creature is within 5ft. 
 
 # Description
-- Took skin and eyes from mother, dark-skinned and teal eyes
-- a set of ears that are semi-elvish
-- striking white hair taken from father
+- 
 ## Background
 Charlatan
 - Deception, sleight of hand
