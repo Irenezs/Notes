@@ -32,7 +32,7 @@
 - Archery: +2 to attack rolls
 - Spellcasting
 	- spell dave DC: 8+prof bonus + WIS mod
-	- spell attack mod: prof bonus+WOS mod
+	- spell attack mod: prof bonus+ WIS mod
 	- 3 spells known, 3 1st lvl slots
 - primeval awareness: uses an action and one spell slot to sense if aberrations, celestials, dragons, elementals, fey, fiends, and undead if they are within 1 mile (or 6 in favoured terrain)
 - Hunter: Horde Breaker: Once per turn when making a weapon attack you can make another on another creature using the same weapon if the creature is within 5ft. 
