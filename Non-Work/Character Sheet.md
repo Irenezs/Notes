@@ -1,7 +1,7 @@
 # Details + Racial Effects
 - Half-Elf
 - Aust Naïlo
-- CHA +2,  +1,  +1
+- CHA+2,  WIS+1,  DEX+1
 - Chaotic Good
 - Age 42
 - Size: Medium; 5'9", 120lb
