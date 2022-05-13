@@ -83,7 +83,7 @@
 - [x] AZKi
 - [x] Watson Amelia
 - [x] Yatagarasu ?
-- [ ] Yogiri
+- [x] Yogiri
 - [x] Yozora Mel
 - [x] Yukihana Lamy
 - [x] Yuzuki Choco
