@@ -36,7 +36,7 @@
 		- 50 ft hempen rope W=10
 	- longbow 1d8 piercing W=2, Ammo (150/600), heavy, two-handed
 	- quiver + 20 arrows W=[1,20x0.05]
-	- 
+	- Trinket - The deed to a parcel of land in a land unknown to you
 - Favoured enemy: undead
 - Favoured Terrain: Forest
 - Archery: +2 to attack rolls
