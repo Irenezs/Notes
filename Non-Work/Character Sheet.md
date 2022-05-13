@@ -24,9 +24,10 @@
 - Skills: Animal Handling, Investigation, Stealth
 - Equipment
 	- leather armour: AC=11+DEX mod, W=10
-	- 2x shortsword
+	- 2x shortsword 1d6 piercing W=2x2, finesse, light
 	- explorers pack
-	- longbow + quiver + 20 arrows W=[2,1,20x0.05]
+	- longbow 1d8 piercing W=2, Ammo (150/600), heavy, two-handed
+	- quiver + 20 arrows W=[1,20x0.05]
 - Favoured enemy: undead
 - Favoured Terrain: Forest
 - Archery: +2 to attack rolls
