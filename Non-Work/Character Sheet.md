@@ -64,7 +64,7 @@ Charlatan
 - Feature: false identity: has a false identity with proper documents and connections that can be used very quickly, also can forge official documents
 - Personality traits: Pockets anything that may be of value, flattery is my preferred trick for manipulation
 - Ideals: Charity; distributes the money gained by sleights to those in need
-- Bond: owes everything to mentors; dad who taught him everything he knows about the con
+- Bond: owes everything to mentor; dad, currently rotting in a dungeon someplace
 - Flaw: Cannot resist swindling people if the challenge is there
 # Background
 - dad taught the art of the con, mother taught the art of archery
