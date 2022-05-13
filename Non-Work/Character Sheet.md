@@ -21,7 +21,7 @@
 - Weapons: simple weapons, martial weapons
 - Tools: none
 - Saving throws: STR, DEX
-- Skills: Animal Handling, Investigation, Stealth
+- Skills: Animal Handling, Perception, Stealth
 - Equipment 
 	- leather armour: AC=11+DEX mod, W=10
 	- 2x shortsword 1d6 piercing W=2x2, finesse, light
