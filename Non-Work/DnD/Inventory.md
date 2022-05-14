@@ -24,6 +24,11 @@ cp|sp|ep|gp|pp
 - Scam of Choice: Put on identities like clothes
 - Favoured enemy: Undead
 - Favoured terrain: Forest
+
+# Subclass
+- Horizon Walker
+- Spells: Protection from evil and good
+- 
 # Spells
 - 3 1slots
 - Cure Wounds
