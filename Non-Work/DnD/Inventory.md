@@ -39,7 +39,12 @@ cp|sp|ep|gp|pp
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
 # Spells
-- 3 1slots
+Identifier|1st|2nd|3rd|4th|5th
+---|---|---|---|---|---
+Max|3|0|0|0|0
+Current|2|0|0|0|0
+
+
 - Cure Wounds
 	- Comp: V, S
 	- Range: Touch
@@ -86,9 +91,7 @@ cp|sp|ep|gp|pp
 - belt pouch containing 15gp
 
 # Notes
-Affinity with bard
-Tavern owner unusually busy
-the darkness is the bar attendants
+
 
 darkness is shadow wraith
 coals latch onto the lumps in wraith
@@ -103,3 +106,4 @@ girl attacked wizard, wizard says can help her
 potion seller says he sells to gods
 potion seller knows about ability scores
 potion seller thinks of himself as a god
+
