@@ -27,6 +27,7 @@ cp|sp|ep|gp|pp
 - Scam of Choice: Put on identities like clothes
 - Favoured enemy: Undead
 - Favoured terrain: Forest
+- tool proficiencies: disguise kit, forgery kit
 
 # Subclass
 - Horizon Walker
@@ -62,7 +63,7 @@ cp|sp|ep|gp|pp
 	- Range: Touch
 	- Duration: Concentration, up to 10 min
 	- 1 action to cast
-	- until spell ends, one willing creature is protected against aberrations, celestials, elementals, fey, fiends, undead. Protection gives disadvantage on attacke
+	- until spell ends, one willing creature is protected against aberrations, celestials, elementals, fey, fiends, undead. Protection gives disadvantage on attackers rolls, target also can't be charmed, frightened, or possessed. If target was already one of those, target gets advantage on saving rolls against the ailments
 
 # Equipment
 - Leather Armour
@@ -83,3 +84,9 @@ cp|sp|ep|gp|pp
 - disguise kit
 - signet ring of fake duke
 - belt pouch containing 15gp
+
+# Notes
+Affinity with bard
+Tavern owner unusually busy
+
+drunkard daughter taken by darkness
