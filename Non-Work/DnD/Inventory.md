@@ -109,4 +109,4 @@ potion seller thinks of himself as a god
 
 smoke and centipede takes to same dream
 
-when left : 
+where left off: outside potion seller shop
