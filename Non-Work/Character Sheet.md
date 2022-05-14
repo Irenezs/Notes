@@ -54,7 +54,14 @@
 	- Range: Touch
 	- Duration: Instant
 	- 1 action to cast
-	- creature touched 
+	- creature touched gets nd8+spellcasting ability mod, where n is spell slot level used
+- Fog Cloud
+	- Comp: V, S
+	- Range: 120ft
+	- Duration: Concentration, up to 1h
+	- 1 action to cast
+	- create a 20ft radius sphere of fog centred on a point within range, adds 20ft to radius per spell slot used above 1st
+- 
 # Description
 - 
 ## Background
