@@ -48,8 +48,13 @@
 - Hunter: Horde Breaker: Once per turn when making a weapon attack you can make another on another creature using the same weapon if the creature is within 5ft. 
 
 # Spells
-- 3 slots
+- 3 1slots
 - Cure Wounds
+	- Comp: V, S
+	- Range: Touch
+	- Duration: Instant
+	- 1 action to cast
+	- creature touched 
 # Description
 - 
 ## Background
