@@ -88,6 +88,9 @@ cp|sp|ep|gp|pp
 # Notes
 Affinity with bard
 Tavern owner unusually busy
+the darkness is the bar attendants
+
+darkness is shadow wraith
 
 
 drunkard daughter taken by darkness
