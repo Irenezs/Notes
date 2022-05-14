@@ -93,3 +93,7 @@ the darkness is the bar attendants
 darkness is shadow wraith
 coals latch onto the lumps in wraith
 drunkard daughter taken by darkness
+
+girl walking through East woods
+saw worst nightmares that turned into this
+girl attacked wizard, wizard says can help her
