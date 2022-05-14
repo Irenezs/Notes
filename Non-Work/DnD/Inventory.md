@@ -101,3 +101,4 @@ girl attacked wizard, wizard says can help her
 
 
 potion seller says he sells to gods
+potion seller knows about ability scores
