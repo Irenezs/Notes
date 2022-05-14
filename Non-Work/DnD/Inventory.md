@@ -11,7 +11,7 @@ Prof: +2
 # Wallet
 cp|sp|ep|gp|pp
 ---|---|---|---|---
-0|0|0|100|0
+0|0|0|99|0
 
 # Abilities
 - Darkvision: 60ft
