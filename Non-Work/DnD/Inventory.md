@@ -13,7 +13,6 @@ cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|100|0
 
-
 # Abilities
 - Darkvision: 60ft
 - Adv on being charmed
@@ -23,8 +22,8 @@ cp|sp|ep|gp|pp
 # Traits
 - False Identity
 - Scam of Choice: Put on identities like clothes
-- Favoured enemy: undead
-- Favoured terrain: 
+- Favoured enemy: Undead
+- Favoured terrain: Forest
 # Spells
 - 3 1slots
 - Cure Wounds
@@ -45,3 +44,16 @@ cp|sp|ep|gp|pp
 	- Duration: 1 minute
 	- 1 action to cast
 	- creature touched gets triple jump distance
+
+# Equipment
+- Leather Armour
+- Shortsword x2
+- Longbow
+- quiver
+- arrow x20
+- Explorers Pack
+	- f
+- Set of fine clothes
+- disguise kit
+- signet ring of fake duke
+- belt pouch containing 15gp
