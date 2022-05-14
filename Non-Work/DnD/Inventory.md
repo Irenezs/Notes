@@ -60,7 +60,9 @@ cp|sp|ep|gp|pp
 - Protection from Evil and Good
 	- Comp: V, S, M (holy water, or powdered silver and iron, consumed)
 	- Range: Touch
-	- Duration: Con
+	- Duration: Concentration, up to 10 min
+	- 1 action to cast
+	- until spell ends, one willing creature is protected against aberrations, celestials, elementals, fey, fiends, undead. Protection gives disadvantage on attacke
 
 # Equipment
 - Leather Armour
