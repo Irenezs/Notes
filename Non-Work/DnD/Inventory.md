@@ -28,7 +28,11 @@ cp|sp|ep|gp|pp
 # Subclass
 - Horizon Walker
 - Spells: Protection from evil and good
-- 
+- Detect Portal
+	- Action, distance and direction to nearest portal, in range of 1 mile
+	- need a short or long rest to use again
+- Planar Warrior
+	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 # Spells
 - 3 1slots
 - Cure Wounds
