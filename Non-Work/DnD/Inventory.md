@@ -97,3 +97,7 @@ drunkard daughter taken by darkness
 girl walking through West woods
 saw worst nightmares in a pit that turned into this
 girl attacked wizard, wizard says can help her
+
+
+
+potion seller says he sells to gods
