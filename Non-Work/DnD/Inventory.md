@@ -102,4 +102,4 @@ girl attacked wizard, wizard says can help her
 
 potion seller says he sells to gods
 potion seller knows about ability scores
-potion seller thinks of himself as one
+potion seller thinks of himself as a god
