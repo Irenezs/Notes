@@ -36,7 +36,7 @@ cp|sp|ep|gp|pp
 	- need a short or long rest to use again
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
-	- 
+
 # Spells
 - 3 1slots
 - Cure Wounds
@@ -56,7 +56,11 @@ cp|sp|ep|gp|pp
 	- Range: Touch
 	- Duration: 1 minute
 	- 1 action to cast
-	- creature touched gets triple jump distance
+	- creature touched gets triple jump 
+- Protection from Evil and Good
+	- Comp: V, S, M (holy water, or powdered silver and iron, consumed)
+	- Range: Touch
+	- Duration: Con
 
 # Equipment
 - Leather Armour
