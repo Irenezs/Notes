@@ -107,3 +107,6 @@ potion seller says he sells to gods
 potion seller knows about ability scores
 potion seller thinks of himself as a god
 
+smoke and centipede takes to same dream
+
+when left : 
