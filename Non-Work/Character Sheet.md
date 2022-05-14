@@ -61,7 +61,12 @@
 	- Duration: Concentration, up to 1h
 	- 1 action to cast
 	- create a 20ft radius sphere of fog centred on a point within range, adds 20ft to radius per spell slot used above 1st
-- 
+- Jump
+	- Comp: V, S, M (grasshopper hind leg)
+	- Range: Touch
+	- Duration: 1 minute
+	- 1 action to cast
+	- creature touched gets triple jump distance
 # Description
 - 
 ## Background
