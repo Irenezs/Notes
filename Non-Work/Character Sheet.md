@@ -47,6 +47,9 @@
 - primeval awareness: uses an action and one spell slot to sense if aberrations, celestials, dragons, elementals, fey, fiends, and undead if they are within 1 mile (or 6 in favoured terrain)
 - Hunter: Horde Breaker: Once per turn when making a weapon attack you can make another on another creature using the same weapon if the creature is within 5ft. 
 
+# Spells
+- 3 slots
+- Cure Wounds
 # Description
 - 
 ## Background
@@ -71,4 +74,3 @@ Charlatan
 - mother cannot deal with it, ostracises aust for being a con like father
 - became a wanderer, using his skills to commit many confidence schemes throughout the land.
 - He is trying to do the same swindle as his father, as if to finally beat his father
-- 
