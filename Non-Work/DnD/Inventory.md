@@ -11,4 +11,8 @@ Prof: +2
 
 # Abilities
 - Darkvision: 60ft
-- 
+- Adv on being charmed
+- Magic cannot put you to sleep
+- Primeval Awareness
+
+# Traits
