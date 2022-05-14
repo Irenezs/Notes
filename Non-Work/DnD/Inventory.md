@@ -91,6 +91,5 @@ Tavern owner unusually busy
 the darkness is the bar attendants
 
 darkness is shadow wraith
-tendrils erratic, 
 
 drunkard daughter taken by darkness
