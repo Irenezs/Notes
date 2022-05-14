@@ -19,7 +19,8 @@ cp|sp|ep|gp|pp
 - Magic cannot put you to sleep
 - Primeval Awareness
 	- Use action and one spell slot for one minute per level of spell slot expended
-	- 
+	- sense creatures within 1 mile (or 6 in favoured terrain)
+	- aberrations, celestials, dragons, elementals, fey, fiends, and undead
 
 # Traits
 - False Identity
