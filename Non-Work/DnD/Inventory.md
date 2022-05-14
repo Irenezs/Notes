@@ -18,6 +18,8 @@ cp|sp|ep|gp|pp
 - Adv on being charmed
 - Magic cannot put you to sleep
 - Primeval Awareness
+	- Use action and one spell slot for one minute per level of spell slot expended
+	- 
 
 # Traits
 - False Identity
@@ -33,6 +35,7 @@ cp|sp|ep|gp|pp
 	- need a short or long rest to use again
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
+	- 
 # Spells
 - 3 1slots
 - Cure Wounds
@@ -61,7 +64,14 @@ cp|sp|ep|gp|pp
 - quiver
 - arrow x20
 - Explorers Pack
-	- f
+	- backpack - 30lb of gear* can strap items to outside
+	- bedroll 
+	- mess kit 
+	- tinderbox 
+	- torches x10 
+	- rations x10 
+	- waterskin - 4pnt of liquid
+	- 50 ft hempen rope
 - Set of fine clothes
 - disguise kit
 - signet ring of fake duke
