@@ -89,4 +89,5 @@ cp|sp|ep|gp|pp
 Affinity with bard
 Tavern owner unusually busy
 
+
 drunkard daughter taken by darkness
