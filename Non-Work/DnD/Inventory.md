@@ -2,7 +2,7 @@
 STR: 0
 DEX: +2
 CON: +1
-INT: -1
+INT: -2
 WIS: +2
 CHA: +3
 
