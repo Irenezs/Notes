@@ -42,7 +42,7 @@ cp|sp|ep|gp|pp
 Identifier|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---
 Max|3|0|0|0|0
-Current|2|0|0|0|0
+Current|3|0|0|0|0
 
 
 - Cure Wounds
