@@ -39,6 +39,26 @@ cp|sp|ep|gp|pp
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
+# Equipment
+- Leather Armour
+- Shortsword x2
+- Longbow
+- quiver
+- arrow x18
+- Explorers Pack
+	- backpack - 30lb of gear* can strap items to outside
+	- bedroll 
+	- mess kit 
+	- tinderbox 
+	- torches x10 
+	- rations x10 
+	- waterskin - 4pnt of liquid
+	- 50 ft hempen rope
+- Set of fine clothes
+- disguise kit
+- signet ring of fake duke
+- belt pouch containing 15gp
+
 # Spells
 Identifier|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---
@@ -71,43 +91,3 @@ Current|3|0|0|0|0
 	- 1 action to cast
 	- until spell ends, one willing creature is protected against aberrations, celestials, elementals, fey, fiends, undead. Protection gives disadvantage on attackers rolls, target also can't be charmed, frightened, or possessed. If target was already one of those, target gets advantage on saving rolls against the ailments
 
-# Equipment
-- Leather Armour
-- Shortsword x2
-- Longbow
-- quiver
-- arrow x20
-- Explorers Pack
-	- backpack - 30lb of gear* can strap items to outside
-	- bedroll 
-	- mess kit 
-	- tinderbox 
-	- torches x10 
-	- rations x10 
-	- waterskin - 4pnt of liquid
-	- 50 ft hempen rope
-- Set of fine clothes
-- disguise kit
-- signet ring of fake duke
-- belt pouch containing 15gp
-
-# Notes
-
-
-darkness is shadow wraith
-coals latch onto the lumps in wraith
-drunkard daughter taken by darkness
-
-girl walking through West woods
-saw worst nightmares in a pit that turned into this
-girl attacked wizard, wizard says can help her
-
-
-
-potion seller says he sells to gods
-potion seller knows about ability scores
-potion seller thinks of himself as a god
-
-smoke and centipede takes to same dream
-
-where left off: outside potion seller shop
