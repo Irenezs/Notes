@@ -28,8 +28,11 @@ cp|sp|ep|gp|pp
 - Favoured enemy: Undead
 	- Adv on Survival checks on tracking them
 	- Adv on INT checks to recall info on them
-	- 
-- Favoured terrain: Forest
+- Favoured terrain: 
+	- when making an INT or WIS check, double prof bonus
+	- When travelling for 1h+
+		- Difficult does not slow travel
+		- Group cannot become lost except by 
 - tool proficiencies: disguise kit, forgery kit
 
 # Subclass
