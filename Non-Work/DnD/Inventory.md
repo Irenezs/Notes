@@ -8,7 +8,6 @@ CHA: +3
 
 Prof: +2
 
-# Wallet
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|99|0
@@ -19,8 +18,8 @@ cp|sp|ep|gp|pp
 - Magic cannot put you to sleep
 - Primeval Awareness
 	- Use action and one spell slot for one minute per level of spell slot expended
-	- sense creatures within 1 mile (or 6 in favoured terrain)
-	- aberrations, celestials, dragons, elementals, fey, fiends, and undead
+	- Sense creatures within 1 mile (or 6 in favoured terrain)
+	- Works on aberrations, celestials, dragons, elementals, fey, fiends, and undead
 
 # Traits
 - False Identity
@@ -29,18 +28,21 @@ cp|sp|ep|gp|pp
 	- Adv on Survival checks on tracking them
 	- Adv on INT checks to recall info on them
 - Favoured terrain: 
-	- when making an INT or WIS check, double prof bonus
+	- When making an INT or WIS check, double prof bonus
 	- When travelling for 1h+
 		- Difficult does not slow travel
-		- Group cannot become lost except by 
-- tool proficiencies: disguise kit, forgery kit
+		- Group cannot become lost except by magical means
+		- Always alert, even during other actions
+		- If alone, can travel stealthily at a normal pace
+		- Foraging finds double food it would normally
+		- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+- Tool proficiencies: disguise kit, forgery kit
 
 # Subclass
 - Horizon Walker
-- Spells: Protection from evil and good
 - Detect Portal
 	- Action, distance and direction to nearest portal, in range of 1 mile
-	- need a short or long rest to use again
+	- Need a short or long rest to use again
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
@@ -69,7 +71,6 @@ Identifier|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---
 Max|3|0|0|0|0
 Current|3|0|0|0|0
-
 
 - Cure Wounds
 	- Comp: V, S
