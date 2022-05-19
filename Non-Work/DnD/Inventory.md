@@ -26,7 +26,7 @@ cp|sp|ep|gp|pp
 - False Identity
 - Scam of Choice: Put on identities like clothes
 - Favoured enemy: Undead
-	- 
+	- Adv on Survival checks on 
 - Favoured terrain: Forest
 - tool proficiencies: disguise kit, forgery kit
 
