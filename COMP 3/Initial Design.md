@@ -15,4 +15,4 @@
 - Turns consist of management then a phase where adventurers do what they do best. Lasts either a fixed amount of time or until all your enemies die.
 - adventurers get stronger per round
 - Could have expandable dungeon?
-- Possible upgrades to troops?
+- Possible upgrades to troops? i.e. levelling
