@@ -1,4 +1,7 @@
-# Mods
+# Stats
+Max HP: 23
+Current HP: 17 +0
+
 STR: 0
 DEX: +2
 CON: +1
