@@ -1,0 +1,1 @@
+At they're essence, logarithms are the inverse of indices, covered in [[M1 Surds and Indices]]. The usage of a logarithm (log henceforth) is as thus: $$\log_{10}{3}$$

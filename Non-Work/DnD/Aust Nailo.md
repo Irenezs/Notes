@@ -8,8 +8,8 @@ CON: +1
 INT: -2
 WIS: +2
 CHA: +3
-
 Prof: +2
+
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
 STR|+2|INT|-2
