@@ -67,7 +67,7 @@ cp|sp|ep|gp|pp
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
-# Equipment
+# Equipment W=71.8lb
 Piece|Weight|Quantity
 ---|---|---
 Leather Armour|10|1
@@ -77,24 +77,24 @@ Quiver|1|1
 Arrow|0.05|16
 Fine Clothes|6|1
 Disguise Kit|3|1
-Signet Ring^[1]|0|1
-Belt Pouch^[2]|0.5|1
-Gunpowder^[5]|0.5|1
-Backpack^[3]|5|1
+Signet Ring [1]|0|1
+Belt Pouch [2]|0.5|1
+Gunpowder [3]|0.5|1
+Backpack [4]|5|1
 Bedroll|7|1
 Mess Kit|1|1
 Tinderbox|1|1
 Torches|1|10
 Rations|2|10
-Waterskin^[4]|5|1
-Hempen Rope^[6]|10|1
+Waterskin [5]|5|1
+Hempen Rope [6]|10|1
 Deed to land in unknown land|0|1
 
 [1] Of a fake duke
 [2] Holds 6lb
-[3] Holds 30lb, can strap items to outside, i.e. bedroll or rope
-[4] Holds 4pnt of liquid
-[5] 3/3 uses remaining
+[3] 3/3 uses remaining
+[4] Holds 30lb, can strap items to outside, i.e. bedroll or rope
+[5] Holds 4pnt of liquid
 [6] 50/50ft remaining
 
 # Spells
