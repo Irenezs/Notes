@@ -68,6 +68,7 @@ cp|sp|ep|gp|pp
 - disguise kit
 - signet ring of fake duke
 - belt pouch containing 15gp
+- gunpowder 1/2lb
 
 # Spells
 Identifier|1st|2nd|3rd|4th|5th
