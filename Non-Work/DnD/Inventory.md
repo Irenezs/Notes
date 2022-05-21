@@ -11,6 +11,8 @@ CHA: +3
 
 Prof: +2
 
+Skill|Mod
+
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|101|0
