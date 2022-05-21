@@ -12,7 +12,25 @@ CHA: +3
 Prof: +2
 
 Skill|Mod
-
+---|---
+Acrobatics|+2
+Animal Handling|+4
+Arcana|-2
+Athletics|+0
+Deception|+5
+History|-2
+Insight|+2
+Intimidation|+3
+investigation|+0
+Medicine|+2
+Nature|-2
+Perception|+4
+Performance|+3
+Persuasion|+5
+Religion|-2
+Sleight of Hand|+4
+Stealth|+4
+Survival
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|101|0
