@@ -99,4 +99,3 @@ Current|3|0|0|0|0
 	- Duration: Concentration, up to 10 min
 	- 1 action to cast
 	- until spell ends, one willing creature is protected against aberrations, celestials, elementals, fey, fiends, undead. Protection gives disadvantage on attackers rolls, target also can't be charmed, frightened, or possessed. If target was already one of those, target gets advantage on saving rolls against the ailments
-
