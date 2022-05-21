@@ -62,7 +62,7 @@ cp|sp|ep|gp|pp
 	- tinderbox 
 	- torches x10 
 	- rations x10 
-	- waterskin - 4pnt of liquid
+	- waterskin - 4pnt of liquid - spring oasis
 	- 50 ft hempen rope
 - Set of fine clothes
 - disguise kit
