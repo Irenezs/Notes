@@ -69,7 +69,7 @@ cp|sp|ep|gp|pp
 
 # Equipment
 - Leather Armour
-- Shortsword x2
+- Shortsword x2 
 - Longbow
 - quiver
 - arrow x16
@@ -80,7 +80,7 @@ cp|sp|ep|gp|pp
 	- tinderbox 
 	- torches x10 
 	- rations x10 
-	- waterskin - 4pnt of liquid - spring oasis
+	- waterskin - 4pnt of liquid
 	- 50 ft hempen rope
 - Set of fine clothes
 - disguise kit
