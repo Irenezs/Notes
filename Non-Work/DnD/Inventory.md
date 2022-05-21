@@ -54,7 +54,7 @@ cp|sp|ep|gp|pp
 - Shortsword x2
 - Longbow
 - quiver
-- arrow x18
+- arrow x17
 - Explorers Pack
 	- backpack - 30lb of gear* can strap items to outside
 	- bedroll 
