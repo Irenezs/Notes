@@ -68,25 +68,34 @@ cp|sp|ep|gp|pp
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
 # Equipment
-- Leather Armour
-- Shortsword x2 
-- Longbow
-- quiver
-- arrow x16
-- Explorers Pack
-	- backpack - 30lb of gear* can strap items to outside
-	- bedroll 
-	- mess kit 
-	- tinderbox 
-	- torches x10 
-	- rations x10 
-	- waterskin - 4pnt of liquid
-	- 50 ft hempen rope
-- Set of fine clothes
-- disguise kit
-- signet ring of fake duke
-- belt pouch containing 15gp
-- gunpowder 1/2lb
+Piece|Weight|Quantity
+---|---|---
+Leather Armour|10|1
+Shortsword|2|2
+Longbow|2|1
+Quiver|1|1
+Arrow|0.05|16
+Fine Clothes|6|1
+Disguise Kit|3|1
+Signet Ring^[1]|0|1
+Belt Pouch^[2]|0.5|1
+Gunpowder^[5]|0.5|1
+Backpack^[3]|5|1
+Bedroll|7|1
+Mess Kit|1|1
+Tinderbox|1|1
+Torches|1|10
+Rations|2|10
+Waterskin^[4]|5|1
+Hempen Rope^[6]|10|1
+Deed to land in unknown land|0|1
+
+[1] Of a fake duke
+[2] Holds 6lb
+[3] Holds 30lb, can strap items to outside, i.e. bedroll or rope
+[4] Holds 4pnt of liquid
+[5] 3/3 uses remaining
+[6] 50/50ft remaining
 
 # Spells
 Identifier|1st|2nd|3rd|4th|5th
