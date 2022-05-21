@@ -27,8 +27,16 @@ History|-2|Religion|-2
 Insight|+2|Sleight of Hand|+4
 Intimidation|+3|Stealth|+4
 investigation|+0|Survival|+2
+Item Proficiency:
+- Light Armour
+- Medium Armour
+- Shields
+- Simple Weapons
+- Martial Weapons
+- Disguise Kit
+- Forgery Kit
 
-
+## Wallet
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|101|0
@@ -37,12 +45,8 @@ cp|sp|ep|gp|pp
 - Darkvision: 60ft
 - Adv on being charmed
 - Magic cannot put you to sleep
-- Primeval Awareness
-	- Use action and one spell slot for one minute per level of spell slot expended
-	- Sense creatures within 1 mile (or 6 in favoured terrain)
-	- Works on aberrations, celestials, dragons, elementals, fey, fiends, and undead
 
-# Traits
+## Traits
 - False Identity
 - Scam of Choice: Put on identities like clothes
 - Favoured enemy: Undead
@@ -57,9 +61,14 @@ cp|sp|ep|gp|pp
 		- If alone, can travel stealthily at a normal pace
 		- Foraging finds double food it would normally
 		- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
-- Tool proficiencies: disguise kit, forgery kit
 
-# Subclass
+## Class
+- Primeval Awareness
+	- Use action and one spell slot for one minute per level of spell slot expended
+	- Sense creatures within 1 mile (or 6 in favoured terrain)
+	- Works on aberrations, celestials, dragons, elementals, fey, fiends, and undead
+
+### Subclass
 - Horizon Walker
 - Detect Portal
 	- Action, distance and direction to nearest portal, in range of 1 mile
