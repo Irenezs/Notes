@@ -13,7 +13,7 @@ Prof: +2
 
 cp|sp|ep|gp|pp
 ---|---|---|---|---
-0|0|0|99|0
+0|0|0|101|0
 
 # Abilities
 - Darkvision: 60ft
