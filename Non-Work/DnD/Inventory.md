@@ -10,27 +10,25 @@ WIS: +2
 CHA: +3
 
 Prof: +2
+Saving Throw|Mod|Saving Throw|Mod
+---|---|---|---
+STR|+2|INT|-2
+DEX|+4|WIS|+2
+CON|+1|CHR|+3
 
-Skill|Mod
----|---
-Acrobatics|+2
-Animal Handling|+4
-Arcana|-2
-Athletics|+0
-Deception|+5
-History|-2
-Insight|+2
-Intimidation|+3
-investigation|+0
-Medicine|+2
-Nature|-2
-Perception|+4
-Performance|+3
-Persuasion|+5
-Religion|-2
-Sleight of Hand|+4
-Stealth|+4
-Survival
+Skill|Mod|Skill|Mod
+---|---|---|---
+Acrobatics|+2|Medicine|+2
+Animal Handling|+4|Nature|-2
+Arcana|-2|Perception|+4
+Athletics|+0|Performance|+3
+Deception|+5|Persuasion|+5
+History|-2|Religion|-2
+Insight|+2|Sleight of Hand|+4
+Intimidation|+3|Stealth|+4
+investigation|+0|Survival|+2
+
+
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|101|0
