@@ -6,4 +6,3 @@
 ![[Pasted image 20220522194558.png]]
 19.2
 ![[Pasted image 20220522194650.png]]
-![[Pasted image 20220522205040.png]]![[Pasted image 20220522205104.png]]
