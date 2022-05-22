@@ -2,4 +2,8 @@
 	- a
 		- $udd \Rightarrow \text{Neutron}$
 	- b
-		- 
+		- Strong Interaction
+	- c
+		- boson
+	- d
+		- The equasion is as follows: $udd \Rightarrow uud + e^- + \overline{\nu_e}$.
