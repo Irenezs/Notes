@@ -23,4 +23,9 @@
 		- Effect of mass: By increasing the mass, you will reduce the range of the wheelchair, because there is more energy used when accelerating to the top speed.
 		- Effect of speed: By increasing the speed, you will reduce the range, as air resistance increases with speed.
 - 4
-	- 
+	- a
+		- As the waves coming from the slits will have different path differences between the points, it will produce a phase difference between the waves. This will then cause destructive interference to occur.
+	- b
+		- In Paper
+	- c
+		- 
