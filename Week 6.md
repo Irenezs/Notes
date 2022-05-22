@@ -6,4 +6,11 @@
 	- c
 		- boson
 	- d
-		- The equasion is as follows: $udd \to uud + e^- + \overline{\nu_e}$. On the left hand side the charge is $+\frac{2}{3}-\frac{1}{3}-\frac{1}{3}$, which totals to 0. On the RHS, the total is also equal to 0: $(+\frac{2}{3}+\frac{2}{3}-\frac{1}{3}) -1+0$. The baryon number is conserved too, with 1 on both sides. each quark has baryon number $+\frac{1}{3}$, while the leptons have none, so it adds to +1 on both di
+		- The equasion is as follows: $udd \to uud + e^- + \overline{\nu_e}$. On the left hand side the charge is $+\frac{2}{3}-\frac{1}{3}-\frac{1}{3}$, which totals to 0. On the RHS, the total is also equal to 0: $(+\frac{2}{3}+\frac{2}{3}-\frac{1}{3}) -1+0$. The baryon number is conserved too, with 1 on both sides. each quark has baryon number $+\frac{1}{3}$, while the leptons have none, so it adds to +1 on both sides.
+	- e
+		- proton
+	- f
+		- electron, electron antineutrino, muon neutrino
+- 2
+	- a
+		- When current flows through the filament lamp, the electrons bump into the positive metal ions in the wire. This causes heat in the wire. When the heat rises, it causes the positive ions to vibrate more, which will cause it to be more likely to be hit by flowing electrons. This causes more heat. This causes a curve on an IV graph because the electrons get impeded more the hotter the wire is, and the wire becomes hotter the more current is put through.
