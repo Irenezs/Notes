@@ -14,3 +14,13 @@
 - 2
 	- a
 		- When current flows through the filament lamp, the electrons bump into the positive metal ions in the wire. This causes heat in the wire. When the heat rises, it causes the positive ions to vibrate more, which will cause it to be more likely to be hit by flowing electrons. This causes more heat. This causes a curve on an IV graph because the electrons get impeded more the hotter the wire is, and the wire becomes hotter the more current is put through.
+	- b
+		- In Paper
+	- c
+		- In Paper
+	- d
+		- In Paper
+	- e
+		- In Paper
+- 3
+	- 
