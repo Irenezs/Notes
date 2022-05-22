@@ -20,4 +20,7 @@
 	- a-d
 		- In Paper
 	- e
-		- 
+		- Effect of mass: By increasing the mass, you will reduce the range of the wheelchair, because there is more energy used when accelerating to the top speed.
+		- Effect of speed: By increasing the speed, you will reduce the range, as air resistance increases with speed.
+- 4
+	- 
