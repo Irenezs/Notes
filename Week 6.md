@@ -58,4 +58,6 @@
 	- d
 		- To become free, energy must be supplied
 	- e
-		- pd accelerates electrons a
+		- pd accelerates electrons in the tube, electrons have to have high enough energy to excite the electrons in hydrogen. Visible spectrum produced from excited electrons moving to the lower state at -3.4eV. Each transition results in a photon of light. Energy of photon is difference between two levels. The lowest frequency is due to the transition between -1.5 and -3.4. 
+- 5-34 
+	- In Paper 
