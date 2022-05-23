@@ -1,4 +1,4 @@
-a- Real-time management
+																												a- Real-time management
 - randomly generated play field
 - some amount of entities to manage
 - internal values contribute towards some total that is freely given
