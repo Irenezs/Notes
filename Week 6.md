@@ -37,4 +37,12 @@
 	- b
 		- In Paper
 	- c
-		- Wind induces a wave in the cable, which is reflected against the masts. 
+		- Wind induces a wave in the cable, which is reflected against the masts. the incident and reflected waves will interfere and superpose, can only be certain frequencies because there must be an integer of wavelengths across the whole cable.
+	- d
+		- In Paper
+	- e
+		- In Paper
+	- f
+		- In Paper
+	- g
+		- 
