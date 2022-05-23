@@ -37,4 +37,4 @@
 	- b
 		- In Paper
 	- c
-		- 
+		- Wind induces a wave in the cable, which is reflected against the masts. 
