@@ -49,4 +49,13 @@
 - 6
 	- In Paper
 - 7
-	- 
+	- a
+		- In Paper
+	- b
+		- They are just free of the atom
+	- c
+		- At a ground state
+	- d
+		- To become free, energy must be supplied
+	- e
+		- pd accelerates electrons a
