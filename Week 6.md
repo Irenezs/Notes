@@ -45,4 +45,8 @@
 	- f
 		- In Paper
 	- g
-		- 
+		- The copper may have been stretched past its elastic limit, which will cause permanent deformation, i.e. sagging.
+- 6
+	- In Paper
+- 7
+	- 
