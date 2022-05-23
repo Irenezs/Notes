@@ -31,3 +31,10 @@
 		- The intensity of a wave decreases with distance. Because one wave travels more than the other, it causes the amplitudes to not be equal at minimums
 	- d
 		- The signal will become weaker and weaker until it reaches 0. This is because the waves are polarised, so there can be no detection when waves are $90^\circ$ to transmitter.
+- 5
+	- a
+		- In Paper
+	- b
+		- In Paper
+	- c
+		- 
