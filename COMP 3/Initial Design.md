@@ -12,4 +12,4 @@
 	- Strength
 	- Speed
 	- tbd
-- Adventurers show up to the dungeon and fight
+- Adventurers show up to the dungeon and fight after some time period
