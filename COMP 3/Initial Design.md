@@ -16,3 +16,5 @@
 - adventurers get stronger per round
 - Could have expandable dungeon?
 - Possible upgrades to troops? i.e. levelling
+
+- Why a computer is the best possible way to do this
