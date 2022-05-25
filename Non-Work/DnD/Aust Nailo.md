@@ -141,4 +141,3 @@ Current|3|0|0|0|0
 - God of Light (Pelor) made slumber the god of shadow (Tharisdan, chained god)
 - First part of the crown is hidden deep in a mine
 - QUEST: Make it to Dalmacia Mine
-
