@@ -76,7 +76,7 @@ cp|sp|ep|gp|pp
 - Planar Warrior
 	- Bonus Action, choose one creature within 30ft, next time you attack in this turn all damage dealt is force damage, and creature takes additional 1d8 of damage
 
-# Equipment W=71.8lb
+# Equipment W=69.8lb
 Piece|Weight|Quantity
 ---|---|---
 Leather Armour|10|1
@@ -94,7 +94,7 @@ Bedroll|7|1
 Mess Kit|1|1
 Tinderbox|1|1
 Torches|1|10
-Rations|2|10
+Rations|2|9
 Waterskin [5]|5|1
 Hempen Rope [6]|10|1
 Deed to land in unknown land|0|1
@@ -141,3 +141,4 @@ Current|3|0|0|0|0
 - God of Light (Pelor) made slumber the god of shadow (Tharisdan, chained god)
 - First part of the crown is hidden deep in a mine
 - QUEST: Make it to Dalmacia Mine
+
