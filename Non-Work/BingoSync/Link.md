@@ -1,1 +1,2 @@
 lobby : [|BingoSync]
+pass
