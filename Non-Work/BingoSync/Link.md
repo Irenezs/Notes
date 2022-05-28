@@ -1,2 +1,2 @@
-lobby : [|BingoSync]
+lobby : 
 pass
