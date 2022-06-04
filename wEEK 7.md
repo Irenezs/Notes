@@ -31,4 +31,4 @@
 	- c
 		- In Paper
 	- d
-		- 
+		- For a cable in a lift, 
