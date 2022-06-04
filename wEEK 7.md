@@ -27,4 +27,8 @@
 		- stress/$\sigma$ : force exerted over cross-sectional area
 		- strain/$\varepsilon$ : extension over original length
 	- b
-		- the material is stiff, which is shown on the graph by a steep g
+		- the material is stiff, which is shown on the graph by a steep gradient
+	- c
+		- In Paper
+	- d
+		- 
