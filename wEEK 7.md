@@ -37,4 +37,5 @@
 	- a-e
 		- In Paper
 	- f
-		- 
+		- The resistors have a constant ratio, and thus the potential difference across AB is very small, as the resistance ratios in each arm is very similar.
+- 5
