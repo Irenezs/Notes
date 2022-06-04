@@ -12,4 +12,4 @@
 	- f
 		- In Paper
 	- g
-		-  
+		- rate of intake of air decreases as the plane slows, as there is a smaller rate of chan 
