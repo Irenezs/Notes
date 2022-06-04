@@ -6,4 +6,10 @@
 	- c
 		- In Paper
 	- d
-		- Momentum is a vector, meaning it has a direction. Due to the air changing direction, 
+		- Momentum is a vector, meaning it has a direction. Due to the air changing direction, the momentum will change.
+	- e
+		- In Paper
+	- f
+		- In Paper
+	- g
+		-  
