@@ -14,4 +14,5 @@
 	- g
 		- rate of intake of air decreases as the plane slows, as there is a smaller rate of change of momentum 
 - 2
-	- 
+	- a
+		- Emitted waves will reflect off of the back wall, and superpose with the incoming waves, causing a stationary wavc
