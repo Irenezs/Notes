@@ -31,4 +31,4 @@
 	- c
 		- In Paper
 	- d
-		- For a cable in a lift, cable B will be best. This is due to its high breaking stress and youngs modu
+		- For a cable in a lift, cable B will be best. This is due to its high breaking stress and young modulus.  
