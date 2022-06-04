@@ -46,4 +46,9 @@
 	- c-d
 		- In Paper
 	- e
-		- The stopping potential would be greater, because the energy 
+		- The stopping potential would be greater, because the energy of the photons would be greater, thus the maximum kinetic energy would be greater.
+- 6
+	- a
+		- An isotope is an atom with the same proton number but a different nucleon number.
+	- b
+		- 
