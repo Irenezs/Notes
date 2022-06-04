@@ -31,4 +31,5 @@
 	- c
 		- In Paper
 	- d
-		- For a cable in a lift, cable B will be best. This is due to its high breaking stress and young modulus.  
+		- For a cable in a lift, cable B will be best. This is due to its high breaking stress and young modulus. material A is not a choice because it would fail without warning.
+		- For a cable in a bungee cord, cable D would be best. This is due to the fact it can store a large amount of energy before failiure. It could not be any of the other cables as they have a high young modulus, causing a sudden
