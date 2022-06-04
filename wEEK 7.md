@@ -46,4 +46,4 @@
 	- c-d
 		- In Paper
 	- e
-		- 
+		- The stopping potential would be greater, because the energy 
