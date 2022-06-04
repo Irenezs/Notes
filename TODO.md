@@ -1,7 +1,7 @@
-- [ ] Physics Week 7
-- [ ] Physics 13.1 $\cup$ 13.2
-- [ ] Physics Prereading 13.3
-- [ ] Physics Spec Review
-- [ ] Physics Week 8
-- [ ] Maths Paper
-- [ ] Physics Electricity Homework Booklet, where $Q\in[1,4]\cup[6,13]$
+- [ ] Physics Week 7 90m
+- [ ] Physics 13.1 $\cup$ 13.2 45m
+- [ ] Physics Prereading 13.3 10m
+- [ ] Physics Spec Review 120m
+- [ ] Physics Week 8 90m
+- [ ] Maths Paper 60m
+- [ ] Physics Electricity Homework Booklet, where $Q\in[1,4]\cup[6,13]$ 90m
