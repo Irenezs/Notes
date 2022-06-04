@@ -1,6 +1,6 @@
 - [ ] Physics Week 7
-- [ ] Physics Prereading 13.3
 - [ ] Physics 13.1 $\cup$ 13.2
+- [ ] Physics Prereading 13.3
 - [ ] Physics Spec Review
 - [ ] Physics Week 8
 - [ ] Maths Paper
