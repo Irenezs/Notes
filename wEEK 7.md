@@ -42,4 +42,5 @@
 	- a
 		- The energy of a photon is linked to the frequency, and only when the energy of the photon is greater than the work function are electrons emitted from the plate.
 	- b
-		- 
+		- Increasing intensity means more photons incident per second, which will make the current greater.
+	- c
