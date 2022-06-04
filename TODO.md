@@ -1,4 +1,4 @@
-- [ ] Physics Week 7 90m
+- [x] Physics Week 7 90m
 - [ ] Physics 13.1 $\cup$ 13.2 45m
 - [ ] Physics Prereading 13.3 10m
 - [ ] Physics Spec Review 120m
