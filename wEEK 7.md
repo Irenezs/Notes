@@ -5,4 +5,5 @@
 		- There is a rate of change of momentum so there is a force acting on the air, due to Newton's second law. The air then exerts a force of equal size and opposite direction on the engine, stated by Newton's third law.
 	- c
 		- In Paper
-	- 
+	- d
+		- Momentum is a vector, meaning it has a direction 
