@@ -2,4 +2,7 @@
 	- a
 		- The momentum of the air will increase.
 	- b
-		- 
+		- There is a rate of change of momentum so there is a force acting on the air, due to Newton's second law. The air then exerts a force of equal size and opposite direction on the engine, stated by Newton's third law.
+	- c
+		- In Paper
+	- 
