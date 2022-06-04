@@ -39,3 +39,5 @@
 	- f
 		- The resistors have a constant ratio, and thus the potential difference across AB is very small, as the resistance ratios in each arm is very similar.
 - 5
+	- a
+		- The energy of a photon is linked to the frequency, and only when the energy of the photon 
