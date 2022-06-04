@@ -52,6 +52,8 @@
 		- An isotope is an atom with the same proton number but a different nucleon number.
 	- b
 		- The total momentum of the system must be conserved, and so the two photons must be formed to cancel each-other out.
-	- c
+	- c-e
 		- In Paper
-	- d
+- 5-34
+	- In Paper
+
