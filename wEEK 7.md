@@ -21,4 +21,4 @@
 	- c
 		- In Paper
 	- d
-		- 
+		- So that the positions of the antinodes can continually change during cooking.
