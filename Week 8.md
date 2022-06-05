@@ -6,4 +6,6 @@
 	- c
 		- In Paper
 	- d
-		- 
+		- Strangeness is not conserved
+	- e
+		- Results must be independantly confirmed, and many skills are necessary to p
