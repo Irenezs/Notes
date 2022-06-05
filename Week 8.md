@@ -1,3 +1,5 @@
 - 1
 	- a
-		- 
+		- The strong interaction is the cause of keeping together hadrons, it has a range of 3fm, and is repulsive below 0.5fm.
+	- b
+		- In alpha decay, nuclean o
