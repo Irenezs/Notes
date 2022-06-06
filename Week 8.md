@@ -40,4 +40,12 @@
 - 5
 	- In Paper
 - 6
-	- 
+	- a
+		- In Paper
+	- b
+		- The pd across lamp E is 0V, therefore there is no current in E, and so there is no affect on other lamps.
+	- c
+		- In Paper
+- 7
+	- a
+		- 
