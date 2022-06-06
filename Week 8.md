@@ -29,4 +29,9 @@
 		- In Paper
 - 4
 	- a
+		- resultant force = 0
+		- $\sum$anticlockwise moments = $\sum$clockwise moments
+	- b
+		- Where weight can be considered to act
+	- c
 		- 
