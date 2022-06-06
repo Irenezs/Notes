@@ -1,10 +1,10 @@
+# Dungeon Master
 - Real-time management
 - randomly generated play field
 - some amount of entities to manage
 - internal values contribute towards some total that is freely given
 - internal values can be deduced by some affects around entity
 
-# Dungeon Master
 - You are the master of a dungeon and must cater towards the enemies in your dungeon, and must keep them alive for as long as possible.
 - Values on enemies:
 	- Health (deducted by adventurers)
@@ -14,7 +14,7 @@
 	- tbd
 - Adventurers show up to the dungeon and fight after some time period
 
-# Algorithms
+## Algorithms
 *This list does not consider parameters, unless specified
 - Account
 	- temp
@@ -27,4 +27,28 @@
 - Game
 	- generateDungeon()
 		- Creates the initial playfield for the game, including base troops, their stats, room layout, etc. ___try to make it seed-based.
-		- 
+
+## Decomp
+```mermaid
+flowchart TB
+
+    A[Main Menu] --> B
+
+    users[(Database)] --> usersd([Stores users, secured passwords,\nand stats on games.])
+
+    B[Login Screen] <--> users
+
+    B --> Game[Gameplay] & Stats[Stats] & Cog[Settings]
+
+    Stats <--> users
+
+    Stats --> Statsd([View stats on games\nand achievements ])
+
+    Cog --> Cogd([View acc details, change details, etc\n])
+
+    Game --> C[Creation Menu]
+
+    C --> Cd([Can enter values to\nsetup the game you want])
+
+    C --> D[Actual Gameplay]
+```
