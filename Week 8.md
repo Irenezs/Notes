@@ -48,4 +48,8 @@
 		- In Paper
 - 7
 	- a
+		- A central white fringe, with fringes either side showing a continuous spectra
+	- b
+		- In Paper
+	- c
 		- 
