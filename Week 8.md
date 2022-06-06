@@ -52,4 +52,7 @@
 	- b
 		- In Paper
 	- c
-		- 
+		- For decreasing slit separation, the fringe spacing will increase, which causes the uncertainty in measuring the fringe spacings to decrease. This will in turn decrease uncertainty in wavelength calculations.
+		- For decreasing screen distance, the uncertainty in measuring D would increase, and fringe separation would also decrease, causing a higher uncertainty. As both are required in calculating $\lambda$, uncertainty in wavelength calcs will increase.
+- 8-34
+	- In Paper
