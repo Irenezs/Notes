@@ -17,4 +17,9 @@
 	- c
 		- The loss of GPE is the same, so the gain in KE will remain unchanged.
 	- d
+		- The rain initially only has vertical momentum, and so when the rain hits the truck, the rain's vertical momentum will decrease, and the truck's horizontal momentum will remain unchanged.
+- 3
+	- a
+		- In Paper
+	- b
 		- 
