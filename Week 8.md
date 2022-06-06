@@ -8,4 +8,9 @@
 	- d
 		- Strangeness is not conserved
 	- e
-		- Results must be independantly confirmed, and many skills are necessary to p
+		- Results must be independently confirmed, and many skills are necessary to prove a result.
+- 2
+	- a
+		- In Paper
+	- b
+		- 
