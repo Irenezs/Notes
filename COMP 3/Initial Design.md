@@ -18,6 +18,10 @@
 - Account
 	- temp
 - Leaderboard
-	- getTop()
+	- simple database calls
+		- getTop()
+			- Returns list of top players and stats about them
+		- getClose()
+			- Returns list of players within $\pm 10$
 - Game
 	- temp
