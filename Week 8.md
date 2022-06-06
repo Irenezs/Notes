@@ -22,4 +22,11 @@
 	- a
 		- In Paper
 	- b
+		- The energy is used to raise an electron to a higher level, for this action an exact amount of energy is needed. When a free electron collides, the free electron can give an exact amount to the excited electron, while carrying the excess off, while the photon cannot carry excess off, so must need the exact amount
+	- c
+		- In Paper
+	- d
+		- In Paper
+- 4
+	- a
 		- 
