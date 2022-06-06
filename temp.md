@@ -1,0 +1,6 @@
+- 1
+	- a
+		- i
+			- The electrons have a maximum kinetic energy because the electron will take only the energy given by a photon, minus the energy needed to escape the metal.
+		- ii
+			- The energy of a photon is found by E=hf, 
