@@ -13,4 +13,8 @@
 	- a
 		- In Paper
 	- b
+		- The acceleration in Fig.1 is constant, while in Fig.2 the acceleration will change, starting at a greatest value and gradually decrease to 0.
+	- c
+		- The loss of GPE is the same, so the gain in KE will remain unchanged.
+	- d
 		- 
