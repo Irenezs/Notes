@@ -15,7 +15,7 @@
 - Adventurers show up to the dungeon and fight after some time period
 
 # Algorithms
-*This list does not consider parameters
+*This list does not consider parameters, unless specified
 - Account
 	- temp
 - Leaderboard
@@ -26,3 +26,5 @@
 			- Returns list of players within $\pm 10$ of you, and stats
 - Game
 	- generateDungeon()
+		- Creates the initial playfield for the game, including base troops, their stats, room layout, etc. ___try to make it seed-based.
+		- 
