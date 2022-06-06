@@ -34,4 +34,10 @@
 	- b
 		- Where weight can be considered to act
 	- c
-		- 
+		- It must be below A so that there is not a turning affect, as A is a pivot.
+	- d-e
+		- In Paper
+- 5
+	- In Paper
+- 6
+	- 
