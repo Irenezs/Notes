@@ -15,6 +15,7 @@
 - Adventurers show up to the dungeon and fight after some time period
 
 # Algorithms
+*This list does not consider parameters
 - Account
 	- temp
 - Leaderboard
@@ -22,6 +23,6 @@
 		- getTop()
 			- Returns list of top players and stats about them
 		- getClose()
-			- Returns list of players within $\pm 10$
+			- Returns list of players within $\pm 10$ of you, and stats
 - Game
-	- temp
+	- generateDungeon()
