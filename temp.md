@@ -3,4 +3,6 @@
 		- i
 			- The electrons have a maximum kinetic energy because the electron will take only the energy given by a photon, minus the energy needed to escape the metal.
 		- ii
-			- The energy of a photon is found by E=hf, 
+			- The energy of a photon is found by E=hf, and it will take some energy for an electron to escape the metal, called the work function. Because the energy of a photon is directly linked to the frequency of itself, the electrons will not be released from the surface if the frequency of the photon is too low.
+	- b
+		- 
