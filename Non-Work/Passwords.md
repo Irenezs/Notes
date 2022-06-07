@@ -28,3 +28,4 @@ Steam|Matthewzs1|Mat1hewl
 Faproulette|Irenezs|Mat1hewl
 MotsuToys|irenezsloynes@gmail.com|Cumin;my;pants1
 Roll20|irenezsloynes@gmail.com|Film;kilometer;run1
+Mega|irenezsloynes@gmail.com|Fig;lemon;duel1
