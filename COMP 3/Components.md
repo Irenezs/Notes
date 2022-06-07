@@ -24,3 +24,15 @@ In the world of management games, where you must keep track of several values ac
 # Design
 ## Structure
 ## Algorithms
+- Account
+	- temp
+- Leaderboard
+	- simple database calls
+		- getTop()
+			- Returns list of top players and stats about them
+		- getClose()
+			- Returns list of players within $\pm 10$ of you, and stats
+- Game
+	- generateDungeon()
+		- Creates the initial playfield for the game, including base troops, their stats, room layout, etc. ___try to make it seed-based.
+	- 
