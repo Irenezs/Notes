@@ -27,6 +27,7 @@ History|-2|Religion|-2
 Insight|+2|Sleight of Hand|+4
 Intimidation|+3|Stealth|+4
 investigation|+0|Survival|+2
+
 Item Proficiency:
 - Light Armour
 - Medium Armour
