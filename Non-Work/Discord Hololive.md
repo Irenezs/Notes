@@ -42,7 +42,7 @@
 - [ ] Momosuzu Nene
 - [x] Moona Hoshinova
 - [x] Mori Calliope
-- [ ] Mr.Squeaks  M
+- [x] Mr.Squeaks  M
 - [x] Murasaki Shion
 - [x] Nakiri Ayame
 - [x] Nanashi Mumei
