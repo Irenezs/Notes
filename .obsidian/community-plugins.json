@@ -6,5 +6,6 @@
   "obsidian-git",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "obsidian-circuitjs"
+  "obsidian-circuitjs",
+  "obsidian-excalidraw-plugin"
 ]
