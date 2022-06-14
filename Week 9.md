@@ -22,4 +22,20 @@
 	- e
 		- Light may encounter impurities at different positions, sizes, and even different amounts.
 	- f
-		- Transverse waves have oscillations perpendicular to propigation of energy transfer, while 
+		- Transverse waves have oscillations perpendicular to propigation of energy transfer, while longitudinal waves have them parallel.
+- 5
+	- a
+		- In Paper
+	- b
+		- A couple is defined as two equal forces acting in opposite directions, which means this suggestion is incorrect as the forces are in the same direction.
+	- c
+		- In Paper
+	- d
+		- Readings would be the same as total weight is the same
+- 6
+	- a
+		- An antiparticle is a particle with equal rest mass, but opposite charge.
+	- b-c
+		- In Paper
+	- d
+		- Energy levels are discrete, meaning they are exact. photons are produced when an electron moves to a lower energy level.
