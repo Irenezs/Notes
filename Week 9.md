@@ -11,4 +11,10 @@
 	- In Paper
 - 4
 	- a
-		- 
+		- The water is optically more dense than the air outside, meaning that at some critical angle the laser beam will be totally internally reflected.
+	- b-c
+		- In Paper
+	- d
+		- Part X is the core, which propigates the light by total internal reflection, while absorbing as little as possible.
+		- Part Y is the cladding, which protects the core from damage and interference between fibres in the cable. This is also a clean boundary for total internal reflection, and is more optically dense than the core.
+		- The problem with 
