@@ -2,4 +2,13 @@
 	- a-b
 		- In Paper
 	- c
+		- Attraction up to around 3fm, but repulsion from 0-0.5fm. This force prevents the proton and neutron moving closer or further apart.
+	- d
+		- In Paper
+- 2
+	- In Paper
+- 3
+	- In Paper
+- 4
+	- a
 		- 
