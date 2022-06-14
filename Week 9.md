@@ -17,4 +17,9 @@
 	- d
 		- Part X is the core, which propigates the light by total internal reflection, while absorbing as little as possible.
 		- Part Y is the cladding, which protects the core from damage and interference between fibres in the cable. This is also a clean boundary for total internal reflection, and is more optically dense than the core.
-		- The problem with 
+		- There are two dispersion problems in fibres, material and modal. both cause pulse broadening. Material dispersion is due to different wavelengths having different speeds, because of different refractive indexes within the core. A way to prevent this is using monochromatic light.
+		- Modal dispersion is that different paths have different lengths so effective time along fibre differs. A method of solving this is by narrowing the core.
+	- e
+		- Light may encounter impurities at different positions, sizes, and even different amounts.
+	- f
+		- Transverse waves have oscillations perpendicular to propigation of energy transfer, while 
