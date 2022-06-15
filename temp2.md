@@ -9,4 +9,17 @@ Explain what will be done each version
 ## Version 1
 - Written as you are about to do it
 - Justify what you will be doing to make a minimum working product
-- Show what 
+- Show code and explain what happened - written as a diary
+- Testing Table of V1
+	- Show failed tests
+		- Show what happened and how you corrected it
+	- Show successful tests
+	- Test evidence can be done in an appendix
+- Write an evaluation on this
+	- New/dropped features, etc
+
+## V2/V3
+- Copy and paste V1
+- What did you intend here, what are you actually going to do - refer to V1eval
+- Justify, Show, Test, Eval
+- 
