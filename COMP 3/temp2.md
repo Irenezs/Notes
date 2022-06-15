@@ -19,6 +19,11 @@ Explain what will be done each version
 	- New/dropped features, etc
 
 ## V2/V3
-- Copy and paste V1
+- Copy and paste V1 - do not repeat unnecessary tests
 - What did you intend here, what are you actually going to do - refer to V1eval
 - Justify, Show, Test, Eval
+
+## Testing Table
+Test no|Version|Test|Expected|Actual|Correction|Test Data|Justification
+---|---|---|---|---|---|---|---
+Obvious|Obvious|What the test is|Expected Result|Actual Result|What done to correct this|What data was used|Why this was necessary
