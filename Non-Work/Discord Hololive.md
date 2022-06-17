@@ -34,7 +34,7 @@
 - [x] Kazama Iroha
 - [x] Kintsuba
 - [x] Kiryu Coco
-- [ ] Kobo Kanaeru
+- [x] Kobo Kanaeru
 - [x] Kureiji Ollie
 - [x] La+ Darknesss
 - [x] Mano Aloe
@@ -63,12 +63,12 @@
 - [ ] Rosalyn
 - [x] Sakamata Chloe
 - 60
-- [ ] Sakura Miko
+- [x] Sakura Miko
 - [x] Shirakami Fubuki
 - [x] Shiranui Flare
 - [x] Shirogame Noel
 - [x] Shishiro Botan
-- [ ] Spade Echo
+- [x] Spade Echo
 - [ ] Takanashi Kiara
 - [x] Takane Lui
 - [x] Tokino Sora
