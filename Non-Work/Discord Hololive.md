@@ -7,7 +7,7 @@
 - [x] Artia
 - [x] Ayunda Risu
 - [ ] Bibi ?
-- [ ] Bloop M
+- [x] Bloop M
 - [x] Boros
 - [ ] Bubba M
 - [x] Ceres Fauna
