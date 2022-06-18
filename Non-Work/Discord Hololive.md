@@ -74,7 +74,7 @@
 - [x] Tokoyami Towa
 - [x] Tsukumo Sana
 - [x] Tsunomaki Watame
-- [ ] Udin ?
+- [x] Udin ?
 - [ ] Uruha Rushia -Jacob
 - [x] Usada Pekora
 - 75
