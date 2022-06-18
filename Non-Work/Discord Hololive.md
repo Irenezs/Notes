@@ -23,7 +23,7 @@
 - [x] Hakui Koyori
 - [x] Himemori Luna
 - [ ] Hitomi Chris
-- [ ] Hoshimachi Suisei
+- [x] Hoshimachi Suisei
 - [x] Hosoinu
 - [x] Houshou Marine
 - [x] IRyS
