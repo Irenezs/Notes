@@ -1,5 +1,4 @@
-4
-- [ ] A-Chan
+- [x] A-Chan
 - [x] Airani Iofiteen
 - [x] Akai Haato
 - [x] Aki Rosenthal
