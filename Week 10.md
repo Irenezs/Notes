@@ -39,6 +39,8 @@
 	- b
 		- In Paper
 	- c
-		- They must have the same speed, be moving in opposite directions, and 
+		- They must have the same speed, be moving in opposite directions, and have the same wavelength
 	- d-f
 		- In Paper
+- MCQ
+	- See Appendix
