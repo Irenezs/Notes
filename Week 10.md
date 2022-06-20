@@ -7,11 +7,11 @@
 	- a
 		- In Paper
 	- b
-		- 
+		- There is a force on the gas as the gas's momentum is changing, which requires a force, due to Newton 2. There is a deceleration as the resistive force is greater than the weight, therefore resultant force. acceleration will be in the same direction as resultant, due to Newton 2
 	- c
 		- In Paper
 	- d
-		- t
+		- More mass to collide with 
 - 3
 	- a-e
 		- In Paper
