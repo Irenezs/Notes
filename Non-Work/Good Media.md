@@ -12,4 +12,3 @@
 - [I'm An Elite Angel, But I'm Troubled By An Impregnable High School Girl](https://chap.manganelo.com/manga-ij123277)
 - [I Favor The Villainess](https://chap.manganelo.com/manga-ib123321)
 - [Don’t Toy With Me, Miss Nagatoro](https://nagatoromanga.com/)
-- 
