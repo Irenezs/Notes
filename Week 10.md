@@ -32,13 +32,13 @@
 	- b-e
 		- In Paper
 	- f
-		- 
+		- New Cells must be added in parallel, as the power from each cell will be reduced without increasing the voltage of the bulb.
 - 6
 	- a
-		- t
+		- They will be in complete antiphase, with the same frequency.
 	- b
 		- In Paper
 	- c
-		- t
+		- They must have the same speed, be moving in opposite directions, and 
 	- d-f
 		- In Paper
