@@ -38,7 +38,7 @@
 - [x] La+ Darknesss
 - [x] Mano Aloe
 - [x] Minato Aqua
-- [ ] Momosuzu Nene
+- [x] Momosuzu Nene
 - [x] Moona Hoshinova
 - [x] Mori Calliope
 - [x] Mr.Squeaks  M
@@ -51,13 +51,13 @@
 - [x] Nekomata Okayu
 - [x] Nemu
 - [x] Ninomae Ina'nis
-- [ ] Nousagi ?
+- [x] Nousagi ?
 - [x] Omaru Polka
 - [ ] OmegaAlpha ?
 - [x] Ookami Mio
 - [x] Oozora Subaru
 - [x] Ouro Kronii
-- [ ] Pavolia Reine
+- [x] Pavolia Reine
 - [x] Roboco-san
 - [ ] Rosalyn
 - [x] Sakamata Chloe
