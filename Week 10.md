@@ -16,7 +16,7 @@
 	- a-e
 		- In Paper
 	- f
-		- 
+		- The ball must spend longer in the air to cover the same distance with a lower velocity.
 - 4
 	- a-b
 		- In Paper
