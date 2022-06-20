@@ -2,12 +2,12 @@
 	- a-c
 		- In Paper
 	- d
-		- t
+		- Hadrons are made of quarks, and thus interact with any force, and are the only particle to interact with the strong force. There are two classes of hadron; mesons, made of a quark and antiquark; and baryons, made of 3 quarks. The only stable free baryon is the proton, which can be made from several decays, including from a neutron (beta-minus)
 - 2
 	- a
 		- In Paper
 	- b
-		- t
+		- 
 	- c
 		- In Paper
 	- d
