@@ -11,28 +11,28 @@
 	- c
 		- In Paper
 	- d
-		- More mass to collide with 
-- 3
+		- More dust to displace, as more work done there will be a larger resultant force on the system therefore greater deceleration
+- **3
 	- a-e
 		- In Paper
 	- f
-		- t
+		- 
 - 4
 	- a-b
 		- In Paper
 	- c
-		- t
+		- They have the same number of protons, while Y has fewer neutrons than X.
 	- d
-		- t
+		- SC of ion X is less than SC on Y as the SC is inversely proportional to the mass
 	- e
 		- In Paper
 - 5
 	- a
-		- t
+		- The amount of work it takes to move a coulomb of charge through the cell
 	- b-e
 		- In Paper
 	- f
-		- t
+		- 
 - 6
 	- a
 		- t
