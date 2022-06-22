@@ -1,6 +1,7 @@
 # Anime
-- K-On
-- Rascal does not dream of bunny girl senpai
+- [K-On]
+- [Rascal does not dream of bunny girl senpai]
+- [No Game No Life]
 
 # Manga
 - [Even If It Was Just Once, I Regret It](https://chap.manganelo.com/manga-fl119905)
