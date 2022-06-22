@@ -12,7 +12,7 @@
 - [ ] Bubba M
 - [x] Ceres Fauna
 - [x] Civia
-- [ ] Daifuku ?
+- [x] Daifuku ?
 - 15
 - [x] Doris
 - [ ] Ebifrion M
