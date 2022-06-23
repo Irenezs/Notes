@@ -8,10 +8,10 @@ $$y=\frac{u}{v}\mspace{1em}\text{Then}\mspace{1em}y'=\frac{u'v-uv'}{v^2}$$
 There are several differentiations you are expected to remember, and t hat may not be given:
 y|y'
 :---:|:---:
-$\sin{\varphi x}$|$\varphi\cos{\varphi x}$
-$\cos{\varphi x}$|$-\varphi\sin{\varphi x}$
-$\tan{\varphi x}$|$\varphi\sec^2{\varphi x}$
-$\csc{\varphi x}$|$-\varphi\csc{\varphi x}\cot{\varphi x}$
-$\sec{\varphi x}$|$\varphi\sec{\varphi x}\tan{\varphi x}$
-$\cot{\varphi x}$|$-\varphi\csc^2{\varphi x}$
-$\ln{f(x}$|$\frac{1}{x}$
+$\sin{f(x)}$|$f'(x)\cos{f(x)}$
+$\cos{f(x)}$|$-f'(x)\sin{f(x)}$
+$\tan{f(x)}$|$f'(x)\sec^2{f(x)}$
+$\csc{f(x)}$|$-f'(x)\csc{f(x)}\cot{f(x)}$
+$\sec{f(x)}$|$f'(x)\sec{f(x)}\tan{f(x)}$
+$\cot{f(x)}$|$-f'(x)\csc^2{f(x)}$
+$\ln{f(x)}$|$\frac{f'(x)}{f(x)}$
