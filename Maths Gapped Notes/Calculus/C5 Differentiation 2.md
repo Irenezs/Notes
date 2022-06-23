@@ -9,8 +9,8 @@ There are several differentiations you are expected to remember, and t hat may n
 $\int{y}\,dx$|$y$|$y'$
 :---:|:---:|:---:
 $-\frac{1}{f'(x)}\cos{f(x)}+c$|$\sin{f(x)}$|$f'(x)\cos{f(x)}$
-$\frac{1}{$|$\cos{f(x)}$|$-f'(x)\sin{f(x)}$
-|$\tan{f(x)}$|$f'(x)\sec^2{f(x)}$
+$\frac{1}{f'(x)}\sin{f(x)}+c$|$\cos{f(x)}$|$-f'(x)\sin{f(x)}$
+$\ln{\l\sec{x}\rvert}+c$|$\tan{f(x)}$|$f'(x)\sec^2{f(x)}$
 |$\csc{f(x)}$|$-f'(x)\csc{f(x)}\cot{f(x)}$
 |$\sec{f(x)}$|$f'(x)\sec{f(x)}\tan{f(x)}$
 |$\cot{f(x)}$|$-f'(x)\csc^2{f(x)}$
