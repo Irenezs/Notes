@@ -59,7 +59,7 @@
 - [x] Ouro Kronii
 - [x] Pavolia Reine
 - [x] Roboco-san
-- [ ] Rosalyn
+- [x] Rosalyn
 - [x] Sakamata Chloe
 - 60
 - [x] Sakura Miko
