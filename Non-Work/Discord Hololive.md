@@ -6,7 +6,7 @@
 - [x] Anya Melfissa
 - [x] Artia
 - [x] Ayunda Risu
-- [ ] Bibi ?
+- [x] Bibi ?
 - [x] Bloop M
 - [x] Boros
 - [ ] Bubba M
