@@ -22,7 +22,7 @@
 - [x] Hakos Baelz
 - [x] Hakui Koyori
 - [x] Himemori Luna
-- [ ] Hitomi Chris
+- [x] Hitomi Chris
 - [x] Hoshimachi Suisei
 - [x] Hosoinu
 - [x] Houshou Marine
