@@ -9,7 +9,7 @@
 - [x] Bibi ?
 - [x] Bloop M
 - [x] Boros
-- [ ] Bubba M
+- [x] Bubba M
 - [x] Ceres Fauna
 - [x] Civia
 - [x] Daifuku ?
@@ -27,7 +27,7 @@
 - [x] Hosoinu
 - [x] Houshou Marine
 - [x] IRyS
-- [ ] Inugami Korone
+- [x] Inugami Korone
 - [x] Kaela Kovalskia
 - 30
 - [x] Kazama Iroha
