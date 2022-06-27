@@ -68,7 +68,7 @@
 - [x] Shirogame Noel
 - [x] Shishiro Botan
 - [x] Spade Echo
-- [ ] Takanashi Kiara
+- [x] Takanashi Kiara
 - [x] Takane Lui
 - [x] Tokino Sora
 - [x] Tokoyami Towa
