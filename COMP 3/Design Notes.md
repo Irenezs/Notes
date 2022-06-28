@@ -21,3 +21,8 @@ include OOP if applicable
 test plans:
 	create imaginary fake users to test data
 	create datasets to hand to program
+
+# Decomposition
+# Algorithm Designs
+# Possible Variables and Data Structures
+# Testing Plans
