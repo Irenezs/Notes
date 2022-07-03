@@ -8,4 +8,4 @@ Some games ostensibly about factory management end up more about other factors a
 Most games in this genre seem to burn up very quickly, using all of their content then by the half-way point your only goal is to just make a bigger factory, rather than giving you new tools or puzzles.
 
 ## Content
-Most games do not offer the ability to let users publish their own factories or levels, which will hamper their ability to 
+Most games do not offer the ability to let users publish their own factories or levels, which will increase the game's lifespan as long as the community wants it to live.
