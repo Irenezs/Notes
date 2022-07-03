@@ -53,7 +53,7 @@
 - [x] Ninomae Ina'nis
 - [x] Nousagi ?
 - [x] Omaru Polka
-- [ ] OmegaAlpha ?
+- [x] OmegaAlpha ?
 - [x] Ookami Mio
 - [x] Oozora Subaru
 - [x] Ouro Kronii
