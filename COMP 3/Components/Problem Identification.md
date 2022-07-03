@@ -4,4 +4,8 @@ In the current gaming ecosphere, there is a lack of truly exceptional games that
 ## Focus
 Some games ostensibly about factory management end up more about other factors added to the game, this does not detract from the game, but is not what I look for in a factory management game.
 
-## 
+## Content
+Most games in this genre seem to burn up very quickly, using all of their content then by the half-way point your only goal is to just make a bigger factory, rather than giving you new tools or puzzles.
+
+## Content
+Most games do not offer the ability to let users publish their own factories or levels, which will hamper their ability to 
