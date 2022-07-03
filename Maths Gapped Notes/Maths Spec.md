@@ -5,6 +5,8 @@
 - [ ] [[C3 Differentiation]]
 - [ ] [[C4 Integration]]
 - [ ] [[C5 Differentiation 2]]
+- [ ] [[C6 Numerical Integration]]
+- [ ] [[C7 Partial Fractions]]
 ## Geometry
 - [ ] [[G1 Vectors]]
 - [ ] [[G2 Radians, Arcs, and Sectors]]
@@ -22,6 +24,7 @@
 - [x] [[M3 Logarithms]]
 - [ ] [[M4 Trigonometric Functions]]
 - [ ] [[M5 Trigonometry]]
+- [ ] [[M6 Fur. Transformations of Graphs]]
 
 # Mechanics
 - [ ] [[Mech1 Kinematics|Kinematics]]

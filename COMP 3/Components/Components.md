@@ -1,4 +1,4 @@
 # Analysis
-## [[Problem Identification]]
-## [[Computational Approach]]
-## [[Stakeholders]]
+![[Problem Identification]]
+![[Computational Approach]]
+![[Stakeholders]]
