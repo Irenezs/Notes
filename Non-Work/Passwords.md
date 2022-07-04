@@ -1,4 +1,4 @@
-Site|Username|Password
+0Site|Username|Password
 :---|---:|:---
 Internet|BT-MQAGF7|gKEnFvtprQTmE6
 PuryFI|Irenezs|Sexy;brain;lake2
