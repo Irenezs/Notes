@@ -1,3 +1,3 @@
 # Design
 
-- Daughter of a distant monarchyz
+My chr met a girl at a ball when she was a child, and kept talking with the girl afterwards through letters. Eventually time passes and the chr is an adult, still talking with the other girl, and decides to run away to be with them, elope to wherever the girl is. As the chr gets to where the girl is, she enters the house, where the girl is dead. The body is still warm, it was murder and ransacking. She vows to find the killer and make them pay, and takes the necklace from her lovers body, as a memento. She then goes to the local tavern, or wherever the start of the campaign is
