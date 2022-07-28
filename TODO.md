@@ -10,4 +10,6 @@
 	- Research
 	- Maths P2
 - 2022-07-31
-	- 
+	- Physics Task 1
+	- If enough time, flesh out project
+- 2022-08-01
