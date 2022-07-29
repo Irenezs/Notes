@@ -63,6 +63,7 @@ cp|sp|ep|gp|pp
 - 
 
 # Spells
+Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
 Identifier|Cant|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---|---
 Max|2|3|0|0|0|0
