@@ -24,10 +24,10 @@ Animal Handling||Nature|
 Arcana||Perception*|
 Athletics||Performance|
 Deception||Persuasion|
-History*||Religion|
+History||Religion|
 Insight||Sleight of Hand|
 Intimidation||Stealth|
-Investigation||Survival|
+Investigation*||Survival|
 Item Proficiencies:
 - Light Armour
 - Medium Armour
