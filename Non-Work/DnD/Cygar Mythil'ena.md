@@ -88,6 +88,12 @@ cp|sp|ep|gp|pp
 	- Lightning Launcher
 		- Gemlike node on the chest of the armour, counts as a simple ranged weapon. with range 90/300.
 		- 1d6 lightning damage on hit
+		- Once per turn when attacking with this, can use an extra 1d6 lightning damage on one enemy hit
+	- Powered Steps
+		- Speed increases by 5ft
+	- Dampening Field
+		- Advantage on Stealth Checks
+		- If armour gives disadvantage on stealth checks, they cancel out.
 # Spells
 Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
 Identifier|Cant|1st|2nd|3rd|4th|5th
