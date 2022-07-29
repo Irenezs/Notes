@@ -105,6 +105,9 @@ Infusions Known|Max Infusions|Objects Infused
 - You create a creature 
 - AC 13, HP 1+INT Mod + Artificer Level number of d4s
 - Speed 20ft, flight 30ft
+- Immune to Poison, Exhaustion, Poisoned
+- Darkvision 60ft
+- Passive Perception 14
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
@@ -130,6 +133,12 @@ Insight|+0|Sleight of Hand|+2
 Intimidation|-2|Stealth|+4
 Investigation|+0|Survival|+0
 
+Trait: Evasion
+	On DEX Saving throw to take half damage, the creature takes none for a success and half for a fail
+Actions:
+	Force Strike: Ranged, Spell Attack Mod to hit, range 30ft, 1d4 +2 force damage
+Reactions:
+	Channel Magic: Creature delivers a spell you cast that has a range of touch,
 ## Spells
 Requires a spellcasting focus
 
