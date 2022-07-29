@@ -6,9 +6,9 @@ Current HP:
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
-STR|||INT|18|
-DEX|||WIS||
-CON|||CHR||
+STR|6|-2|INT|18|+4
+DEX|13|+1|WIS|15|+2
+CON|16|+3|CHR|16|+3
 
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
