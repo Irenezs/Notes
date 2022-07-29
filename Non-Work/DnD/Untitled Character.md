@@ -84,7 +84,10 @@ cp|sp|ep|gp|pp
 		- The armour replaces any missing limbs
 		- Can don and doff as an action
 	- Armour is arcane until death or you don another suit
-- 
+- Armour Model - Infiltrator
+	- Lightning Launcher
+		- Gemlike node on the chest of the armour, counts as a simple ranged weapon. with range 90/300.
+		- 1d6 lightning damage on hit
 # Spells
 Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
 Identifier|Cant|1st|2nd|3rd|4th|5th
