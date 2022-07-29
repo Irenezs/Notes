@@ -43,7 +43,13 @@ cp|sp|ep|gp|pp
 
 # Abilities
 
-
+- Magical Tinkering
+	- Invest Magic into Tiny objects
+	- Needs Thieves' or Artisans' Tools
+	- Touch object to infuse
+	- Uses an action
+	- Can remove infusion, taking an action
+	- 
 
 # Spells
 Identifier|Cant|1st|2nd|3rd|4th|5th
