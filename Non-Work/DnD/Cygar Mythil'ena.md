@@ -70,6 +70,7 @@ cp|sp|ep|gp|pp
 	- The infusion also is removed if you lose knowledge of that infusion
 	- If you infuse over the maximum objects, the oldest infusion is lost
 	- Only one object can bear one of your infusions
+	- 
 - Right Tool for the Right Job
 	- Take one hour (can be in a short or long rest) to produce a set of artisans' tools
 	- Tools vanish when you use this ability again
