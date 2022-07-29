@@ -73,7 +73,7 @@ cp|sp|ep|gp|pp
 	- Tools vanish when you use this ability again
 	- Need Thieves' Tools or Artisans' Tools to use ability
 
-## Subclass - 
+## Subclass - Armourer
 
 # Spells
 Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
