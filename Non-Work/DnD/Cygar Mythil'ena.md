@@ -103,6 +103,11 @@ Infusions Known|Max Infusions|Objects Infused
 ### Homunculus Servant
 - Item: Gem or Crystal worth 100gp
 - You create a creature 
+- The Initiative is equal to yours, but takes its turn after yours.
+- Can move and react on its own, but can only dodge unless you take a bonus action to command it.
+- If you are incapacitated, it can attack on its own.
+- Regains 2d6 HP if mending cast on it.
+- When it dies, it leaves the gem or crystal behind
 - AC 13, HP 1+INT Mod + Artificer Level number of d4s
 - Speed 20ft, flight 30ft
 - Immune to Poison, Exhaustion, Poisoned
@@ -138,7 +143,8 @@ Trait: Evasion
 Actions:
 	Force Strike: Ranged, Spell Attack Mod to hit, range 30ft, 1d4 +2 force damage
 Reactions:
-	Channel Magic: Creature delivers a spell you cast that has a range of touch,
+	Channel Magic: Creature delivers a spell you cast that has a range of touch, The creature must be within 120ft
+### 
 ## Spells
 Requires a spellcasting focus
 
