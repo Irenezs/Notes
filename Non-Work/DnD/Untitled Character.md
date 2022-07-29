@@ -31,10 +31,13 @@ Investigation||Survival|
 Item Proficiencies:
 - Light Armour
 - Medium Armour
+- Heavy Armour
 - Shields
 - Simple Weapons
-- Thieves' Tolls
+- Thieves' Tools
 - Tinkers' Tools
+- Smiths' Tools
+- 
 - [One Artisans' Tools]
 ## Wallet
 cp|sp|ep|gp|pp
