@@ -60,7 +60,9 @@ cp|sp|ep|gp|pp
 			- The object continuously emits an odour or non-verbal sound, can be heard from 10ft away.
 		- Display
 			- A surface of the object now resembles an image, 25 words of text, lines and shapes, or a mixture of these elements.
-- 
+- Infuse Item
+	- Can infuse mundane items with magic
+	- 
 
 # Spells
 Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
