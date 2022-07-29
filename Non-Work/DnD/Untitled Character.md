@@ -62,6 +62,12 @@ cp|sp|ep|gp|pp
 			- A surface of the object now resembles an image, 25 words of text, lines and shapes, or a mixture of these elements.
 - Infuse Item
 	- Can infuse mundane items with magic
+	- Used after finishing a Long Rest to infuse as many objects as you want
+	- Can attune to an object the instant you infuse it
+	- Infusion has no time limit, however will be removed after INT Mod days, in the event of your death
+	- The infusion also is removed if you lose knowledge of that infusion
+	- If you infuse over the maximum objects, the oldest infusion is lost
+	- Only one object can bear one of your infusions
 	- 
 
 # Spells
