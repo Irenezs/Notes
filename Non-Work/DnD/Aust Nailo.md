@@ -61,14 +61,12 @@ cp|sp|ep|gp|pp
 		- If alone, can travel stealthily at a normal pace
 		- Foraging finds double food it would normally
 		- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
-
-## Class
 - Primeval Awareness
 	- Use action and one spell slot for one minute per level of spell slot expended
 	- Sense creatures within 1 mile (or 6 in favoured terrain)
 	- Works on aberrations, celestials, dragons, elementals, fey, fiends, and undead
 
-### Subclass
+## Subclass
 - Horizon Walker
 - Detect Portal
 	- Action, distance and direction to nearest portal, in range of 1 mile

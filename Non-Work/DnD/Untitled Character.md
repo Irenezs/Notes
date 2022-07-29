@@ -1,8 +1,8 @@
 # Design
 My chr met a girl at a ball when she was a child, and kept talking with the girl afterwards through letters. Eventually time passes and the chr is an adult, still talking with the other girl, and decides to run away to be with them, elope to wherever the girl is. As the chr gets to where the girl is, she enters the house, where the girl is dead. The body is still warm, it was murder and ransacking. She vows to find the killer and make them pay, and takes the necklace from her lovers body, as a memento. She then goes to the local tavern, or wherever the start of the campaign is
 # Stats
-Max HP: 
-Current HP: 
+Max HP: 16
+Current HP: 16 
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
@@ -39,3 +39,13 @@ Item Proficiencies:
 cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|0|0
+
+# Abilities
+
+
+
+# Spells
+Identifier|Cant|1st|2nd|3rd|4th|5th
+---|---|---|---|---|---|---
+Max|2|3|0|0|0|0
+Current|$\infty$|3|0|0|0|0
