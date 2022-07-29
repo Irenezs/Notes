@@ -103,7 +103,21 @@ Infusions Known|Max Infusions|Objects Infused
 - Homunculus Servant
 	- Item: Gem or Crystal worth 100gp
 	- You create a creature 
-	- AC 13, HP 1+INT Mod + Artificer Level
+	- AC 13, HP 1+INT Mod + Artificer Level number of d4s
+	- Speed 20ft, flight 30ft
+
+Ability|Value|Mod|Ability|Value|Mod
+---|---|---|---|---|---
+STR|4|-3|INT|10|+0
+DEX|15|+2|WIS|10|+0
+CON|12|+1|CHR|7|-2
+
+Saving Throw|Mod|Saving Throw|Mod
+---|---|---|---
+STR|-3|INT|
+DEX*|+4|WIS|
+CON||CHR|
+
 ## Spells
 Requires a spellcasting focus
 
