@@ -3,6 +3,7 @@ My chr met a girl at a ball when she was a child, and kept talking with the girl
 # Stats
 Max HP: 16
 Current HP: 16 
+Proficiency: +2
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
