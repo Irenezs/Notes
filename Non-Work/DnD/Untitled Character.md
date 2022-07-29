@@ -49,6 +49,7 @@ cp|sp|ep|gp|pp
 	- Touch object to infuse
 	- Uses an action
 	- Can remove infusion, taking an action
+	- One object can only have a single infusion
 	- 
 
 # Spells
