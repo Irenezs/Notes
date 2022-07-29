@@ -144,7 +144,9 @@ Actions:
 	Force Strike: Ranged, Spell Attack Mod to hit, range 30ft, 1d4 +2 force damage
 Reactions:
 	Channel Magic: Creature delivers a spell you cast that has a range of touch, The creature must be within 120ft
-### 
+### Replicate Magic Item
+- Can be learned several times
+- 
 ## Spells
 Requires a spellcasting focus
 
