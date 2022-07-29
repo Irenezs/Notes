@@ -49,14 +49,18 @@ cp|sp|ep|gp|pp
 	- Touch object to infuse
 	- Uses an action
 	- Can remove infusion, taking an action
-	- One object can only have a single infusion
 	- Maximum objects is INT modifier
 	- If infusing while at maximum, the oldest infusion is cancelled immediately and the newest goes through
 	- Properties:
 		- Brightness
 			- Sheds light for 5ft and dim light for an additional 5ft
 		- Recording
-			- The object holds a recording of a message that is played when a creature touches the object, the message cann
+			- The object holds a recording of a message that is played when a creature touches the object, the message cannot be longer than 6 seconds and can only be heard within 10ft. The message is recorded when infusing
+		- Decoy
+			- The object continuously emits an odour or non-verbal sound, can be heard from 10ft away.
+		- Display
+			- A surface of the object now resembles an image, 25 words of text, lines and shapes, or a mixture of these elements.
+- 
 
 # Spells
 Identifier|Cant|1st|2nd|3rd|4th|5th
