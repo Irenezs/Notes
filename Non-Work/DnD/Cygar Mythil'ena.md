@@ -145,8 +145,8 @@ Actions:
 Reactions:
 	Channel Magic: Creature delivers a spell you cast that has a range of touch, The creature must be within 120ft
 ### Replicate Magic Item
-- Can be learned several times
-- 
+### Repeating Shot
+- Item: Simple 
 ## Spells
 Requires a spellcasting focus
 
