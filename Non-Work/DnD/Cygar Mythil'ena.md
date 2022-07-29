@@ -7,9 +7,9 @@ Proficiency: +2
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
-STR|6|-2|INT|18|+4
-DEX|13|+1|WIS|15|+2
-CON|16|+3|CHR|16|+3
+STR|7|-2|INT|19|+4
+DEX|14|+2|WIS|16|+3
+CON|17|+3|CHR|17|+3
 
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
