@@ -100,7 +100,9 @@ Infusions Known|Max Infusions|Objects Infused
 ---|---|---
 4|2|0
 
-
+Homunculus Servant
+	Item: Gem or Crystal worth 100gp
+	
 
 ## Spells
 Requires a spellcasting focus
