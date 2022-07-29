@@ -37,7 +37,6 @@ Item Proficiencies:
 - Thieves' Tools
 - Tinkers' Tools
 - Smiths' Tools
-- 
 - [One Artisans' Tools]
 ## Wallet
 cp|sp|ep|gp|pp
@@ -77,7 +76,15 @@ cp|sp|ep|gp|pp
 	- Need Thieves' Tools or Artisans' Tools to use ability
 
 ## Subclass - Armourer
-
+- Arcane Armour
+	- As an action, can turn a set of armour you are wearing into arcane armour
+		- The armour does not have a STR requirement
+		- Can use the armour as a spellcasting focus
+		- Armour cannot be removed against your will
+		- The armour replaces any missing limbs
+		- Can don and doff as an action
+	- Armour is arcane until death or you don another suit
+- 
 # Spells
 Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
 Identifier|Cant|1st|2nd|3rd|4th|5th
