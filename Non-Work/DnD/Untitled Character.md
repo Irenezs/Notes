@@ -43,14 +43,20 @@ cp|sp|ep|gp|pp
 
 # Abilities
 
-- Magical Tinkering
+- Magical Tinkering (Max: 4)
 	- Invest Magic into Tiny objects
 	- Needs Thieves' or Artisans' Tools
 	- Touch object to infuse
 	- Uses an action
 	- Can remove infusion, taking an action
 	- One object can only have a single infusion
-	- 
+	- Maximum objects is INT modifier
+	- If infusing while at maximum, the oldest infusion is cancelled immediately and the newest goes through
+	- Properties:
+		- Brightness
+			- Sheds light for 5ft and dim light for an additional 5ft
+		- Recording
+			- The object holds a recording of a message that is played when a creature touches the object, the message cann
 
 # Spells
 Identifier|Cant|1st|2nd|3rd|4th|5th
