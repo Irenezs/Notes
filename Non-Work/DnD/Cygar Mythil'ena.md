@@ -100,6 +100,8 @@ Infusions Known|Max Infusions|Objects Infused
 ---|---|---
 4|2|0
 
+
+
 ## Spells
 Requires a spellcasting focus
 
