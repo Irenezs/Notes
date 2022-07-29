@@ -145,8 +145,12 @@ Actions:
 Reactions:
 	Channel Magic: Creature delivers a spell you cast that has a range of touch, The creature must be within 120ft
 ### Replicate Magic Item
+### Replicate Magic Item
 ### Repeating Shot
-- Item: Simple 
+- Item: Simple or martial weapon with ammuntion property (Requires attunement)
+- The item gains a +1 to attack AND damage rolls
+- Ignores loading property
+- If no ammo is loaded, it produces its own. This ammo vanishes the instant it hits an enemy or misses
 ## Spells
 Requires a spellcasting focus
 
