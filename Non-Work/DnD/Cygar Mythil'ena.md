@@ -70,7 +70,6 @@ cp|sp|ep|gp|pp
 	- The infusion also is removed if you lose knowledge of that infusion
 	- If you infuse over the maximum objects, the oldest infusion is lost
 	- Only one object can bear one of your infusions
-	- 
 - Right Tool for the Right Job
 	- Take one hour (can be in a short or long rest) to produce a set of artisans' tools
 	- Tools vanish when you use this ability again
@@ -96,7 +95,14 @@ cp|sp|ep|gp|pp
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
 # Spells
-Requires a spellcasting focus - Thieves' Tools or Artisans' Tools that you are proficient in
+## Infusions
+Infusions Known|Max Infusions|Objects Infused
+---|---|---
+4|2|0
+
+## Spells
+Requires a spellcasting focus
+
 Identifier|Cant|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---|---
 Max|2|3|0|0|0|0
