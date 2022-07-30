@@ -46,6 +46,8 @@ cp|sp|ep|gp|pp
 # Traits
 5'2" 120lb
 Languages: Common, Celestial
+Lawful Neutral
+
 
 # Abilities
 
