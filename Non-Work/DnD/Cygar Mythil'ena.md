@@ -50,6 +50,12 @@ Lawful Neutral
 
 ## Background - Sagely Princess
 - Astronomer Class
+- Feature: Researcher
+	- When you attempt to learn a piece of lore, you usually know where you would be able to find it.
+
+Personality Traits:
+- I am constantly tinkering with my armour, it must be perfect to complete my goals.
+- I keep my borders weary, I must be careful as they may 
 # Abilities
 
 - Magical Tinkering (Max: 4)
