@@ -177,3 +177,7 @@ Identifier|Cant|1st|2nd|3rd|4th|5th
 ---|---|---|---|---|---|---
 Max|2|3|0|0|0|0
 Current|$\infty$|3|0|0|0|0
+
+Spellcasting Ability: INT
+Spell Save DC: 14
+Spell Attack Mod: +6
