@@ -1,0 +1,16 @@
+- Fusion Ignitor
+	- Portable Reactor
+		- Liquid Explosive
+		- Fusion Accelerant
+	- Quantum Processor
+		- Circuit Board
+			- Heat Capacitor
+				- Frost Crystal x100
+				- Solanium x200
+			- Poly Fibre
+				- Cactus Flesh x100
+				- Star Bulb x200
+		- Superconductor
+			- Semiconductor
+			- Enriched Carbon
+	- Geodesite
