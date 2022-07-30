@@ -45,6 +45,8 @@ cp|sp|ep|gp|pp
 
 # Traits
 5'2" 120lb
+Languages: Common, Celestial
+
 # Abilities
 
 - Magical Tinkering (Max: 4)
