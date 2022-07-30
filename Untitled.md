@@ -8,7 +8,15 @@
 				- Cactus Flesh x200
 		- Fusion Accelerant
 			- Organic Catalyst
+				- Thermic Condensate
+					- Sulfurine x250
+					- Condensed Carbon x50
+				- Enriched Carbon
+					- Radon x250
+					- Condensed Carbon x50
 			- Nitrogen Salt
+				- Nitrogen x250
+				- Condensed Carbon x50
 	- Quantum Processor
 		- Circuit Board
 			- Heat Capacitor
@@ -29,3 +37,12 @@
 				- Radon x250
 				- Condensed Carbon x50
 	- Geodesite
+		- Dirty Bronze
+			- Pyrite x50
+			- Pure Ferrite x100
+		- Herox
+			- Ammonia x50
+			- Ionised Cobalt x50
+		- Lemmium
+			- Uranium x50
+			- Pure Ferrite x100
