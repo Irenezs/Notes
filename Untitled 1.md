@@ -2,7 +2,7 @@
 - [ ] Fungal Mould x600
 - [ ] Cactus Flesh x300
 - [ ] Frost Crystal x100
-- [ ] Solanium x200
+- [x] Solanium x200
 - [ ] Star Bulb x200
 
 - [ ] Sulfurine x500
@@ -10,12 +10,12 @@
 - [ ] Nitrogen x500
 
 - [ ] Condensed Carbon x300
-	- [ ] Carbon x600
+	- [x] Carbon x600
 - [ ] Pure Ferrite x200
 	- [ ] Ferrite Dust x200
 - [ ] Ionised Cobalt x50
 	- [ ] Cobalt x100
 
-- [x] Pyrite x50
+- [ ] Pyrite x50
 - [x] Ammonia x50
-- [x] Uranium x50 
+- [ ] Uranium x50 
