@@ -44,7 +44,7 @@ cp|sp|ep|gp|pp
 0|0|0|0|0
 
 # Traits
-
+5'2" 120lb
 # Abilities
 
 - Magical Tinkering (Max: 4)
