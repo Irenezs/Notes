@@ -1,7 +1,14 @@
 - Fusion Ignitor
 	- Portable Reactor
 		- Liquid Explosive
+			- Acid
+				- Mordite x25
+				- Fungal Mould x600
+			- Unstable Gel
+				- Cactus Flesh x200
 		- Fusion Accelerant
+			- Organic Catalyst
+			- Nitrogen Salt
 	- Quantum Processor
 		- Circuit Board
 			- Heat Capacitor
@@ -12,5 +19,13 @@
 				- Star Bulb x200
 		- Superconductor
 			- Semiconductor
+				- Thermic Condensate
+					- Sulfurine x250
+					- Condensed Carbon x50
+				- Nitrogen Salt
+					- Nitrogen x250
+					- Condensed Carbon x50
 			- Enriched Carbon
+				- Radon x250
+				- Condensed Carbon x50
 	- Geodesite
