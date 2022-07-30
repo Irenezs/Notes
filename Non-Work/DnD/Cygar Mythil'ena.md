@@ -55,7 +55,13 @@ Lawful Neutral
 
 Personality Traits:
 - I am constantly tinkering with my armour, it must be perfect to complete my goals.
-- I keep my borders weary, I must be careful as they may 
+- I keep my borders weary, I must be careful as they may want me back home.
+Ideal
+- Power - Knowledge is the key to power and ending burdens.
+Bond
+- The bond shared with her late lover, who was still warm when Cygar found her lifeless.
+Flaw
+- When tunneled onto a goal, the most obvious solution can become clouded.
 # Abilities
 
 - Magical Tinkering (Max: 4)
