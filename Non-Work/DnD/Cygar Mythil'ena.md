@@ -61,7 +61,7 @@ Ideal
 Bond
 - The bond shared with her late lover, who was still warm when Cygar found her lifeless.
 Flaw
-- When tunneled onto a goal, the most obvious solution can become clouded.
+- When tunnelled onto a goal, the most obvious solution can become clouded.
 # Abilities
 
 - Magical Tinkering (Max: 4)
