@@ -21,10 +21,10 @@ Skill|Mod|Skill|Mod
 ---|---|---|---
 Acrobatics||Medicine|
 Animal Handling||Nature|
-Arcana||Perception*|
+Arcana*||Perception*|
 Athletics||Performance|
 Deception||Persuasion|
-History||Religion|
+History*||Religion|
 Insight||Sleight of Hand|
 Intimidation||Stealth|
 Investigation*||Survival|
@@ -45,10 +45,11 @@ cp|sp|ep|gp|pp
 
 # Traits
 5'2" 120lb
-Languages: Common, Celestial
+Languages: Common, Celestial, Dwarfish, Elvish
 Lawful Neutral
 
-
+## Background - Sagely Princess
+- Astronomer Class
 # Abilities
 
 - Magical Tinkering (Max: 4)
