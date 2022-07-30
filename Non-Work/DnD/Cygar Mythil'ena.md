@@ -3,6 +3,7 @@ Max HP: 16
 Current HP: 16 
 Proficiency: +2
 Speed: 30ft (+5 once arcane armour made)
+EXP: 900 LVL: 3
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
@@ -12,21 +13,21 @@ CON|17|+3|CHR|17|+3
 
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
-STR||INT*|
-DEX||WIS|
-CON*||CHR|
+STR|-2|INT*|+6
+DEX|+2|WIS|+3
+CON*|+5|CHR|+3
 
 Skill|Mod|Skill|Mod
 ---|---|---|---
-Acrobatics||Medicine|
-Animal Handling||Nature|
-Arcana*||Perception*|
-Athletics||Performance|
-Deception||Persuasion|
-History*||Religion|
-Insight||Sleight of Hand|
-Intimidation||Stealth|
-Investigation*||Survival|
+Acrobatics|+2|Medicine|+3
+Animal Handling|+3|Nature|+4
+Arcana*|+6|Perception*|+5
+Athletics|-2|Performance|+3
+Deception|+3|Persuasion|+3
+History*|+6|Religion|+4
+Insight|+3|Sleight of Hand|+2
+Intimidation|+3|Stealth|+2
+Investigation*|+6|Survival|+3
 Item Proficiencies:
 - Light Armour
 - Medium Armour
@@ -36,7 +37,7 @@ Item Proficiencies:
 - Thieves' Tools
 - Tinkers' Tools
 - Smiths' Tools
-- [One Artisans' Tools]
+- Calligraphers' Tools
 ## Wallet
 cp|sp|ep|gp|pp
 ---|---|---|---|---
