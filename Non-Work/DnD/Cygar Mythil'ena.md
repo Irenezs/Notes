@@ -43,6 +43,8 @@ cp|sp|ep|gp|pp
 ---|---|---|---|---
 0|0|0|0|0
 
+# Traits
+
 # Abilities
 
 - Magical Tinkering (Max: 4)
