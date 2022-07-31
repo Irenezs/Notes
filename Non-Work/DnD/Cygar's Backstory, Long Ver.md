@@ -35,7 +35,7 @@ Cygar takes the girl to a small gap in the back wall, and tells Frixfal to enter
 
 The two girls keep talking, losing track of time, it ends up being about 45 minutes before they leave the den.
 
-# Chapter 
+# Chapter Market
 
 "Okay, I think the coast is clear by now, what should we do in town?"
 
@@ -75,4 +75,4 @@ Cygar sighs, and makes her way to the castle.
 
 The gate attendants open the gate hurriedly, and tell her to go to the main chamber, her parents want her. Its only natural, she caused a lot of trouble today; the main show of the festival going missing, though its not like this was the first time this happened.
 
-In the main chamber, the King hugs Cygar gently, as he usually does 
+In the main chamber, the King hugs Cygar gently, as he usually does after these events. Her mother, however, gives her a snide look and Cygar heads to her room slightly angry, but overall satisfied with her day, going to sleep with the teddy in her arms.
