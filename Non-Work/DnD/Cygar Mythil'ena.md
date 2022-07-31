@@ -136,8 +136,16 @@ Thieves' Tools|1|1
 Smiths' Tools|8|1
 Tinderbox|1|1
 Tent|20|1
+Ink Bottle, black|0|1
+Quill|0|1
+Knife, small|0|1
+Clothes, common|3|1
+Letter [3]
+
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
+[3]
+
 # Spells
 ## Infusions
 Infusions Known|Max Infusions|Objects Infused
