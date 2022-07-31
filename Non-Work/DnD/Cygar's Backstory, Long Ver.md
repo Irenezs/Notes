@@ -59,4 +59,8 @@ Announcers call out to the crowds, most paying no notice to them.
 "Another miss!"
 
 "Here, let me try." Frixfal takes the remaining ball, and takes a deep breath, tests the weight of the ball and takes a deep breath, using her other arm as a guide line for the trajectory, and throws the ball with an amount of force Cygar didn't expect, but before she could say anything, the sound of splashing and a man, trying really hard not to curse in front of children, being very cold.
-""
+"I did it" Frixfal makes a peace sign with her fingers for a brief moment, before taking the prize for a bullseye, a trinket really, a small plush made with medium quality materials. Immediately after taking the prize, she turns to Cygar, "Here, its for you!"
+
+Cygar, with a slight blush, accepts the teddy with a small thanks, not wanting to draw attention due to her prominence.
+
+The two take turns on each of the machines, eventually tiring out, where Frixfal says "I need to return to my family, they must be worried "
