@@ -128,8 +128,14 @@ Backpack [1]|5|1
 Bedroll|7|1
 Crowbar|5|1
 Hammer|3|1
+Mess Kit|1|1
+Ration, one day|2|20|40
+Hempen Rope, 1ft|0.2|50|10
+Waterskin [2]|5|1
+Thieves' Tools|1|1
 
-
+[1] Holds 30lb, Bedroll strapped to the outside
+[2] Holding 4 pint of clean water
 # Spells
 ## Infusions
 Infusions Known|Max Infusions|Objects Infused
