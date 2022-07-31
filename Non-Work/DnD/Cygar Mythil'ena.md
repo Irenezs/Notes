@@ -113,6 +113,17 @@ Flaw
 	- Dampening Field
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
+
+# Equipment
+Piece|Weight|Quantity
+---|---|---
+Studded Leather Armour|13|1
+Shield|6|1
+Dagger|1|1
+Mace|4|1
+Crossbow, light|5|1
+Crossbow Bolt|0.025|60
+
 # Spells
 ## Infusions
 Infusions Known|Max Infusions|Objects Infused
