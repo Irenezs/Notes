@@ -15,4 +15,8 @@ Cygar smiles gingerly, before taking Frixfal's hand and dragging her further int
 
 "Its not like I have a choice." Frixfal responds with a smirk on her face, though it goes unnoticed by Cygar, focusing on remembering the map she had half a look at in the castle.
 
-Cygar takes the girl o
+Cygar takes the girl to a small gap in the back wall, and tells Frixfal to enter the gap, to which she accepts, and both the girls enter the small cubby hole, enough room to hold about 3 people comfortably, with a makeshift table made of scraps from the area.
+
+"So, why are you here? Is it for the festival" Cygar asks, after getting comfortable sitting cross-legged at the table.
+
+"Yeah, of course! That's why everyone is here, dork." Frixf
