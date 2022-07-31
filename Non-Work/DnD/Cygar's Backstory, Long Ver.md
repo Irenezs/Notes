@@ -11,4 +11,8 @@ Chatter can be heard from the bustle, and our focus slinks further into the alle
 
 "Oh wow! I've always wanted to meet a princess! My names is Frixfal" She responds graciously, giving courtesy with the hem of her dress. 
 
-Cygar smiles gingerly, before taking Frixfal's hand 
+Cygar smiles gingerly, before taking Frixfal's hand and dragging her further into the alley. "Quick, they're after me, follow me!", Cygar whispers in such a way that it is audible to Frixfal
+
+"Its not like I have a choice." Frixfal responds with a smirk on her face, though it goes unnoticed by Cygar, focusing on remembering the map she had half a look at in the castle.
+
+Cygar takes the girl o
