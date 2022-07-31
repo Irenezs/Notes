@@ -140,11 +140,11 @@ Ink Bottle, black|0|1
 Quill|0|1
 Knife, small|0|1
 Clothes, common|3|1
-Letter [3]
+Letter [3]|0|1
 
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
-[3]
+[3] Last letter from her lover, inviting Cygar to her home
 
 # Spells
 ## Infusions
