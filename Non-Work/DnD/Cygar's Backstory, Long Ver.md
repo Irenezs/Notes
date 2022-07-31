@@ -44,4 +44,12 @@ The two girls keep talking, losing track of time, it ends up being about 45 minu
 "Well I can provide that!" Cygar pulls out about 5gp worth of coins, made of copper pieces and some silver pieces, and a single gold piece. The girls go to the market.
 
 "Test your luck, dunk the man, gain a prize!"
-"Test your strength, large prizes to those who strike the bel"
+"Test your strength, large prizes to those who strike the bell!"
+"Test your dexterity, fill the balloon, win big!"
+Announcers call out to the crowds, most paying no notice to them.
+
+"Which do you wanna go on first?" Cygar asks, looking as if she had stars in her eyes.
+
+"I wanna try them all! Lets do the dunking one!" Frixfal replies, just as eager as Cygar.
+
+"Step right up! 5cp for 3 shots, 10cp for 7! Want to test your luck, young misses?" Cygar hands the attendee 10cp and takes a ball. She takes her hand back
