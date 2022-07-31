@@ -9,4 +9,6 @@ Chatter can be heard from the bustle, and our focus slinks further into the alle
 
 "You're telling me you don't recognise me?" Our troublemaker asks. "I'm Cygar Pexthia, the crown princess!"
 
-"Oh wow! I've always wanted to meet a princess! My names is Frixfal"
+"Oh wow! I've always wanted to meet a princess! My names is Frixfal" She responds graciously, giving courtesy with the hem of her dress. 
+
+Cygar smiles gingerly, before taking Frixfal's hand 
