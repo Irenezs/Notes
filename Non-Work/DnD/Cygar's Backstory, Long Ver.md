@@ -23,4 +23,12 @@ Cygar takes the girl to a small gap in the back wall, and tells Frixfal to enter
 
 "Oh, until they start looking in the suburbs, should only take about 20 minutes." Cygar responds quickly, as if she didn't hear the insult.
 
-"Why are you running, today of all days? Surely you should be celebrating with the royal family"
+"Why are you running, today of all days? Surely you should be celebrating with the royal family."
+
+"Because they make such a spectacle about it, you saw all the market stalls out there!"
+
+"Its the crown princesses' birthday, I would hope they have a spectacle!"
+
+"Its just annoying, though, I just wanna have fun, there's too much waving to be done as a royal..."
+
+The two girls keep talking, losing track of time, it ends up being about 45 minutes before they leave the den.
