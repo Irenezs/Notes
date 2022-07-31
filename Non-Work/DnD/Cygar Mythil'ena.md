@@ -145,7 +145,7 @@ Locket [4]|0|1
 
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
-[3] From a colleague of 
+[3] From a colleague in Pexthonia, prosing an astronomical problem Cygar hasn't solved
 [4] Holding two images, one of Cygar and another of Frixfal
 
 # Spells
