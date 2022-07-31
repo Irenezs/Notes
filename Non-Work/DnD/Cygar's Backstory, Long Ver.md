@@ -1,3 +1,5 @@
+# Chapter Introduction
+
 A busy street, full of market stalls, families and an all around sense of joy. There is a festive mood in Pexthiona's capital, and in one particular back-street, an important person is fleeing the castle guards.
 
 "Have you seen this lady?"
@@ -32,3 +34,14 @@ Cygar takes the girl to a small gap in the back wall, and tells Frixfal to enter
 "Its just annoying, though, I just wanna have fun, there's too much waving to be done as a royal..."
 
 The two girls keep talking, losing track of time, it ends up being about 45 minutes before they leave the den.
+
+# Chapter 
+
+"Okay, I think the coast is clear by now, what should we do in town?"
+
+"I think I saw an entertainment corner with my parents when I was walking with them but I didn't have any money..."
+
+"Well I can provide that!" Cygar pulls out about 5gp worth of coins, made of copper pieces and some silver pieces, and a single gold piece. The girls go to the market.
+
+"Test your luck, dunk the man, gain a prize!"
+"Test your strength, large prizes to those who strike the bel"
