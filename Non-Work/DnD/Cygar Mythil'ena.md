@@ -141,10 +141,12 @@ Quill|0|1
 Knife, small|0|1
 Clothes, common|3|1
 Letter [3]|0|1
+Locket [4]|0|1
 
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
 [3] Last letter from her lover, inviting Cygar to her home
+[4] Holding two images, one of Cygar and another of 
 
 # Spells
 ## Infusions
