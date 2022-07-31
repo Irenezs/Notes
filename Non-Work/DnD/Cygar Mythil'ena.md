@@ -133,7 +133,9 @@ Ration, one day|2|20|40
 Hempen Rope, 1ft|0.2|50|10
 Waterskin [2]|5|1
 Thieves' Tools|1|1
-
+Smiths' Tools|8|1
+Tinderbox|1|1
+Tent|20|1
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
 # Spells
