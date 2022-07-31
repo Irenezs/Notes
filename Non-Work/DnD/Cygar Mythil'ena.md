@@ -145,8 +145,8 @@ Locket [4]|0|1
 
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
-[3] Last letter from her lover, inviting Cygar to her home
-[4] Holding two images, one of Cygar and another of 
+[3] From a colleague of 
+[4] Holding two images, one of Cygar and another of Frixfal
 
 # Spells
 ## Infusions
