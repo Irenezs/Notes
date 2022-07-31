@@ -3,6 +3,7 @@ Max HP: 16
 Current HP: 16 
 Proficiency: +2
 Speed: 30ft (+5 once arcane armour made)
+Armour Class: 14 (+2 with shield)
 EXP: 900 LVL: 3
 
 Ability|Value|Mod|Ability|Value|Mod
