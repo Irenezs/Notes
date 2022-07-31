@@ -115,14 +115,20 @@ Flaw
 		- If armour gives disadvantage on stealth checks, they cancel out.
 
 # Equipment
-Piece|Weight|Quantity
----|---|---
+Piece|Weight|Quantity|Total Weight
+---|---|---|---
 Studded Leather Armour|13|1
 Shield|6|1
 Dagger|1|1
 Mace|4|1
 Crossbow, light|5|1
-Crossbow Bolt|0.025|60
+Crossbow Bolt|0.075|60|4.5
+Pexthian Signet Ring|0|1
+Backpack [1]|5|1
+Bedroll|7|1
+Crowbar|5|1
+Hammer|3|1
+
 
 # Spells
 ## Infusions
