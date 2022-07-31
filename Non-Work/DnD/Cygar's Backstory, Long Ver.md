@@ -19,4 +19,8 @@ Cygar takes the girl to a small gap in the back wall, and tells Frixfal to enter
 
 "So, why are you here? Is it for the festival" Cygar asks, after getting comfortable sitting cross-legged at the table.
 
-"Yeah, of course! That's why everyone is here, dork." Frixf
+"Yeah, of course! That's why everyone is here, dork." Frixfal replies, sitting down with less force and more caution. "How long will we be staying in here?"
+
+"Oh, until they start looking in the suburbs, should only take about 20 minutes." Cygar responds quickly, as if she didn't hear the insult.
+
+"Why are you running, today of all days? Surely you should be celebrating with the royal family"
