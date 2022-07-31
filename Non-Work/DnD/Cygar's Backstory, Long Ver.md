@@ -63,4 +63,16 @@ Announcers call out to the crowds, most paying no notice to them.
 
 Cygar, with a slight blush, accepts the teddy with a small thanks, not wanting to draw attention due to her prominence.
 
-The two take turns on each of the machines, eventually tiring out, where Frixfal says "I need to return to my family, they must be worried "
+The two take turns on each of the machines, eventually tiring out, where Frixfal says "I need to return to my family, they must be worried sick, and so should you Cygar."
+
+"Fiiiinnnnneeee, but we must play together again soon!"
+
+Frixfal giggles, and agrees, before waving off and goes off to her families lodging.
+
+Cygar sighs, and makes her way to the castle.
+
+"Well go on, let me in" 
+
+The gate attendants open the gate hurriedly, and tell her to go to the main chamber, her parents want her. Its only natural, she caused a lot of trouble today; the main show of the festival going missing, though its not like this was the first time this happened.
+
+In the main chamber, the King hugs Cygar gently, as he usually does 
