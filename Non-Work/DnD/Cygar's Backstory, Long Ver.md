@@ -52,4 +52,11 @@ Announcers call out to the crowds, most paying no notice to them.
 
 "I wanna try them all! Lets do the dunking one!" Frixfal replies, just as eager as Cygar.
 
-"Step right up! 5cp for 3 shots, 10cp for 7! Want to test your luck, young misses?" Cygar hands the attendee 10cp and takes a ball. She takes her hand back
+"Step right up! 5cp for 3 shots, 10cp for 7! Want to test your luck, young misses?" Cygar hands the attendee 5cp and takes a ball. She takes her hand back, and throws aimlessly, aiming more towards the man in the dunking tank rather than the target.
+
+"Ooh, bad miss!" Angered, she takes another ball and tries a little more carefully, almost hitting the target, the man in the tank smirks.
+
+"Another miss!"
+
+"Here, let me try." Frixfal takes the remaining ball, and takes a deep breath, tests the weight of the ball and takes a deep breath, using her other arm as a guide line for the trajectory, and throws the ball with an amount of force Cygar didn't expect, but before she could say anything, the sound of splashing and a man, trying really hard not to curse in front of children, being very cold.
+""
