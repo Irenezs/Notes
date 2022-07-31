@@ -114,7 +114,7 @@ Flaw
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
 
-# Equipment 14
+# Equipment 142.5lb
 Piece|Weight|Quantity|Total Weight
 ---|---|---|---
 Studded Leather Armour|13|1
