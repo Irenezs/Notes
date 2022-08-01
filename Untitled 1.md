@@ -9,11 +9,11 @@
 - [ ] Radon x500
 - [x] Nitrogen x500
 
-- [ ] Condensed Carbon x300
+- [x] Condensed Carbon x300
 	- [x] Carbon x600
 - [x] Pure Ferrite x200
 	- [x] Ferrite Dust x200
-- [ ] Ionised Cobalt x50
+- [x] Ionised Cobalt x50
 	- [x] Cobalt x100
 
 - [x] Pyrite x50
