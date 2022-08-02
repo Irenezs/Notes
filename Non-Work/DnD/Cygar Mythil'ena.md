@@ -42,7 +42,7 @@ Item Proficiencies:
 ## Wallet
 cp|sp|ep|gp|pp
 ---|---|---|---|---
-0|0|0|0|0
+10|10|0|30|0
 
 # Traits
 5'2" 120lb
