@@ -1,12 +1,12 @@
 - [x] Mordite x50
-- [ ] Fungal Mould x600
+- [x] Fungal Mould x600
 - [x] Cactus Flesh x300
 - [x] Frost Crystal x100
 - [x] Solanium x200
-- [ ] Star Bulb x200
+- [x] Star Bulb x200
 
 - [x] Sulfurine x500
-- [ ] Radon x500
+- [x] Radon x500
 - [x] Nitrogen x500
 
 - [x] Condensed Carbon x300
