@@ -1,3 +1,4 @@
+# Fusion Ignitor
 - Fusion Ignitor
 	- Portable Reactor
 		- Liquid Explosive
@@ -57,14 +58,12 @@ Star Bulb x200
 Sulfurine x500
 Radon x500
 Nitrogen x500
-
 Condensed Carbon x300
 	Carbon x600
 Pure Ferrite x200
 	Ferrite Dust x200
 Ionised Cobalt x50
 	Cobalt x100
-
 Pyrite x50
 Ammonia x50
 Uranium x50 
@@ -76,13 +75,24 @@ Uranium x50
 5. Make Nitrogen Salt x2
 6. Make Heat Capacitor x1
 7. Make Poly Fibre x1
-8. Make Liquid Explosive x1
-9. Make Organic Catalyst x1
-10. Make Fusion Accelerant x1
-11. Make Circuit Board x1
-12. Make Semiconductor x1
-13. Make Superconductor x1
-14. Make Portable Reactor x1
-15. Make Quantum Processor x1
-16. Make Geodesite x1
-17. Make Fusion Ignitor x1
+
+9. Make Liquid Explosive x1
+10. Make Organic Catalyst x1
+11. Make Fusion Accelerant x1
+12. Make Circuit Board x1
+13. Make Semiconductor x1
+14. Make Superconductor x1
+
+16. Make Portable Reactor x1
+17. Make Quantum Processor x1
+18. Make Geodesite x1
+
+20. Make Fusion Ignitor x1
+
+# Stasis Device
+- Stasis Device
+	- Crogenic Chamber
+	- Quantum Processor
+	- Iridesite
+		- Aronium
+		- 
