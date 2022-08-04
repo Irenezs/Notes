@@ -143,10 +143,14 @@ Gamma Root x400
 Frost Crystal x100
 Star Bulb x200
 Solanium x200
-Cactus 
+Cactus Flesh x100
 
-Sulfurine x250
-Nitrogen x250
-Radon x250
+Sulfurine x500
+Nitrogen x500
+Radon x500
+Condensed Carbon x300
 
-Condensed Carbon x150
+Ionised Cobalt x150
+Paraffinium x50
+Phosphorus x50
+Dioxite x50
