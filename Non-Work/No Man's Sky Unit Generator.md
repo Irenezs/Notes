@@ -142,7 +142,8 @@ Faecium x50
 Gamma Root x400
 Frost Crystal x100
 Star Bulb x200
-
+Solanium x200
+Cactus 
 
 Sulfurine x250
 Nitrogen x250
