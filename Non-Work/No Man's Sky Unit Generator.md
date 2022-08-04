@@ -91,10 +91,48 @@ Uranium x50
 
 # Stasis Device
 - Stasis Device
-	- Crogenic Chamber
+	- Cryogenic Chamber
+		- Living Glass
+			- Glass x5
+			- Lubricant
+				- Faecium x50
+				- Gamma Root x400
+		- Cryo-Pump
+			- Thermic Condensate
+				- Sulfurine x250
+				- Condensed Carbon x50
+			- Hot Ice
+				- Encriched Carbon
+					- Radon x250
+					- Condensed Carbon x50
+				- Nitrogen Salt
+					- Nitrogen x
 	- Quantum Processor
+		- Circuit Board
+			- Heat Capacitor
+				- Frost Crystal x100
+				- Solanium x200
+			- Poly Fibre
+				- Cactus Flesh x100
+				- Star Bulb x200
+		- Superconductor
+			- Semiconductor
+				- Thermic Condensate
+					- Sulfurine x250
+					- Condensed Carbon x50
+				- Nitrogen Salt
+					- Nitrogen x250
+					- Condensed Carbon x50
+			- Enriched Carbon
+				- Radon x250
+				- Condensed Carbon x50
 	- Iridesite
 		- Aronium
-			- Parafinium 
+			- Parafinium x50
+			- Ionised Cobalt x50
 		- Magno-Gold
+			- Phosphorus x50
+			- Ionised Cobalt x50
 		- Granite
+			- Dioxite x50
+			- Ionised Cobalt x50
