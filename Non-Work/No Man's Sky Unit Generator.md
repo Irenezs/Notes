@@ -68,3 +68,21 @@ Ionised Cobalt x50
 Pyrite x50
 Ammonia x50
 Uranium x50 
+
+1. Make Acid x1
+2. Make Unstable Gel x1
+3. Make Thermic Condensate x2
+4. Make Enriched Carbon x2
+5. Make Nitrogen Salt x2
+6. Make Heat Capacitor x1
+7. Make Poly Fibre x1
+8. Make Liquid Explosive x1
+9. Make Organic Catalyst x1
+10. Make Fusion Accelerant x1
+11. Make Circuit Board x1
+12. Make Semiconductor x1
+13. Make Superconductor x1
+14. Make Portable Reactor x1
+15. Make Quantum Processor x1
+16. Make Geodesite x1
+17. Make Fusion Ignitor x1
