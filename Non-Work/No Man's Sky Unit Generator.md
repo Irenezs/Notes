@@ -106,7 +106,8 @@ Uranium x50
 					- Radon x250
 					- Condensed Carbon x50
 				- Nitrogen Salt
-					- Nitrogen x
+					- Nitrogen x250
+					- Condensed Carbon x50
 	- Quantum Processor
 		- Circuit Board
 			- Heat Capacitor
@@ -136,3 +137,15 @@ Uranium x50
 		- Granite
 			- Dioxite x50
 			- Ionised Cobalt x50
+
+Faecium x50
+Gamma Root x400
+Frost Crystal x100
+Star Bulb x200
+
+
+Sulfurine x250
+Nitrogen x250
+Radon x250
+
+Condensed Carbon x150
