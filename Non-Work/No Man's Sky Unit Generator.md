@@ -95,4 +95,6 @@ Uranium x50
 	- Quantum Processor
 	- Iridesite
 		- Aronium
-		- 
+			- Parafinium 
+		- Magno-Gold
+		- Granite
