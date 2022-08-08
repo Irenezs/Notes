@@ -1,7 +1,5 @@
 # Metadata
-Title: Machinery go brrr
-Description: A simple factory management game tailored to my tastes
-$\vdots$
+Title: Stellar Engine
 # Descriptors
 - Given a finite space to make some product
 - Level-based, two choices, random or fixed
