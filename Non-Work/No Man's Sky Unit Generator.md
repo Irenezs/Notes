@@ -164,3 +164,5 @@ Dioxite x50
 7. Make Poly Fibre x1
 
 9. Make Living Glass x1
+10. Make Hot Ice x1
+11. Make Cryo-Pump
