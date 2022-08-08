@@ -1,5 +1,6 @@
 # Metadata
 Title: Stellar Engine
+Description: 
 # Descriptors
 - Given a finite space to make some product
 - Level-based, two choices, random or fixed
