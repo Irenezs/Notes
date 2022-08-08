@@ -154,3 +154,13 @@ Ionised Cobalt x150
 Paraffinium x50
 Phosphorus x50
 Dioxite x50
+
+1. Make Lube x1
+2. Make Glass x5
+3. Make Thermic Condensate x2
+4. Make Enriched Carbon x2
+5. Make Nitrogen Salt x2
+6. Make Heat Capacitor x1
+7. Make Poly Fibre x1
+
+9. Make Living Glass x1
