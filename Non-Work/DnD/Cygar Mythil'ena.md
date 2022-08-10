@@ -48,7 +48,7 @@ cp|sp|ep|gp|pp
 # Traits
 5'2" 120lb
 Hair to the shoulder blades, dark brown hair
-Fair Skin, 
+Fair Skin, a burn mark across the left cheek of her face
 Languages: Common, Celestial, Dwarfish, Elvish
 Lawful Neutral
 
