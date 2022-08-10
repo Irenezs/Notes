@@ -218,3 +218,11 @@ Current|$\infty$|3|0|0|0|0
 Spellcasting Ability: INT
 Spell Save DC: 14
 Spell Attack Mod: +6
+
+# Notes
+
+Nation once peaceful
+Apocalypse came 
+Nation became ruins, people tried to fight the monsters, magic failed
+Magic left most people
+World relied too heavily on its magic, now in ruins
