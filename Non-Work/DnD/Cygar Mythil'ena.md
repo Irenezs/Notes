@@ -5,6 +5,7 @@ Proficiency: +2
 Speed: 30ft (+5 once arcane armour made)
 Armour Class: 14 (+2 with shield)
 EXP: 900 LVL: 3
+Passive Wisdom: 15
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
@@ -121,25 +122,7 @@ Flaw
 # Equipment 142.5lb
 Piece|Weight|Quantity|Total Weight
 ---|---|---|---
-Studded Leather Armour|13|1
-Shield|6|1
-Dagger|1|1
-Mace|4|1
-Crossbow, light|5|1
-Crossbow Bolt|0.075|60|4.5
 Pexthian Signet Ring|0|1
-Backpack [1]|5|1
-Bedroll|7|1
-Crowbar|5|1
-Hammer|3|1
-Mess Kit|1|1
-Ration, one day|2|20|40
-Hempen Rope, 1ft|0.2|50|10
-Waterskin [2]|5|1
-Thieves' Tools|1|1
-Smiths' Tools|8|1
-Tinderbox|1|1
-Tent|20|1
 Ink Bottle, black|0|1
 Quill|0|1
 Knife, small|0|1
