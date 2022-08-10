@@ -119,7 +119,7 @@ Flaw
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
 
-# Equipment 142.5lb
+# Equipment 3lb
 Piece|Weight|Quantity|Total Weight
 ---|---|---|---
 Pexthian Signet Ring|0|1
@@ -130,8 +130,6 @@ Clothes, common|3|1
 Letter [3]|0|1
 Locket [4]|0|1
 
-[1] Holds 30lb, Bedroll strapped to the outside
-[2] Holding 4 pint of clean water
 [3] From a colleague in Pexthonia, prosing an astronomical problem Cygar hasn't solved
 [4] Holding two images, one of Cygar and another of Frixfal
 
