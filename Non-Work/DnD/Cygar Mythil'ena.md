@@ -51,9 +51,6 @@ Lawful Neutral
 
 ## Background - Sagely Princess
 ### Backstory
-- Princess that ran away for a girl who turned out to be murdered
-
-
 - Astronomer Class
 - Feature: Researcher
 	- When you attempt to learn a piece of lore, you usually know where you would be able to find it.
