@@ -220,6 +220,8 @@ Spell Save DC: 14
 Spell Attack Mod: +6
 
 # Notes
+Josh- Korost
+
 
 Nation once peaceful
 Apocalypse came 
