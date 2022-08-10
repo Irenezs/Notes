@@ -53,7 +53,6 @@ Languages: Common, Celestial, Dwarfish, Elvish
 Lawful Neutral
 
 ## Background - Sagely Princess
-### Backstory
 - Astronomer Class
 - Feature: Researcher
 	- When you attempt to learn a piece of lore, you usually know where you would be able to find it.
