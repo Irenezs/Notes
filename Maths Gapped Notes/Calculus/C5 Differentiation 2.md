@@ -1,4 +1,4 @@
-				# Chain Rule
+# Chain Rule
 $$y=f(u(x))\mspace{1em}\text{Then}\mspace{1em}y'=\frac{dy}{du}\times\frac{du}{dx}$$
 # Product Rule
 $$y=uv\mspace{1em}\text{Then}\mspace{1em}y'=u'v+uv'$$
