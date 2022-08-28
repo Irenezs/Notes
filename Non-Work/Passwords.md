@@ -33,3 +33,4 @@ Mega|Recovery Key|0vFkdGL_oCJn8caHWAjVXQ
 Blockchain.com|irenezsloynes@gmail.com|Hotel;vertex;money1
 Milovana|Irenezs|Glow;null;wood3
 Dropout|irenezsloynes@gmail.com|Drop;lib;kac1
+Cardfans|irenezsloynes@gmail.com|Userlongkib1
