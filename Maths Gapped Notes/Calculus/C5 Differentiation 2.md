@@ -15,3 +15,4 @@ $\csc{f(x)}$|$-f'(x)\csc{f(x)}\cot{f(x)}$
 $\sec{f(x)}$|$f'(x)\sec{f(x)}\tan{f(x)}$
 $\cot{f(x)}$|$-f'(x)\csc^2{f(x)}$
 $\ln{f(x)}$|$\frac{f'(x)}{f(x)}$
+ 
