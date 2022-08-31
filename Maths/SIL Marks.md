@@ -22,4 +22,9 @@ Total|96|101|93|99
 # Comments
 ## P1
 ## P2
+- 2b
+- ![[Pasted image 20220831021826.png]]
+- 6*-2j should be -12j
 ## P3
+- 3b![[Pasted image 20220831021729.png]]
+- Didn't cube second x
