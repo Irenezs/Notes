@@ -34,3 +34,6 @@ Date|Talent|Type
 07-01|AZKi|Birthday
 07-02|Oozora Subaru|Birthday
 07-06|Takanashi Kiara|Birthday
+07-15|Airani Iofifteen|Birthday
+07-22|Natsuiro Matsuri|Birthday
+07-30|Houshou Marine|Birthday
