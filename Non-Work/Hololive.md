@@ -37,3 +37,18 @@ Date|Talent|Type
 07-15|Airani Iofifteen|Birthday
 07-22|Natsuiro Matsuri|Birthday
 07-30|Houshou Marine|Birthday
+08-04|Nanashi Mumei|Birthday
+08-08|Tokoyami Towa|Birthday
+08-10|Haachama|Birthday
+08-20|Ookami Mio|Birthday
+08-30|Kaela Kovalskia|Birthday
+09-06|Kurokami Fubuki|Birthday
+09-08|Shishiro Botan|Birthday
+09-09|Pavolia Reine|Birthday
+10-01|Inugami Korone|Birthday
+10-05|Shirakami Fubuki|Birthday
+10-10|Himemori Luna|Birthday
+10-13|Kureiji Ollie|Birthday
+10-31|Yozora Mel|Birthday
+11-07|Vestia Zeta|Birthday
+11-15|Yuki
