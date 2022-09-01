@@ -1,5 +1,7 @@
 Date|Talent|Type
 ---|---|---
+01-03|Tokoyami Towa|Debut
+01-04|Himemori Luna|Debut
 01-06|Watson Amelia|Birthday
 01-12|Usada Pekora|Birthday
 01-15|Ayunda Risu|Birthday
@@ -11,6 +13,7 @@ Date|Talent|Type
 02-28|A-Chan|Birthday
 02-29|Hakos Baelz|Birthday
 03-02|Momosuzu Nene|Birthday
+03-04|Roboco|Debut
 03-05|Sakura Miko|Birthday
 03-07|IRyS|Birthday
 03-12|Anya Melfissa|Birthday
@@ -18,6 +21,9 @@ Date|Talent|Type
 03-15|Hakui Koyori|Birthday
 03-21|Ceres Fauna|Birthday
 03-22|Hoshimachi Suisei|Birthday
+03-22|Hoshimachi Suisei|Debut
+03-25|Vestia Zeta|Debut
+03-26|Kaela Kovalsk
 04-02|Shiranui Flare|Birthday
 04-04|Mori Calliope|Birthday
 04-22|Amane Kanata|Birthday
@@ -51,4 +57,10 @@ Date|Talent|Type
 10-13|Kureiji Ollie|Birthday
 10-31|Yozora Mel|Birthday
 11-07|Vestia Zeta|Birthday
-11-15|Yuki
+11-15|Yukihana Lamy|Birthday
+11-24|Shirogane Noel|Birthday
+12-01|Minato Baqua|Birthday
+12-08|Murasaki Shion|Birthday
+12-10|YAGOO|Birthday
+12-12|Kobo Kanaeru|Birthday
+12-13|Nakiri Ayame|Birthday
