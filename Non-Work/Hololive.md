@@ -23,16 +23,27 @@ Date|Talent|Type
 03-22|Hoshimachi Suisei|Birthday
 03-22|Hoshimachi Suisei|Debut
 03-25|Vestia Zeta|Debut
-03-26|Kaela Kovalsk
+03-26|Kaela Kovalskia|Debut
+03-27|Kobo Kanaeru|Debut
 04-02|Shiranui Flare|Birthday
 04-04|Mori Calliope|Birthday
+04-06|Nekomata Okayu|Debut
+04-10|Ayunda Risu|Debut
+04-11|Moona Hoshinova|Debut
+04-12|Airani Iofifteen|Debut
+04-13|Inugami Korone|Debut
 04-22|Amane Kanata|Birthday
 05-07|Nodoka-Chan|Birthday
+05-13|Yozora Mel|Debut
 05-15|Tokino Sora|Birthday
 05-18|Sakamata Chloe|Birthday
 05-20|Ninimae Ina'nis|Birthday
 05-23|Roboco|Birthday
 05-25|La+ Darknesss|Birthday
+06-01|Shirakami Fubuki|Debut
+06-01|Natsuiro Matsuri|Debut
+06-01|Aki Rosenthal|Debut
+06-02|Haachama|Debut
 06-06|Tsunomaki Watame|Birthday
 06-11|Takane Lui|Birthday
 06-18|Kazama Iroha|Birthday
@@ -40,9 +51,12 @@ Date|Talent|Type
 07-01|AZKi|Birthday
 07-02|Oozora Subaru|Birthday
 07-06|Takanashi Kiara|Birthday
+07-11|IRyS|Debut
 07-15|Airani Iofifteen|Birthday
+07-17|Usada Pekora|Debut
 07-22|Natsuiro Matsuri|Birthday
 07-30|Houshou Marine|Birthday
+
 08-04|Nanashi Mumei|Birthday
 08-08|Tokoyami Towa|Birthday
 08-10|Haachama|Birthday
