@@ -19,4 +19,18 @@ Date|Talent|Type
 03-21|Ceres Fauna|Birthday
 03-22|Hoshimachi Suisei|Birthday
 04-02|Shiranui Flare|Birthday
-0
+04-04|Mori Calliope|Birthday
+04-22|Amane Kanata|Birthday
+05-07|Nodoka-Chan|Birthday
+05-15|Tokino Sora|Birthday
+05-18|Sakamata Chloe|Birthday
+05-20|Ninimae Ina'nis|Birthday
+05-23|Roboco|Birthday
+05-25|La+ Darknesss|Birthday
+06-06|Tsunomaki Watame|Birthday
+06-11|Takane Lui|Birthday
+06-18|Kazama Iroha|Birthday
+06-20|Gawr Gura|Birthday
+07-01|AZKi|Birthday
+07-02|Oozora Subaru|Birthday
+07-06|Takanashi Kiara|Birthday
