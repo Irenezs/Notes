@@ -82,17 +82,33 @@ Date|Talent|Type
 09-08|Shishiro Botan|Birthday
 09-09|Pavolia Reine|Birthday
 09-12|Mori Calliope|Debut
-09-12|Takanashi
+09-12|Takanashi Kiara|Debut
+09-13|Ninomae Ina'nis|Debut
+09-13|Gawr Gura|Debut
+09-13|Watson Amelia|Debut
+09-16|Oozora Subaru|Debut
 10-01|Inugami Korone|Birthday
 10-05|Shirakami Fubuki|Birthday
 10-10|Himemori Luna|Birthday
 10-13|Kureiji Ollie|Birthday
 10-31|Yozora Mel|Birthday
 11-07|Vestia Zeta|Birthday
+11-15|AZKi|Debut
 11-15|Yukihana Lamy|Birthday
 11-24|Shirogane Noel|Birthday
+11-26|La+ Darknesss|Debut
+11-27|Takane Lui|Debut
+11-28|Hakui Koyori|Debut
+11-29|Sakamata Chloe|Debut
+11-30|Kazama Iroha|Debut
 12-01|Minato Baqua|Birthday
+12-04|Kureiji Ollie|Debut
+12-05|Anya Melfissa|Debut
+12-06|Pavolia Reine|Debut
+12-07|Ookami Mio|Debut
 12-08|Murasaki Shion|Birthday
 12-10|YAGOO|Birthday
 12-12|Kobo Kanaeru|Birthday
 12-13|Nakiri Ayame|Birthday
+12-27|Amane Kanata|Debut
+12-29|Tsunomaki Watame|Debut
