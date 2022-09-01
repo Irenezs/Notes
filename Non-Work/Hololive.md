@@ -56,15 +56,33 @@ Date|Talent|Type
 07-17|Usada Pekora|Debut
 07-22|Natsuiro Matsuri|Birthday
 07-30|Houshou Marine|Birthday
-
+08-01|Sakura Miko|Debut
 08-04|Nanashi Mumei|Birthday
+08-07|Shiranui Flare|Debut
+08-08|Minato Baqua|Debut
+08-08|Shirogane Noel|Debut
 08-08|Tokoyami Towa|Birthday
 08-10|Haachama|Birthday
+08-11|Houshou Marine|Debut
+08-12|Yukihana Lamy|Debut
+08-13|Momosuzu Nene|Debut
+08-14|Shishiro Botan|Debut
+08-16|Omaru Polka|Debut
+08-17|Murasaki Shion|Debut
 08-20|Ookami Mio|Birthday
+08-23|Ceres Fauna|Debut
+08-23|Ouro Kronii|Debut
+08-23|Nanashi Mumei|Debut
+08-23|Hakos Baelz|Debut
 08-30|Kaela Kovalskia|Birthday
+09-03|Nakiri Ayame|Debut
+09-04|Yuzuki Choco|Debut
 09-06|Kurokami Fubuki|Birthday
+09-07|Tokino Sora|Debut
 09-08|Shishiro Botan|Birthday
 09-09|Pavolia Reine|Birthday
+09-12|Mori Calliope|Debut
+09-12|Takanashi
 10-01|Inugami Korone|Birthday
 10-05|Shirakami Fubuki|Birthday
 10-10|Himemori Luna|Birthday
