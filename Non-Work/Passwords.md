@@ -35,6 +35,5 @@ Milovana|Irenezs|Glow;null;wood3
 Dropout|irenezsloynes@gmail.com|Drop;lib;kac1
 Cardfans|irenezsloynes@gmail.com|Userlongkib1
 Redbubble|Irenezs|Bubble;kilo;unit1
-Apple|irenezsloynes@icloud.com|Apple;wall;fire1
-Apple|Security Qs|Turkey-ModelT-Sports
-z
+Apple|irenezsloynes@gmail.com|Apple;wall;fire1
+
