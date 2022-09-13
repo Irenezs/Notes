@@ -1,3 +1,4 @@
 - Python
-- CS Course
+- CS Project
+- 
 - 
