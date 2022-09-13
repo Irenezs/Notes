@@ -5,4 +5,4 @@
 - Learning random facts
 - 
 
-I am applying to this apprenticship
+I am applying to this apprenticeship for many reasons, and am a good candidate for the position for the following reasons. 
