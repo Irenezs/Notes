@@ -18,3 +18,4 @@
 		- In Paper
 
 # Wednesday
+There are several properties all waves have: Diffraction, Interference, Refraction, Reflection, Transfer of Energ
