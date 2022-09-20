@@ -2,4 +2,6 @@
 	- 1
 		- Two coordinates share a straight line if they have an x, y, or z component that does not change.
 	- 2
+		- x/2
+	- 3
 		- 
