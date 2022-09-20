@@ -18,4 +18,4 @@
 		- In Paper
 
 # Wednesday
-There are several properties all waves have: Diffraction, Interference, Refraction, Reflection, Transfer of Energy. All wave types can do the above five properties. Polarisation is a property only transverse waves have, when transverse waves
+There are several properties all waves have: Diffraction, Interference, Refraction, Reflection, Transfer of Energy. All wave types can do the above five properties. A longitudinal wave has oscillations parallel to direction o Polarisation is a property only transverse waves have, when transverse waves enter a polarising filter, the oscillations of the waves become set to a single plane. 
