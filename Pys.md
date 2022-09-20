@@ -16,3 +16,5 @@
 		- That the wave is transverse, as only transverse waves can be polarised.
 	- d
 		- In Paper
+
+# Wednesday
