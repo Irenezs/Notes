@@ -18,4 +18,4 @@
 		- In Paper
 
 # Wednesday
-There are several properties all waves have: Diffraction, Interference, Refraction, Reflection, Transfer of Energ
+There are several properties all waves have: Diffraction, Interference, Refraction, Reflection, Transfer of Energy. All wave types can do the above five properties. Polarisation is a property only transverse waves have, when transverse waves
