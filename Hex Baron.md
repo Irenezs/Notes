@@ -7,4 +7,6 @@
 		- Change the 3s to 7s
 - 9
 	- 1
+		- The classes that inherit from Piece would not be able to use the attribute
+	- 2
 		- 
