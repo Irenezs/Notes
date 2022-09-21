@@ -14,4 +14,6 @@
 		- A method to have a base class then have each specific class inherit the attributes and behaviours of the base 
 - 10
 	- 1
+		- If the file is not a text file
+	- 2
 		- 
