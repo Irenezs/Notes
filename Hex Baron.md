@@ -18,4 +18,4 @@
 	- 2
 		- CheckMoveCommandFormat
 - 11
-	- It 
+	- It finds the difference of each individual coordinate of both tile
