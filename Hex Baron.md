@@ -9,4 +9,9 @@
 	- 1
 		- The classes that inherit from Piece would not be able to use the attribute
 	- 2
+		- when it is player 1s turn and there both barons are destroyed.
+	- 3
+		- A method to have a base class then have each specific class inherit the attributes and behaviours of the base 
+- 10
+	- 1
 		- 
