@@ -16,4 +16,6 @@
 	- 1
 		- If the file is not a text file
 	- 2
-		- 
+		- CheckMoveCommandFormat
+- 11
+	- It 
