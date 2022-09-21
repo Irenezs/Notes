@@ -1,3 +1,0 @@
-- Lose energy to the environment
-- Lose energy to inefficiencies in wire
-- 
