@@ -9,7 +9,6 @@ osu!|Irenezs|Dog;noon;west3
 Paypal|irenezsloynes@gmail.com|Pay!low!wild2
 Google|matthewzsloynes@gmail.com|Word;lmao;sex1
 Google|irenezsloynes@gmail.com|Word;lmao;sex1
-Microsoft|matthewzsloynes@gmail.com|Word;lmao;sex1
 Newgrounds|Irenezs|Kono;kaguya;iino8
 Twitch|Irenezs1|Dust;maid;queue
 Twillio Authy|07465 211253|Just;wii;lick
@@ -37,4 +36,4 @@ Cardfans|irenezsloynes@gmail.com|Userlongkib1
 Redbubble|Irenezs|Bubble;kilo;unit1
 Apple|irenezsloynes@gmail.com|Apple;wall;fire1
 iD Mobile|irenezsloynes@gmail.com|Mall!wall!que1
-Facebook|i|Face;book;duck1
+NHS App|irenezsloynes@gmail.com|Nation;geo;health1
