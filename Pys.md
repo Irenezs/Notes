@@ -1,0 +1,4 @@
+- 1
+	- a
+		- A solid is made up of a regular arrangement of atoms with strong bonds between each atom and each atom vibrates on a fixed point.
+	- 
