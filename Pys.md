@@ -6,4 +6,4 @@
 	- c
 		- A gas is made up of randomly moving particles with virtually no forces between the particles unless during collisions. The atoms of a gas move at high speeds in random directions
 - 2
-	- 
+	- The motion of the gas will increase in speed, as when energy is added to the system, the mean kinetic energy increases. ====
