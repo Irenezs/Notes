@@ -4,4 +4,6 @@
 	- b
 		- A liquid is made up of a more disordered arrangement of atoms with a weaker set of bonds between atoms, and atoms gain translational energy.
 	- c
-		- A gas is made up of randomly moving particles with virtually no 
+		- A gas is made up of randomly moving particles with virtually no forces between the particles unless during collisions. The atoms of a gas move at high speeds in random directions
+- 2
+	- 
