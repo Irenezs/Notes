@@ -1,4 +1,7 @@
 - 1
 	- a
 		- A solid is made up of a regular arrangement of atoms with strong bonds between each atom and each atom vibrates on a fixed point.
-	- 
+	- b
+		- A liquid is made up of a more disordered arrangement of atoms with a weaker set of bonds between atoms, and atoms gain translational energy.
+	- c
+		- A gas is made up of randomly moving particles with virtually no 
