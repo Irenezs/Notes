@@ -1,3 +1,1 @@
 # Wednesday ==5/6==
-The terminal velocity of the two substances, the oil and air, are different. As air is a lower viscosity, it will have a higher terminal velocity. As ball A will only go through the oil, once it hits the terminal velocity it will no longer change speed, however ball B will reach a high speed in air, then reach terminal velocity in the half of oil.
-The acceleration is given by the gradient of a vt graph.
