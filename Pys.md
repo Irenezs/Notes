@@ -19,6 +19,7 @@ Breaking Stress - A synonym for UTS.
 
 A Brittle Material is one that breaks before it can plastically deform.
 Examples are: Ceramic, Glass, Wood.
-
 A ductile material is one that can be stretched thinly into wires without breaking.
-Examples are: Copper, M
+Examples are: Copper, Steel, Paper.
+
+As stress increases strain increases linearly until it passes the limit of proportionality, then the elastic limit, then the yield point. Necking reduces the area therefore increasing stress. A small increase in 
