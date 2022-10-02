@@ -14,4 +14,11 @@ Ductile - Stretches easily without breaking, can be made into wires, therefore i
  Plastic Behaviour - A material beyond its elastic limit.
  Yield Point - The point at which the stress in a wire will suddenly drop with increased strain.
  Necking - Where the cross-sectional area of a material gets thinner as a force is applied.
-Ultimate Tensile Strength - The tensile stress needed to 
+Ultimate Tensile Strength - The tensile stress needed to break a material.
+Breaking Stress - A synonym for UTS.
+
+A Brittle Material is one that breaks before it can plastically deform.
+Examples are: Ceramic, Glass, Wood.
+
+A ductile material is one that can be stretched thinly into wires without breaking.
+Examples are: Copper, M
