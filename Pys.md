@@ -22,4 +22,13 @@ Examples are: Ceramic, Glass, Wood.
 A ductile material is one that can be stretched thinly into wires without breaking.
 Examples are: Copper, Steel, Paper.
 
-As stress increases strain increases linearly until it passes the limit of proportionality, then the elastic limit, then the yield point. Necking reduces the area therefore increasing stress. A small increase in 
+As stress increases strain increases linearly until it passes the limit of proportionality, then the elastic limit, then the yield point. Necking reduces the area therefore increasing stress. A small increase in stress causes a large increase in strain, then the material breaks.
+
+The material does not follow Hooke's Law. The material is longer for each force when unloading from onloading.
+The shaded area represents the internal energy of the material.
+
+The material follows Hooke's Law but it was brought past the elastic limit. Thus the material doesn't return to its original length.
+The shaded area represents the work done in permanently stretching the material.
+The distance X represents the permanent extension to the original length.
+
+
