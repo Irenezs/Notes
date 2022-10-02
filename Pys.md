@@ -1,1 +1,2 @@
-# Wednesday ==5/6==
+# Wednesday ==/6==
+Stress ($\sigma$) is defined as the force per unit cross-sectional area, with a unit of $Nm^{-2}$, or $Pa$. Strain is defined as a measure of the extension versus the initial length of the object. It has no units. To find stress, you can use 
