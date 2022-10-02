@@ -30,5 +30,3 @@ The shaded area represents the internal energy of the material.
 The material follows Hooke's Law but it was brought past the elastic limit. Thus the material doesn't return to its original length.
 The shaded area represents the work done in permanently stretching the material.
 The distance X represents the permanent extension to the original length.
-
-
