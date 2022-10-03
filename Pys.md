@@ -1,3 +1,3 @@
-0 273.15
--273.15 0
-120 393.15
+Pressure $\propto$ Volume
+
+$\frac{p}{V}=constant$
