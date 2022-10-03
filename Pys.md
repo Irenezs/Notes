@@ -1,2 +1,0 @@
-p/T=constant
-if temp increases, pressure increases. This is as the temperature of a gas is a measure of the random distribution of kinetic energies of the particles. by increasing the temperature, you increase kinetic energy, and will create more energetic collisions with each other and the walls of the container the gas is in. As $N_3$ states every force on an object creates an equal and opposite reaction force, the walls of the container will experience more force, and as pressure is Force over Area, while the area is constant the pressure will increase.
