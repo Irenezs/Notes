@@ -1,0 +1,1 @@
+$$\frac{P}{T}=constant, where\mspace{0.5em}V=constant$$
