@@ -1,5 +1,12 @@
-# Tuesday 
-- 31ai
+# Tuesday ==6/6 /12
+- 31ai ==2/2
 	- In Paper
-- 31aii
+- 31aii ==1/1
 	- Reverse the connection to the power supply
+- 31bi ==2/2
+	- Plot a graph of voltages and current values, then divide V by I from the graph. Take multiple readings from the graph to see how R varies.
+- 31bii ==1/1
+	- It would decrease.
+- 20a
+	- A component with constant resistance
+- 2bi
