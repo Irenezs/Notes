@@ -38,3 +38,11 @@ Material - If the spacing of the +ve ions is different, the resistance will be d
 
 To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. Plot this as a graph, and the gradient will be $\frac{\rho}{A}$, so $\rho = gradient \times A$.
 
+# Friday ==/9 /11
+
+- 1a
+	- Superconducting is where a material loses all of its resistivity when below a certain temperature. Before this value, resistivity drops proportionally to temperature.
+- 1bi
+	- In Paper
+- 1bii
+	- 
