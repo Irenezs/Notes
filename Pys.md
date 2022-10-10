@@ -10,3 +10,4 @@
 - 20a
 	- A component with constant resistance
 - 2bi
+	- 
