@@ -38,7 +38,7 @@ Material - If the spacing of the +ve ions is different, the resistance will be d
 
 To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. Plot this as a graph, and the gradient will be $\frac{\rho}{A}$, so $\rho = gradient \times A$.
 
-# Friday ==9/9 /11
+# Friday ==9/9 8/8 /11
 
 - 1a
 	- Superconducting is where a material loses all of its resistivity when below a certain temperature. Before this value, resistivity drops proportionally to temperature. ==3/3
@@ -46,7 +46,13 @@ To find the resistivity of a wire, you can use a micrometer to measure and avera
 	- In Paper ==3/3
 - 1bii
 	- The resistance will decrease to 0, while the copper will still have some. However, the total resistance is still 0 as the copper is in parallel. ==3/3
-- 26ai
+- 26ai ==2/2
 	- $$\rho=\frac{RA}{L}$$Where R = Resistance of the material length L, with cross-sectional area A.
-- 26aii
-	- Below the critical temperature of a material, the ma
+- 26aii ==2/2
+	- Below the critical temperature of a material, the material has no resistance.
+- 26b ==4/4
+	- In Paper
+- 15ai
+	- In Paper
+- 15aii
+	- 
