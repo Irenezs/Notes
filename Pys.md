@@ -21,3 +21,6 @@
 	- Maglev trains
 
 # Wednesday
+Current is defined as the rate of flow of charge. It is measured with an ammeter, which is connected in series, and ideally has zero resistance so it doesn't reduce the current while measuring.
+Voltage (pd) is defined as the work done per unit charge, and is measured with a voltmeter. This is connected in parallel over a component, and ideally has infinite resistance so no current can flow through it whilst measuring.
+Ohm's law is that the current through a component 
