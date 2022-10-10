@@ -33,5 +33,7 @@ Circuit diagram in book.
 # Thursday
 Length - As L$\uparrow$, the R$\uparrow$, as the electrons travel further they are more likely to collide with the +ve ions.
 Area - As A$\uparrow$, the R$\downarrow$. This is as more electrons can travel down the wire per second for a static voltage.
-Temperature - As T$\uparrow$, R$\uparrow$. This is as the +ve ions are vibrating more vigourusly, and so are more likely to collide with them.
-Material - If the spacing of the 
+Temperature - As T$\uparrow$, R$\uparrow$. This is as the +ve ions are vibrating more vigorously, and so are more likely to collide with them.
+Material - If the spacing of the +ve ions is different, the resistance will be different.
+
+To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. 
