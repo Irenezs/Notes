@@ -29,3 +29,9 @@ Resistor - The current is directly proportional to voltage, and is true even if 
 Filament - The current increases with temperature until the temperature rises, which increases internal resistance in the wire. This is true if you swap the battery.
 Diode - The current increases as the voltage increases, however no current flows if the battery is reversed.
 Circuit diagram in book.
+
+# Thursday
+Length - As L$\uparrow$, the R$\uparrow$, as the electrons travel further they are more likely to collide with the +ve ions.
+Area - As A$\uparrow$, the R$\downarrow$. This is as more electrons can travel down the wire per second for a static voltage.
+Temperature - As T$\uparrow$, R$\uparrow$. This is as the +ve ions are vibrating more vigourusly, and so are more likely to collide with them.
+Material - If the spacing of the 
