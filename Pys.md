@@ -55,4 +55,4 @@ To find the resistivity of a wire, you can use a micrometer to measure and avera
 - 15ai
 	- In Paper
 - 15aii
-	- 
+	- Wire placed into water bath. resistance calculated at $\100^\circ
