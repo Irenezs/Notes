@@ -1,23 +1,23 @@
-# Tuesday ==6/6 11/12
-- 31ai ==2/2
+# Tuesday ==6/6 11/12==
+- 31ai ==2/2==
 	- In Paper
-- 31aii ==1/1
+- 31aii ==1/1==
 	- Reverse the connection to the power supply
-- 31bi ==2/2
+- 31bi ==2/2==
 	- Plot a graph of voltages and current values, then divide V by I from the graph. Take multiple readings from the graph to see how R varies.
-- 31bii ==1/1
+- 31bii ==1/1==
 	- It would decrease.
-- 20a ==1/1
+- 20a ==1/1==
 	- A component with constant resistance
-- 2bi ==2/2
+- 2bi ==2/2==
 	- In Paper
-- 2bii ==5/6
-	- Use a variable power supply to change the voltage, use a voltmeter and ammeter to measure the volts and amps. Use the voltmeter to set the values, not the display on the power supply. You would then plot a graph of Voltage against Current, where Current is the y axis. In this configuration, you can determine if a component is ohmic if the line of best fit has a constant gradient. ==Mention the meaning of going through origin
-- 2ci ==1/1
+- 2bii ==5/6==
+	- Use a variable power supply to change the voltage, use a voltmeter and ammeter to measure the volts and amps. Use the voltmeter to set the values, not the display on the power supply. You would then plot a graph of Voltage against Current, where Current is the y axis. In this configuration, you can determine if a component is ohmic if the line of best fit has a constant gradient. ==Mention the meaning of going through origin==
+- 2ci ==1/1==
 	- A material with zero resistance
-- 2cii ==1/1
+- 2cii ==1/1==
 	- The critical temperature is the temp at which a material will begin to superconduct
-- 2ciii ==1/1
+- 2ciii ==1/1==
 	- Maglev trains
 
 # Wednesday ==6/6==
@@ -38,21 +38,23 @@ Material - If the spacing of the +ve ions is different, the resistance will be d
 
 To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. Plot this as a graph, and the gradient will be $\frac{\rho}{A}$, so $\rho = gradient \times A$.
 
-# Friday ==9/9 8/8 /11
+# Friday ==9/9 8/8 8/11==
 
 - 1a
-	- Superconducting is where a material loses all of its resistivity when below a certain temperature. Before this value, resistivity drops proportionally to temperature. ==3/3
+	- Superconducting is where a material loses all of its resistivity when below a certain temperature. Before this value, resistivity drops proportionally to temperature. ==3/3==
 - 1bi
-	- In Paper ==3/3
+	- In Paper ==3/3==
 - 1bii
-	- The resistance will decrease to 0, while the copper will still have some. However, the total resistance is still 0 as the copper is in parallel. ==3/3
-- 26ai ==2/2
+	- The resistance will decrease to 0, while the copper will still have some. However, the total resistance is still 0 as the copper is in parallel. ==3/3==
+- 26ai ==2/2==
 	- $$\rho=\frac{RA}{L}$$Where R = Resistance of the material length L, with cross-sectional area A.
-- 26aii ==2/2
+- 26aii ==2/2==
 	- Below the critical temperature of a material, the material has no resistance.
-- 26b ==4/4
+- 26b ==4/4==
 	- In Paper
 - 15ai
-	- In Paper
+	- In Paper ==2/3==
 - 15aii
-	- Wire placed into water bath. resistance calculated at $\100^\circ
+	- Wire placed into water bath. resistance calculated at $100^\circ C$, Then ice is added and stirred into the bath. As the temperature goes down, record the temperature and resistance at regular intervals, then graph this data. ==4/6 Repeats and mention a thermometer==
+- 15b
+	- The critical temperature is the point at which below, there is no resistivity in a component. ==2/2==
