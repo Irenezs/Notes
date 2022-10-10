@@ -20,10 +20,12 @@
 - 2ciii ==1/1
 	- Maglev trains
 
-# Wednesday
+# Wednesday ==6/6==
 Current is defined as the rate of flow of charge. It is measured with an ammeter, which is connected in series, and ideally has zero resistance so it doesn't reduce the current while measuring.
 Voltage (pd) is defined as the work done per unit charge, and is measured with a voltmeter. This is connected in parallel over a component, and ideally has infinite resistance so no current can flow through it whilst measuring.
 Ohm's law is that the current through a component is directly proportional to the pd across it, provided the temperature doesn't change.
 The IV graphs are depicted in the book. 
 Resistor - The current is directly proportional to voltage, and is true even if battery reversed
-Filament - The current increases with temperature until the temperature rises, which increases in
+Filament - The current increases with temperature until the temperature rises, which increases internal resistance in the wire. This is true if you swap the battery.
+Diode - The current increases as the voltage increases, however no current flows if the battery is reversed.
+Circuit diagram in book.
