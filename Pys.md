@@ -36,4 +36,5 @@ Area - As A$\uparrow$, the R$\downarrow$. This is as more electrons can travel d
 Temperature - As T$\uparrow$, R$\uparrow$. This is as the +ve ions are vibrating more vigorously, and so are more likely to collide with them.
 Material - If the spacing of the +ve ions is different, the resistance will be different.
 
-To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. 
+To find the resistivity of a wire, you can use a micrometer to measure and average several points on the wire to find the diameter, then calculate the area. Use crocodile clips and a ruler to vary the length of the wire. Use a voltmeter and ammeter to find the resistance for each length. Plot this as a graph, and the gradient will be $\frac{\rho}{A}$, so $\rho = gradient \times A$.
+
