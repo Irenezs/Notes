@@ -23,4 +23,7 @@
 # Wednesday
 Current is defined as the rate of flow of charge. It is measured with an ammeter, which is connected in series, and ideally has zero resistance so it doesn't reduce the current while measuring.
 Voltage (pd) is defined as the work done per unit charge, and is measured with a voltmeter. This is connected in parallel over a component, and ideally has infinite resistance so no current can flow through it whilst measuring.
-Ohm's law is that the current through a component 
+Ohm's law is that the current through a component is directly proportional to the pd across it, provided the temperature doesn't change.
+The IV graphs are depicted in the book. 
+Resistor - The current is directly proportional to voltage, and is true even if battery reversed
+Filament - The current increases with temperature until the temperature rises, which increases in
