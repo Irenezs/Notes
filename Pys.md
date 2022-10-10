@@ -10,4 +10,4 @@
 - 20a
 	- A component with constant resistance
 - 2bi
-	- 
+	- Use a variable power supply to change the voltage, use a voltmeter and ammeter to measure the volts and amps. Use the voltmeter to set the values, not the display on the power supply. You would then plot a graph of Voltage against Current, where Current is the y axis. In this configuration, you can determine if a component is ohmic if it has a constant gradient.
