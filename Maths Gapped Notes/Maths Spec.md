@@ -22,7 +22,7 @@
 - [x] [[M3 Logarithms]]
 - [ ] [[M4 Trigonometric Functions]]
 - [ ] [[M5 Trigonometry]]
-- [ ] [[M6 Fur. Transformations of Graphs]]
+- [ ] [[M4 Fur. Transformations of Graphs]]
 # Mechanics
 - [ ] [[Mech1 Kinematics|Kinematics]]
 - [ ] [[Mech2 Forces and Motion|Forces and Motion]]
