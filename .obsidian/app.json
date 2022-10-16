@@ -12,5 +12,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "COMP 3 - Timer/Testing"
+  "attachmentFolderPath": "COMP 3 - Timer/Testing",
+  "showInlineTitle": false
 }
