@@ -1,4 +1,3 @@
 # Wednesday
 
-## Hadrons:
-A hadron is a particle made up of quarks and/or antiquarks
+A hadron is a particle made up of quarks and antiquarks. This 
