@@ -1,1 +1,0 @@
-Pressure, on a microscopic scale is the repeated collisions of gas particles on some object. The change in momentum produced by the elastic collisions produces a force over the area of an object.
