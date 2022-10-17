@@ -1,1 +1,1 @@
-Guion Bluford, born 1942 Philadelphia. First child of 3. Encouraged to be develop academic skills from an early age. Studied aerospace engineering at PSU. 1964 graduated. Flew 144 combat missions in Vietnam, gaining several medals for this.  
+Pressure, on a microscopic scale is 
