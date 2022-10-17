@@ -5,6 +5,7 @@
 - 2e - 25.2 Q3
 ![[Pasted image 20221017020626.png]]
 - 7 - 11.1 Q2
+![[Pasted image 20221017020827.png]]
 - 13 - 19.4 Q3
 ![[Pasted image 20221017020742.png]]
 - 14 - 19.2 Q4
