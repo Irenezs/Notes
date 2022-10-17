@@ -11,12 +11,8 @@
             "id": "12d5e33ec86519c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +131,8 @@
   },
   "active": "12d5e33ec86519c2",
   "lastOpenFiles": [
-    "Statement.md",
     "Physics.md",
+    "Statement.md",
     "Non-Work/Graveyard Shift.md",
     "Non-Work/Passwords.md",
     "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
