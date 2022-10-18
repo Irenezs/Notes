@@ -1,6 +1,5 @@
-All particles are assumed to be point particles :)
-A large amount of particles move at rapid, random speed :)
-The attractive forces between particles are negligible :)
-The collisions are assumed to be elastic :)
-
+All particles are assumed to be point particles 
+A large amount of particles move at rapid, random speed 
+The attractive forces between particles are negligible 
+The collisions are assumed to be elastic 
 Collision time is negligible 
