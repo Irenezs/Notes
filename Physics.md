@@ -1,5 +1,4 @@
-All particles are assumed to be point particles :)
-A large amount of particles move at rapid, random speed :)
-The attractive forces between particles are negligible :)
-The collisions are assumed to be elastic :)
-Collision time is negligible :)
+$$\frac{1}{3}Nm(v_{rms})^2=NkT$$
+$$m(v_{rms})^2=3kT$$
+$$\frac{1}{2}m(v_{rms})^2=\frac{3}{2}kT$$
+$$E_k=\frac{3}{2}kT$$
