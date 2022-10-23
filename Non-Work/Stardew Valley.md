@@ -15,3 +15,17 @@ Void Salmon | Anytime | Any | Witch's Swamp | Any
 Legend | Anytime | Spring | Mountain Lake Log | Rain
 Angler | Anytime | Autumn | Plank, River | Any
 Mutant Carp | Anytime | Any | The Sewers | Any
+
+Person|Gift|Birthday
+---|---|---
+Abigail|Amethyst|Sp04
+Haley|Coconut|Sp14
+Leah|Truffle|Sp16
+Shane|Hot Pepper|Sp20
+Alex|Salmon Dinner|Su13
+Sam|Cactus Fruit|Su17
+Elliott|Pomegranate|Fa05
+Penny|Diamond|Wi04
+Sebastian|Frozen Tear|Wi10
+Emily|Amethyst|Wi11
+Harvey|Truffle Oil|Wi14
