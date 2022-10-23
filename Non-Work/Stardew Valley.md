@@ -19,13 +19,30 @@ Mutant Carp | Anytime | Any | The Sewers | Any
 Person|Gift|Birthday
 ---|---|---
 Abigail|Amethyst|Sp04
+Kent|Roasted Hazelnuts|Sp04
+Lewis|Hot Pepper|Sp07
+Vincent|Grape|Sp10
 Haley|Coconut|Sp14
 Leah|Truffle|Sp16
+Pam|Cactus Fruit|Sp18
 Shane|Hot Pepper|Sp20
+Pierre|Fried Calamari|Sp26
+Jas|Fairy Rose|Su04
+Gus|Diamond|Su08
 Alex|Salmon Dinner|Su13
 Sam|Cactus Fruit|Su17
+Demetrius|Strawberry|Su19
+Willy|Diamond|Su24
 Elliott|Pomegranate|Fa05
+Jodi|Diamond|Fa11
+Marnie|Diamond|Fa18
+Robin|Peach|Fa21
+George|Leek|Fa24
+Linus|Cactus Fruit|Wi03
 Penny|Diamond|Wi04
+Caroline|Summer Spangle|Wi07
 Sebastian|Frozen Tear|Wi10
 Emily|Amethyst|Wi11
 Harvey|Truffle Oil|Wi14
+Evelyn|Diamond|Wi20
+Clint|Amethyst|Wi26
