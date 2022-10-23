@@ -46,3 +46,18 @@ Emily|Amethyst|Wi11
 Harvey|Truffle Oil|Wi14
 Evelyn|Diamond|Wi20
 Clint|Amethyst|Wi26
+Amethyst x3,Hot Pepper x2,Grape
+,Coconut
+,Truffle
+,Cactus Fruit x3
+,Fairy Rose
+,Diamond x6
+,Strawberry
+,Pomegranate
+,Peach
+,Leek
+,Summer Spangle
+,Frozen Tear
+,Truffle Oil - Truffle
+,Roasted Hazelnuts - Hazelnut x3
+,Salmon Dinner - Salmon,Amaranth,Kale,Fried Calamari - Squid,Wheat Flour,Oil
