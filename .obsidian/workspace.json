@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Gapped Notes/Misc/M3 Logarithms.md",
+                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Gapped Notes/Misc/M3 Logarithms.md",
+                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Gapped Notes/Misc/M3 Logarithms.md",
+                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,6 +150,8 @@
   },
   "active": "12d5e33ec86519c2",
   "lastOpenFiles": [
+    "Maths Gapped Notes/Sequences/S1 Binomial Theorem.md",
+    "Maths Gapped Notes/Misc/M3 Logarithms.md",
     "Non-Work/Graveyard Shift.md",
     "Non-Work/Personal.md",
     "Non-Work/Stardew Valley.md",
@@ -157,8 +159,6 @@
     "Non-Work/No Man's Sky Unit Generator.md",
     "Untitled.md",
     "Non-Work/Hololive.md",
-    "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
-    "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
-    "Maths Gapped Notes/Misc/M3 Logarithms.md"
+    "Maths Gapped Notes/Calculus/C5.5 Integration 2.md"
   ]
 }
