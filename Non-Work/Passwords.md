@@ -38,4 +38,4 @@ Redbubble|Irenezs|Bubble;kilo;unit1
 Apple|irenezsloynes@gmail.com|Apple;wall;fire1
 iD Mobile|irenezsloynes@gmail.com|Mall!wall!que1
 NHS App|irenezsloynes@gmail.com|Nation;geo;health1
- 
+Floatplane|irenezsloynes@gmail.com|Float;plane;long1
