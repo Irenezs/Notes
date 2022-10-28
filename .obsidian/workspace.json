@@ -23,9 +23,11 @@
             "id": "8542e21ce884e72b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Non-Work/Passwords.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
