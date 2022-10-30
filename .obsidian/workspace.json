@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Passwords.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Passwords.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Passwords.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "8542e21ce884e72b",
   "lastOpenFiles": [
+    "Non-Work/Passwords.md",
     "Non-Work/Personal.md",
     "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
     "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
@@ -168,7 +169,6 @@
     "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
     "Maths Gapped Notes/Sequences/S1 Binomial Theorem.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
-    "Non-Work/Graveyard Shift.md",
-    "Non-Work/Stardew Valley.md"
+    "Non-Work/Graveyard Shift.md"
   ]
 }
