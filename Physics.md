@@ -36,4 +36,7 @@
 	- 3
 		- In Paper
 	- 4
-		- Vertical reaction force on ladder increases, along with the reaction force from the wall 
+		- Vertical reaction force on ladder increases, along with the reaction force from the wall. The frictional component of G will increase.
+- 6
+	- 1
+		- 
