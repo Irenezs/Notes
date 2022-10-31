@@ -1,0 +1,1 @@
+One law created because of a physics breakthrough would be anything to do with firearms. After the invention of fire
