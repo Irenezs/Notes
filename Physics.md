@@ -20,4 +20,7 @@
 	- 2
 		- In Paper
 	- 3
+		- If the refractive indexes are changed by the same factor, the critical angle will stay constant, so the path followed will be the same no matter the wavelength of light.
+- 4
+	- 1
 		- 
