@@ -1,2 +1,9 @@
-# Wednesday
-
+- 1
+	- 1
+		- In Paper
+	- 2
+		- It is the weak interaction, as it involves leptons and hadrons
+	- 3
+		- In Paper
+	- 4
+		- Beta decay is the process of an electron being released from a nucleus from a neutron decaying into proton and electron. An electron antineutrino is also released.
