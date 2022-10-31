@@ -39,4 +39,18 @@
 		- Vertical reaction force on ladder increases, along with the reaction force from the wall. The frictional component of G will increase.
 - 6
 	- 1
-		- 
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- both will have the same speed but different masses, therefore the momentum of A is greater.
+	- 4
+		- In Paper
+	- 5
+		- In Paper
+- 7
+	- Skipped
+- 8-30
+	- In Paper
+- 31-32
+	- Skipped
