@@ -7,3 +7,10 @@
 		- In Paper
 	- 4
 		- Beta decay is the process of an electron being released from a nucleus from a neutron decaying into proton and electron. An electron antineutrino is also released.
+- 2
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- The diameter is reduced when stretched, so the mass per unit length is reduced, resulting in higher constant of
