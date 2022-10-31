@@ -35,9 +35,11 @@
             "id": "d3758f6ddcdb43fc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
