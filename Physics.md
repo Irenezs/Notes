@@ -14,3 +14,10 @@
 		- In Paper
 	- 3
 		- The diameter is reduced when stretched, so the mass per unit length is reduced, resulting in higher constant of proportionality, meaning an inaccurate prediction.
+- 3
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- 
