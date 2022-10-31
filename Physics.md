@@ -25,4 +25,6 @@
 	- 1
 		- the emf of the cell is the y-intercept and the gradient of the line is the negative of r
 	- 2
+		- In Paper
+	- 3
 		- 
