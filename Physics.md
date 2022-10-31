@@ -30,4 +30,10 @@
 		- In Paper
 - 5
 	- 1
+		- The force is perpendicular to the wall so no component along the wall
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
 		- 
