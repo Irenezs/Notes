@@ -5,4 +5,16 @@
 5. second
 6. momentum
 7. pressure
-8. 
+8. average
+9. increases
+10. collision
+11. faster
+12. greater
+13. kinetic
+14. constant
+15. compressing
+16. walls
+17. volume
+18. particles
+19. more
+20. energy
