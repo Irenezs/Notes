@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12d5e33ec86519c2",
+            "id": "8542e21ce884e72b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Passwords.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8542e21ce884e72b",
+            "id": "2ac1731e9c5415fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,9 +158,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8542e21ce884e72b",
+  "active": "2ac1731e9c5415fe",
   "lastOpenFiles": [
-    "Non-Work/Stardew Valley.md",
     "Untitled.md",
     "Physics.md",
     "Non-Work/Passwords.md",
@@ -169,6 +168,7 @@
     "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
     "Maths Gapped Notes/Trigonometry/T1 Trigonometric Functions.md",
     "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md",
-    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md"
+    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
+    "Maths Gapped Notes/Sequences/S1 Binomial Theorem.md"
   ]
 }
