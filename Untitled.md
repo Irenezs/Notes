@@ -1,20 +1,4 @@
-1. identical
-2. elastic
-3. force
-4. third
-5. second
-6. momentum
-7. pressure
-8. average
-9. increases
-10. collision
-11. faster
-12. greater
-13. kinetic
-14. constant
-15. compressing
-16. walls
-17. volume
-18. particles
-19. more
-20. energy
+One law created because of a physics breakthrough would be anything to do with firearms. After the invention of firearms, there were laws put in place to limit civilian interaction with the technology.
+
+Neils Bohr was a Danish scientist that discovered that atoms had mostly empty space with a positively charged centre made of matter, while electrons are small discrete particles that orbit around the positive centre.
+

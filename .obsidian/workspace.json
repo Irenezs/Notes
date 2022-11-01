@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8542e21ce884e72b",
+            "id": "12d5e33ec86519c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Passwords.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ac1731e9c5415fe",
+            "id": "8542e21ce884e72b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ac1731e9c5415fe",
+  "active": "8542e21ce884e72b",
   "lastOpenFiles": [
+    "Non-Work/Stardew Valley.md",
+    "Untitled.md",
     "Physics.md",
     "Non-Work/Passwords.md",
     "Non-Work/Personal.md",
@@ -167,8 +169,6 @@
     "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
     "Maths Gapped Notes/Trigonometry/T1 Trigonometric Functions.md",
     "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md",
-    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
-    "Maths Gapped Notes/Sequences/S1 Binomial Theorem.md",
-    "Maths Gapped Notes/Misc/M3 Logarithms.md"
+    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md"
   ]
 }
