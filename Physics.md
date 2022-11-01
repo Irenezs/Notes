@@ -6,3 +6,13 @@ The precision of instruments could be improved by using higher resolution compon
 
 # Thursday
 
+Kirchoff's $1^{st}$ Law:
+- The total current flowing into a junction is equal to the total current flowing out.
+Kirchoff's $2^{nd}$ Law:
+- The sum of all emfs is equal to the sum of all pds
+
+Diagram 1:
+As R increases, this becomes a larger precentage of the total resistance, so has a higher pd, so the speaker will get quieter.
+Diagram 2:
+The thermistor increases in resistance so has a bigger percentage of the resistance, therefore the heater drops in pd, thus getting cooler.
+Diagram 3:
