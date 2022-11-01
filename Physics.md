@@ -1,8 +1,1 @@
-x|v|F|a
----|---|---|---
--A|0|Max +ve|Max +ve
-0|Max +ve|0|0
-+A|0|Max -ve|Max -ve
-0|Max -ve|0|0
--A|0|Max +ve|Max +ve
-
+$$x=A\cos{2\pi ft}$$
