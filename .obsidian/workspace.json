@@ -35,9 +35,11 @@
             "id": "52e8877804fd4afa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf"
+                "file": "Non-Work/Passwords.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf",
+                "file": "Non-Work/Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf",
+                "file": "Non-Work/Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +172,7 @@
   },
   "active": "52e8877804fd4afa",
   "lastOpenFiles": [
+    "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/Passwords.md",
     "Physics.md",
     "Non-Work/Stardew Valley.md",
@@ -178,7 +181,6 @@
     "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
     "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
     "Maths Gapped Notes/Trigonometry/T1 Trigonometric Functions.md",
-    "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md",
-    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md"
+    "Maths Gapped Notes/Sequences/S2 Binomial Expansion.md"
   ]
 }

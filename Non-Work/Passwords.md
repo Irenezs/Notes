@@ -3,7 +3,8 @@ Site|Username|Password
 NIN|PK738584A|
 Internet|BT-MQAGF7|gKEnFvtprQTmE6
 PuryFI|Irenezs|Sexy;brain;lake2
-Twitter|07361 218670|Gall;kin;long1
+Twitter|Irenezs86|Gall;kin;long1
+Twitter|Irenezs00|Gall;kin;long1
 Amazon|irenezsloynes@gmail.com|Geo;low;ore4
 Firefox|irenezsloynes@gmail.com|Row;long;bear5
 osu!|Irenezs|Dog;noon;west3
