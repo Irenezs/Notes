@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Gapped Notes/Calculus/C7 Partial Fractions.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Gapped Notes/Calculus/C7 Partial Fractions.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Gapped Notes/Calculus/C7 Partial Fractions.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,8 @@
   },
   "active": "d8f940375765ecb0",
   "lastOpenFiles": [
+    "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
+    "Maths Gapped Notes/Calculus/C7 Partial Fractions.md",
     "Maths Gapped Notes/Calculus/C6 Numerical Integration.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
@@ -154,8 +156,6 @@
     "Maths Gapped Notes/Calculus/C3 Differentiation.md",
     "Physics.md",
     "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
-    "Events.md",
-    "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
-    "Statement.md"
+    "Events.md"
   ]
 }
