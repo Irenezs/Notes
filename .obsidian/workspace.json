@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8f940375765ecb0",
+            "id": "52e8877804fd4afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8f940375765ecb0",
+  "active": "52e8877804fd4afa",
   "lastOpenFiles": [
-    "Statement.md",
+    "Maths Gapped Notes/Misc/M3 Logarithms.md",
+    "Non-Work/Passwords.md",
+    "Non-Work/DnD/Player's Handbook.pdf",
     "Physics.md",
-    "Events.md",
+    "Non-Work/Stardew Valley.md",
+    "Untitled.md",
+    "Non-Work/Personal.md",
     "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
-    "Maths Gapped Notes/Calculus/C7 Partial Fractions.md",
-    "Maths Gapped Notes/Calculus/C6 Numerical Integration.md",
-    "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
-    "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
-    "Maths Gapped Notes/Calculus/C4 Integration.md",
-    "Maths Gapped Notes/Calculus/C3 Differentiation.md"
+    "Maths Gapped Notes/Trigonometry/T2 Reciprocal Trig.md",
+    "Maths Gapped Notes/Trigonometry/T1 Trigonometric Functions.md"
   ]
 }
