@@ -43,3 +43,4 @@ NHS App|irenezsloynes@gmail.com|Nation;geo;health1
 Floatplane|irenezsloynes@gmail.com|Float;plane;long1
 SolarisJapan|irenezsloynes@gmail.com|Solar;lats;pull1
 Mullvad VPN|5044365137090203|
+NovelAI|irenezsloynes@gmail.com|Novel;kim;log1
