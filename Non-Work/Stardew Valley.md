@@ -1,4 +1,4 @@
-Fish | Time | Season | Location | Weather
+ Fish | Time | Season | Location | Weather
 :---: | :---: | :---: | :---: | :---:
 *Normal Fish* |
 Dorado | 6am-7pm | Summer | River (Forest) | Any
