@@ -9,4 +9,6 @@
 		- The detector is more likely to encounter water droplets, thus is likely to be more sensitive, though it could be less sensitive due to imperfections in the glass.
 - 3
 	- 1
-		- A centre maxima with double the width of the other maxima
+		- A centre maxima with double the width of the other lower intensity maxima to either side.
+	- 2
+		- 
