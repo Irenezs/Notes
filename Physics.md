@@ -11,4 +11,7 @@
 	- 1
 		- A centre maxima with double the width of the other lower intensity maxima to either side.
 	- 2
-		- 
+		- A wider central maxima, and other maxima are more spread out.
+	- 3
+		- In Paper
+	- 4
