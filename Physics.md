@@ -18,4 +18,4 @@
 		- There will be negligible change in central maxima width ==Broader maxima for each maximum==
 - 4
 	- 1
-		- 
+		- The centre of mass of the beam AND box is at the pivot, so the sum of moments is 0 at the pivote
