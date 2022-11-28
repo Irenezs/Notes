@@ -31,9 +31,6 @@
 	- 5
 		- The steel barrier will be safer for the dummies as the steel will deform, reducing the impulse on the dummy, as a greater time of contact.
 - 6
-	- 1
-		- In Paper
-	- 2
-		- In Paper
-	- 3
-		- 
+	- In Paper
+- 7
+	- 
