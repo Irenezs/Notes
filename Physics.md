@@ -4,4 +4,9 @@
 	- 1-4
 		- In Paper
 	- 5
-		- The light may change direction inside of the windscreen, 
+		- The light may change direction inside of the windscreen, though at a difference of a few percent means the change is unlikely to affect much.
+	- 6
+		- The detector is more likely to encounter water droplets, thus is likely to be more sensitive, though it could be less sensitive due to imperfections in the glass.
+- 3
+	- 1
+		- A centre maxima with double the width of the other maxima
