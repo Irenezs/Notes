@@ -24,4 +24,9 @@
 	- 3
 		- In Paper
 	- 4
-		- The range will be greater, 
+		- The range will be greater, as the rock will spend longer in the air, thus a greater t, therefore a greater range.
+- 5
+	- 1-4
+		- In Paper
+	- 5
+		- 
