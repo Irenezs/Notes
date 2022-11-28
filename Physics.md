@@ -34,4 +34,8 @@
 	- In Paper
 - 7
 	- 1
-		- 
+		- The ratio between internal:external resistances is larger, so an increase in lost volts, so a voltmeter increase.
+	- 2
+		- internal:external resistance ratio is smaller, as two cells in parallel act as a single cell with the same emf but half the internal resistance.
+- 8-32
+	- In Paper
