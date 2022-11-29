@@ -1,4 +1,4 @@
 - 22-12-12
-	- novel.ai
+	- novel.ai $10
 - 23-08-26
-	- Dropout.tv ~£5
+	- Dropout.tv ~£50
