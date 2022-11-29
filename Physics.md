@@ -1,41 +1,5 @@
-- 1
-	- In Paper
-- 2
-	- 1-4
-		- In Paper
-	- 5
-		- The light may change direction inside of the windscreen, though at a difference of a few percent means the change is unlikely to affect much.
-	- 6
-		- The detector is more likely to encounter water droplets, thus is likely to be more sensitive, though it could be less sensitive due to imperfections in the glass.
-- 3
-	- 1
-		- A centre maxima with double the width of the other lower intensity maxima to either side.
-	- 2
-		- A wider central maxima, and other maxima are more spread out.
-	- 3
-		- In Paper
-	- 4
-		- There will be negligible change in central maxima width ==Broader maxima for each maximum==
-- 4
-	- 1
-		- The centre of mass of the beam AND box is at the pivot, so the sum of moments is 0 at the pivot
-	- 2
-		- In Paper
-	- 3
-		- In Paper
-	- 4
-		- The range will be greater, as the rock will spend longer in the air, thus a greater t, therefore a greater range.
-- 5
-	- 1-4
-		- In Paper
-	- 5
-		- The steel barrier will be safer for the dummies as the steel will deform, reducing the impulse on the dummy, as a greater time of contact.
-- 6
-	- In Paper
-- 7
-	- 1
-		- The ratio between internal:external resistances is larger, so an increase in lost volts, so a voltmeter increase.
-	- 2
-		- internal:external resistance ratio is smaller, as two cells in parallel act as a single cell with the same emf but half the internal resistance.
-- 8-32
-	- In Paper
+# Wednesday
+
+The object to be weighed will be placed in the basket, and the counterweight would be moved along the beam until the beam is horizontal. This can be ensured with some form of spirit level. Then, to find the mass of the object, we calculate the moments of each object from the pivot, done by force x perpendicular distance from the pivot to line of action of the force. 
+
+Due to the principle of moments, as the beam is in equilibrium, the moment o
