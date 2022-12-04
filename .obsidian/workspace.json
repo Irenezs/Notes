@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Non-Work/Personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Non-Work/Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
