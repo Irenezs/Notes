@@ -8,6 +8,7 @@
 - [ ] [[C5.5 Integration 2]]
 - [ ] [[C6 Numerical Integration]]
 - [ ] [[C7 Partial Fractions]]
+- [ ] [[C8 Integration & Applications]]
 ## Geometry
 - [ ] [[G1 Vectors]]
 - [ ] [[G2 Radians, Arcs, and Sectors]]
@@ -36,3 +37,5 @@
 - [ ] [[Mech4 Objects in Contact|Objects in Contact]]
 - [ ] [[Mech5 Projectiles]]
 - [ ] [[Mech6 Moments]]
+# Statistics
+- [ ] 
