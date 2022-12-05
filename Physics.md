@@ -1,4 +1,4 @@
-# Wednesday 
+# Wednesday ==6/6==
 
 
 An ideal gas is a gas that follows all the gas laws at all temperatures and pressures.
