@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "c6f184547e80d841",
   "lastOpenFiles": [
+    "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
     "Maths Gapped Notes/Maths Spec.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Physics.md",
@@ -168,7 +169,6 @@
     "Non-Work/Stardew Valley.md",
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
-    "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md",
-    "Non-Work/No Man's Sky Unit Generator.md"
+    "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md"
   ]
 }
