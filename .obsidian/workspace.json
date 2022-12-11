@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Good Media.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Good Media.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Good Media.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "c6f184547e80d841",
   "lastOpenFiles": [
+    "Non-Work/Good Media.md",
     "Physics.md",
     "Maths Gapped Notes/Sequences/S3 Sequences and Series.md",
     "Maths Gapped Notes/Maths Spec.md",
@@ -168,7 +169,6 @@
     "Non-Work/Personal.md",
     "Non-Work/Stardew Valley.md",
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
-    "Maths Gapped Notes/Misc/M3 Logarithms.md",
-    "Maths Gapped Notes/Trigonometry/T3 Compound and Double Angles.md"
+    "Maths Gapped Notes/Misc/M3 Logarithms.md"
   ]
 }

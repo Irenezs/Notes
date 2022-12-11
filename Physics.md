@@ -1,1 +1,0 @@
-$$|\text{Emotions}|=-3$$
