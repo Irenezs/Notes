@@ -1,4 +1,4 @@
-# Wednesday 
+# Wednesday ==6/6==
 
 Forces|Gravitational|Electromagnetic|Weak Nuclear|Strong Nuclear
 ---|---|---|---|---
