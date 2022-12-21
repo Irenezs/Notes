@@ -118,7 +118,7 @@ Flaw
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
 
-# Equipment 142.5lb
+# Equipment 146.5lb
 Piece|Weight|Quantity|Total Weight
 ---|---|---|---
 Studded Leather Armour|13|1
@@ -133,7 +133,7 @@ Bedroll|7|1
 Crowbar|5|1
 Hammer|3|1
 Mess Kit|1|1
-Ration, one day|2|20|40
+Ration, one day|2|22|44
 Hempen Rope, 1ft|0.2|50|10
 Waterskin [2]|5|1
 Thieves' Tools|1|1
