@@ -2,7 +2,7 @@
 Max HP: 16
 Current HP: 16 
 Proficiency: +2
-Speed: 30ft
+Speed: 35ft
 Armour Class: 14
 EXP: 900 LVL: 3
 Passive Wisdom: 15
