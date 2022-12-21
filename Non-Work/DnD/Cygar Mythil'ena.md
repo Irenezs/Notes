@@ -146,6 +146,8 @@ Knife, small|0|1
 Clothes, common|3|1
 Letter [3]|0|1
 Locket [4]|0|1
+Collection of broken jewelery|0|1
+
 
 [1] Holds 30lb, Bedroll strapped to the outside
 [2] Holding 4 pint of clean water
