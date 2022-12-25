@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fcd215fff5e29cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c6f184547e80d841",
+  "active": "5fcd215fff5e29cf",
   "lastOpenFiles": [
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Physics.md",
