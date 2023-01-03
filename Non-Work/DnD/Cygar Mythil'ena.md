@@ -5,7 +5,7 @@ Proficiency: +2
 Speed: 35ft
 Armour Class: 14
 EXP: 900 LVL: 3
-Passive Wisdom: 15
+Passive Wisdom: +5
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
