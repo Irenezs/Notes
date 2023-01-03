@@ -1,7 +1,6 @@
 [[#Stats]]
 [[#Traits]]
 [[#Abilities]]
-[[#Equipment 146.5lb]]
 [[#Weapon]]
 # Stats
 Max HP: 16
