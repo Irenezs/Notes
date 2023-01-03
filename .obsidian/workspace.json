@@ -35,11 +35,9 @@
             "id": "5fcd215fff5e29cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
-                "mode": "source",
-                "source": false
+                "file": "Non-Work/DnD/Player's Handbook.pdf"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Non-Work/DnD/Player's Handbook.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Non-Work/DnD/Player's Handbook.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +180,8 @@
   },
   "active": "5fcd215fff5e29cf",
   "lastOpenFiles": [
+    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
+    "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Personal.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Hololive.md",
@@ -189,8 +189,6 @@
     "Non-Work/Restarting Git.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Physics.md",
-    "Non-Work/DnD/Cygar Mythil'ena.md",
-    "Maths Gapped Notes/Calculus/C8 Integration & Applications.md",
-    "Maths Gapped Notes/Calculus/C6 Numerical Integration.md"
+    "Maths Gapped Notes/Calculus/C8 Integration & Applications.md"
   ]
 }

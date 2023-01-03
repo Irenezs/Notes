@@ -153,6 +153,9 @@ Rusted gold, copper, silver|0|1
 [3] From a colleague in Pexthonia, prosing an astronomical problem Cygar hasn't solved
 [4] Holding two images, one of Cygar and another of Frixfal
 
+# Weapon
+Crossbow, light - 
+
 # Spells
 ## Infusions
 Infusions Known|Max Infusions|Objects Infused
