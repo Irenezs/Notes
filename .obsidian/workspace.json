@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Gapped Notes/Maths Spec.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fcd215fff5e29cf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Player's Handbook.pdf",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +167,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5fcd215fff5e29cf",
+  "active": "65aaacfbc5061786",
   "lastOpenFiles": [
+    "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Personal.md",
@@ -188,7 +178,6 @@
     "Non-Work/BingoSync.md",
     "Non-Work/Restarting Git.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
-    "Physics.md",
-    "Maths Gapped Notes/Calculus/C8 Integration & Applications.md"
+    "Physics.md"
   ]
 }

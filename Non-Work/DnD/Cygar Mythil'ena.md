@@ -154,7 +154,11 @@ Rusted gold, copper, silver|0|1
 [4] Holding two images, one of Cygar and another of Frixfal
 
 # Weapon
-Crossbow, light - 
+Weapon|Damage|Properties|Range
+---|---|---|---
+Crossbow|1d8 piercing|loading,two handed|80/320
+Dagger|1d4 piercing|finesse,light|20/60
+Mace|1d6 bludgening 
 
 # Spells
 ## Infusions
