@@ -131,7 +131,7 @@ Shield|6|1
 Dagger|1|1
 Mace|4|1
 Crossbow, light|5|1
-Crossbow Bolt|0.075|60|4.5
+Crossbow Bolt|0.075|59|4.425
 Pexthian Signet Ring|0|1
 Backpack [1]|5|1
 Bedroll|7|1
