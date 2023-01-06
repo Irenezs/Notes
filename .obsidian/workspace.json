@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "039cdc38167a7934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Work/Diary/22-01-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Diary/22-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Diary/22-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +180,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "93d5f6b93be09a93",
+  "active": "039cdc38167a7934",
   "lastOpenFiles": [
+    "Physics.md",
     "Non-Work/Diary/22-01-04.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/DnD/Player's Handbook.pdf",
@@ -178,7 +191,6 @@
     "Non-Work/Recurring Payments.md",
     "Non-Work/Hololive.md",
     "Non-Work/BingoSync.md",
-    "Non-Work/Restarting Git.md",
-    "Maths Gapped Notes/Calculus/C5.5 Integration 2.md"
+    "Non-Work/Restarting Git.md"
   ]
 }
