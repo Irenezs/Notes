@@ -3,37 +3,38 @@
 [[#Abilities]]
 [[#Weapon]]
 # Stats
-Max HP: 16
-Current HP: 16 
+Max HP: 19
+Current HP: 19 
 Proficiency: +2
 Speed: 35ft
 Armour Class: 14
-EXP: 900 LVL: 3
+LVL: 4
 Passive Wisdom: 15
 
 Ability|Value|Mod|Ability|Value|Mod
 ---|---|---|---|---|---
-STR|7|-2|INT|19|+4
+STR|7|-2|INT|20|+5
 DEX|14|+2|WIS|16|+3
-CON|17|+3|CHR|17|+3
+CON|18|+4|CHR|17|+3
 
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
-STR|-2|INT*|+6
+STR|-2|INT*|+70.
+
 DEX|+2|WIS|+3
-CON*|+5|CHR|+3
+CON*|+6|CHR|+3
 
 Skill|Mod|Skill|Mod
 ---|---|---|---
 Acrobatics|+2|Medicine|+3
-Animal Handling|+3|Nature|+4
-Arcana*|+6|Perception*|+5
+Animal Handling|+3|Nature|+5
+Arcana*|+7|Perception*|+5
 Athletics|-2|Performance|+3
 Deception|+3|Persuasion|+3
-History*|+6|Religion|+4
+History*|+7|Religion|+5
 Insight|+3|Sleight of Hand|+2
 Intimidation|+3|Stealth|+2
-Investigation*|+6|Survival|+3
+Investigation*|+7|Survival|+3
 Item Proficiencies:
 - Light Armour
 - Medium Armour
