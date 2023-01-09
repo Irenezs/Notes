@@ -53,7 +53,7 @@ cp|sp|ep|gp|pp
 5'2" 120lb
 Hair to the shoulder blades, dark brown hair
 Fair Skin, a burn mark across the left cheek of her face
-Languages: Common, Celestial, Dwarfish, Elvish
+Languages: Common, Draconic, Dwarfish, Elvish
 Lawful Neutral
 
 ## Background - Sagely Princess
@@ -122,13 +122,11 @@ Flaw
 		- Advantage on Stealth Checks
 		- If armour gives disadvantage on stealth checks, they cancel out.
 
-# Equipment 146.425lb
+# Equipment 129.425lb
 Piece|Weight|Quantity|Total Weight
 ---|---|---|---
-Studded Leather Armour|13|1
 Shield|6|1
 Dagger|1|1
-Mace|4|1
 Crossbow, light|5|1
 Crossbow Bolt|0.075|59|4.425
 Pexthian Signet Ring|0|1
