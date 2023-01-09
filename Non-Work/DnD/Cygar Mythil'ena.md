@@ -3,8 +3,8 @@
 [[#Abilities]]
 [[#Weapon]]
 # Stats
-Max HP: 19
-Current HP: 19 
+Max HP: 23
+Current HP: 23 
 Proficiency: +2
 Speed: 35ft
 Armour Class: 14
@@ -19,8 +19,7 @@ CON|18|+4|CHR|17|+3
 
 Saving Throw|Mod|Saving Throw|Mod
 ---|---|---|---
-STR|-2|INT*|+70.
-
+STR|-2|INT*|+7
 DEX|+2|WIS|+3
 CON*|+6|CHR|+3
 
@@ -232,8 +231,8 @@ Max|2|3|0|0|0|0
 Current|$\infty$|3|0|0|0|0
 
 Spellcasting Ability: INT
-Spell Save DC: 14
-Spell Attack Mod: +6
+Spell Save DC: 15
+Spell Attack Mod: +7
 
 # Notes
 
