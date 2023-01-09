@@ -160,7 +160,7 @@ Weapon|Damage|Properties|Range
 ---|---|---|---
 Crossbow|1d8 piercing|loading,two handed|80/320
 Dagger|1d4 piercing|finesse,light|20/60
-Mace|1d6 bludgeoning||
+Lightning Gem|1d6 lightning||90/300
 
 
 # Spells
