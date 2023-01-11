@@ -17,4 +17,5 @@ Advisor to The Militant Aureus,
 Flagbearer of The Fiendish Adin,
 Unbeaten Champion in Barat'moor, (although this is a technicality)
 Forgiver of the Forgotten One,
-Ensign of the Royal A
+Right-hand to The General Staax,
+Investor in 
