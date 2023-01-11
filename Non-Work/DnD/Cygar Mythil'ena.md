@@ -7,3 +7,8 @@ Creator of the Astra Mystica,
 Prodigy of Pexthia,
 Apprentice to the Royal Mage,
 Sole User of Mechanica Fallus,
+Principia Mathematica,
+Wanderer of The Pillars,
+Slayer of Braa'g Mauth,
+The Ionised Sorceress,
+Author of 
