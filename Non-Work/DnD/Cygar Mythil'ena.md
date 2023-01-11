@@ -3,4 +3,6 @@ Cygar Mythil'ena,
 2nd on the Council of Artifice,
 Archauthor of The Rites,
 Defender of the Keep,
-Creator of the 
+Creator of the Astral Dice,
+Prodigy of Pexthia,
+Apprentice to the Royal Mage,
