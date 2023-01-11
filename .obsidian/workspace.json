@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Stardew Valley.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Stardew Valley.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Stardew Valley.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "65aaacfbc5061786",
   "lastOpenFiles": [
+    "Non-Work/Stardew Valley.md",
     "Non-Work/Restarting Git.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/BingoSync.md",
@@ -177,7 +178,6 @@
     "Non-Work/DnD/DnD.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/DnD/Player's Handbook.pdf",
-    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
-    "Non-Work/Personal.md"
+    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
   ]
 }
