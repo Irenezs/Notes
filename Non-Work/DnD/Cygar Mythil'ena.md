@@ -12,3 +12,7 @@ Wanderer of The Pillars,
 Slayer of Braa'g Mauth,
 The Ionised Sorceress,
 Inventor of the Cygar-Uleb Method,
+Sole Victor of Cava Katava,
+Advisor to The Militant Aureus,
+Flagbearer of The Fiendish Adin,
+
