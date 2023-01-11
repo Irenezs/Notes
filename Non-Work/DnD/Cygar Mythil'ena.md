@@ -15,4 +15,6 @@ Inventor of the Cygar-Uleb Method,
 Sole Victor of Cava Katava,
 Advisor to The Militant Aureus,
 Flagbearer of The Fiendish Adin,
-
+Unbeaten Champion in Barat'moor, (although this is a technicality)
+Forgiver of the Forgotten One,
+Ensign of the Royal A
