@@ -18,4 +18,4 @@ Flagbearer of The Fiendish Adin,
 Unbeaten Champion in Barat'moor, (although this is a technicality)
 Forgiver of the Forgotten One,
 Right-hand to The General Staax,
-Investor in 
+Left-hand to The General Sta
