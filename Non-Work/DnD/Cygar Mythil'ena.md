@@ -12,6 +12,3 @@ Wanderer of The Pillars,
 Slayer of Braa'g Mauth,
 The Ionised Sorceress,
 Inventor of the Cygar-Uleb Method,
-Sole Survivor of Cava Katava,
-
-
