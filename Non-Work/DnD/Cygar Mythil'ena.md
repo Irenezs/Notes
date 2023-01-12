@@ -45,4 +45,6 @@ The General is not very useful.
 
 Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemies to Pexthonia since the battle of Mon'kath, stood Cygar Pexthia, tossing an apple above her head.
 
-"24 hours ago, a messenger arrived before you and warned of my arrival, you are stupid to have not run." Cygar postulated, "Around 12 hours ago I arrived at your compound, and I must admit I a"
+"24 hours ago, a messenger arrived before you and warned of my arrival, you are stupid to have not run." Cygar postulated, "Around 12 hours ago I arrived at your compound, and I must admit I am impressed at your courage." She takes a bite of the apple. "Though perhaps what you see as courage I see as stupidity, because it took all of an hour for me to arrive at your throne room, Braa'g." The apple is sweet, and juicy, of impeccable quality. "And now it is time for me to end you, do you have anything to say?" She takes another bite of the apple.
+
+""
