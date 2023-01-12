@@ -53,4 +53,4 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 
 ## Sole User of Mechanica Fallus
 
-Whirring, hammering, and a whole manner of arcane 
+Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess.
