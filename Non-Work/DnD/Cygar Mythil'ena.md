@@ -31,7 +31,7 @@ The General is not very useful.
 - [ ] Apprentice to the Royal Mage,
 - [ ] Sole User of Mechanica Fallus,
 - [ ] Wanderer of The Pillars,
-- [ ] Slayer of Braa'g Mauth,
+- [x] Slayer of Braa'g Mauth,
 - [ ] The Ionised Sorceress,
 - [ ] Inventor of the Cygar-Uleb Method,
 - [ ] Sole Victor of Cava Katava,
@@ -47,4 +47,6 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 
 "24 hours ago, a messenger arrived before you and warned of my arrival, you are stupid to have not run." Cygar postulated, "Around 12 hours ago I arrived at your compound, and I must admit I am impressed at your courage." She takes a bite of the apple. "Though perhaps what you see as courage I see as stupidity, because it took all of an hour for me to arrive at your throne room, Braa'g." The apple is sweet, and juicy, of impeccable quality. "And now it is time for me to end you, do you have anything to say?" She takes another bite of the apple.
 
-"If you think just because you took out some henchmen around the perimeter wall means you're going to win against the great Braa'g Mauth, you are mistaken, you spoiled Princess" Braa'g muttered. "Very well, if you wish not to surrender, then I will take your life instead" She throws the apple towards the man sat upon a stolen throne, still with the Pexthian seal plastered atop the headpiece, and sends a bolt of lightning through the core of the apple hitting Braa'g Mauth in the forehead, killing Be
+"If you think just because you took out some henchmen around the perimeter wall means you're going to win against the great Braa'g Mauth, you are mistaken, you spoiled Princess" Braa'g muttered. "Very well, if you wish not to surrender, then I will take your life instead" She throws the apple towards the man sat upon a stolen throne, still with the Pexthian seal plastered atop the headpiece, and sends a bolt of lightning through the core of the apple hitting Braa'g Mauth in the forehead, killing Braa'g Mauth before he hit the ground.
+
+"Now how do I get this home..."
