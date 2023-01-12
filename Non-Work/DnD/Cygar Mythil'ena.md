@@ -60,4 +60,4 @@ Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tow
 
 "Incredible! It fits perfectly!" There is a large gemstone embedded into the gloves of the armour that is glowing, as if collecting energy. "Time to test it out!" Cygar raises her arm and points it out of the open window. "Firing in 3... 2... 1..." A loud click can be heard, to the magical construct Cantyl the flow of magic in the armour can be seen, but then nothing happens. "Huh? thats od-" A large explosion can be heard, parts of the armour are sent flying across the room and Cantyl is sent to the other side of the workshop. As the dust settles, Cygar is seen taking notes on a parchment sheet that was sent flying, and a large burn mark is seen on her left cheek.
 
-""
+"Mechanica Fallus. Its a good name don't you think!" Cygar looks unphased by the injury, and Cantyl doesn't have the heart to tell her 
