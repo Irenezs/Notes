@@ -7,7 +7,6 @@ Creator of the Astra Mystica,
 Prodigy of Pexthia,
 Apprentice to the Royal Mage,
 Sole User of Mechanica Fallus,
-Principia Mathematica,
 Wanderer of The Pillars,
 Slayer of Braa'g Mauth,
 The Ionised Sorceress,
@@ -53,4 +52,4 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 
 ## Sole User of Mechanica Fallus
 
-Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess.
+Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess, 2nd on the Council of Artifice, Prodigy of Pexthia, Apprentice to the Royal Mage,
