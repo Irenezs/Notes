@@ -54,4 +54,6 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 
 Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess to Pexthonia, and Artificer known across the country (for her spectacular failiures). 
 
-"Mistress Pexthia!" The doors slam open, a creature no more than a foot tall, sat atop a cloud floats into the workshop. "What, can't you see that I'm busy Cantyl?" The woman retorted snidely, "Is there something the matter?" The creature, now having floated into the light from the lantern overhead so as able to be seen in a good detail is clearly a patchworked humanoid, made of metal scraps and upon a detailed inspection it would be found that the skin is painted on. ""
+"Mistress Pexthia!" The doors slam open, a creature no more than a foot tall, sat atop a cloud floats into the workshop. "What, can't you see that I'm busy Cantyl?" The woman retorted snidely, "Is there something the matter?" The creature, now having floated into the light from the lantern overhead so as able to be seen in a good detail is clearly a patchworked humanoid, made of metal scraps and upon a detailed inspection it would be found that the skin is painted on. "Oh, nothing is wrong per se, but you do realise that its the middle of the night? The servants are getting restless."
+
+"No matter, I am just about finished anyway" Cygar finishes up by tightening a bolt and speaking an incantation above the project on the table. The object looks li
