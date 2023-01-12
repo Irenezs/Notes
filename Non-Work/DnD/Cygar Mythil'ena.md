@@ -53,4 +53,4 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 
 ## Sole User of Mechanica Fallus
 
-Whirring, hammering
+Whirring, hammering, and a whole manner of arcane 
