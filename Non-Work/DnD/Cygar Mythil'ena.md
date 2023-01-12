@@ -58,4 +58,6 @@ Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tow
 
 "No matter, I am just about finished anyway" Cygar finishes up by tightening a bolt and speaking an incantation above the project on the table. The object looks like a normal leather armour with studded rivets for strength and several runes carved into the body, glowing blue, but clearly burning out. "Are you going to try it on, mistress?" Cantyl picks up the armour by the neck and holds it up ready for Cygar to slip it on, which she does.
 
-"Incredible! It fits perfectly!" There is a large gemstone embedded into the gloves of the armour that is glowing, as if collecting energy. "Time to test it out!" Cygar raises her arm and points it out of the open window. "Firing in 3... 2... 1..." A loud click can be heard, to the magical contruct Cent
+"Incredible! It fits perfectly!" There is a large gemstone embedded into the gloves of the armour that is glowing, as if collecting energy. "Time to test it out!" Cygar raises her arm and points it out of the open window. "Firing in 3... 2... 1..." A loud click can be heard, to the magical construct Cantyl the flow of magic in the armour can be seen, but then nothing happens. "Huh? thats od-" A large explosion can be heard, parts of the armour are sent flying across the room and Cantyl is sent to the other side of the workshop. As the dust settles, Cygar is seen taking notes on a parchment sheet that was sent flying, and a large burn mark is seen on her left cheek.
+
+""
