@@ -50,3 +50,7 @@ Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemi
 "If you think just because you took out some henchmen around the perimeter wall means you're going to win against the great Braa'g Mauth, you are mistaken, you spoiled Princess" Braa'g muttered. "Very well, if you wish not to surrender, then I will take your life instead" She throws the apple towards the man sat upon a stolen throne, still with the Pexthian seal plastered atop the headpiece, and sends a bolt of lightning through the core of the apple hitting Braa'g Mauth in the forehead, killing Braa'g Mauth before he hit the ground.
 
 "Now how do I get this home..."
+
+## Sole User of Mechanica Fallus
+
+Whirring, hammering
