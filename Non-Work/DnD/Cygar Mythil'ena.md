@@ -41,5 +41,6 @@ The General is not very useful.
 - [ ] Forgiver of the Forgotten One,
 - [ ] The General Staax
 
-## Unbeaten Champion in Barat'moor
+## Slayer of Braa'g Mauth
 
+Dusk, 5 days out from the capital, in the den of one of the greatest enemies to Pexthia in a
