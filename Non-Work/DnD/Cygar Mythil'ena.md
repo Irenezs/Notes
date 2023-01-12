@@ -43,4 +43,6 @@ The General is not very useful.
 
 ## Slayer of Braa'g Mauth
 
-Dusk, 5 days out from the capital, in the den of one of the greatest enemies to Pexthia in a
+Dusk, 5 days out from the capital, in the courtyard of one of the greatest enemies to Pexthonia since the battle of Mon'kath, stood Cygar Pexthia, tossing an apple above her head.
+
+"24 hours ago, a messenger arrived before you and warned of my arrival, you are stupid to have not run." Cygar postulated, "Around 12 hours ago I arrived at your compound, and I must admit I a"
