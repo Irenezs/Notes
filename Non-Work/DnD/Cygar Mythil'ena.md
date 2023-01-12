@@ -18,5 +18,27 @@ Flagbearer of The Fiendish Adin,
 Unbeaten Champion in Barat'moor, (although this is a technicality)
 Forgiver of the Forgotten One,
 Right-hand to The General Staax,
-Left-hand to The General Staax,
+Left-hand to The General Staax, 
 The General is not very useful.
+
+# Stories
+
+- [ ] 2nd on the Council of Artifice,
+- [ ] Archauthor of The Rites,
+- [ ] Defender of the Keep,
+- [ ] Creator of the Astra Mystica,
+- [ ] Prodigy of Pexthia,
+- [ ] Apprentice to the Royal Mage,
+- [ ] Sole User of Mechanica Fallus,
+- [ ] Wanderer of The Pillars,
+- [ ] Slayer of Braa'g Mauth,
+- [ ] The Ionised Sorceress,
+- [ ] Inventor of the Cygar-Uleb Method,
+- [ ] Sole Victor of Cava Katava,
+- [ ] Advisor to The Militant Aureus,
+- [ ] Flagbearer of The Fiendish Adin,
+- [ ] Unbeaten Champion in Barat'moor,
+- [ ] Forgiver of the Forgotten One,
+- [ ] The General Staax
+
+## 
