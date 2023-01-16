@@ -1,0 +1,3 @@
+Both E and M exert a force on the spaceship in opposite directions, the force of attraction (weight) is much greater on E than M as it is more massive.
+
+On the journey E to M, the resultant gravitational force is toward E before X and towards M after X, and vice versa for the return journey. The spaceship spends longer travelling in the opposite direction to the force for the outbound journey and longer travelling in the same direction

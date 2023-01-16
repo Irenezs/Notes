@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8d252826a6793ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +168,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "65aaacfbc5061786",
+  "active": "b8d252826a6793ae",
   "lastOpenFiles": [
+    "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Restarting Git.md",
     "Non-Work/Good Media.md",
     "Non-Work/Hololive.md",
@@ -165,7 +179,6 @@
     "Physics.md",
     "Events.md",
     "Statement.md",
-    "Non-Work/No Man's Sky Unit Generator.md",
-    "Non-Work/DnD/Characters.md"
+    "Non-Work/No Man's Sky Unit Generator.md"
   ]
 }
