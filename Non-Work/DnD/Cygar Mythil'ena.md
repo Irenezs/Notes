@@ -42,7 +42,7 @@ The General is not very useful.
 
 ## Sole User of Mechanica Fallus
 
-Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess to Pexthonia, and Artificer known across the country (for her spectacular failiures). 
+Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tower, inside is the workshop of Cygar Pexthia, the 3rd crown princess to Pexthonia, and Artificer known across the country (for her spectacular failures). 
 
 "Mistress Pexthia!" The doors slam open, a creature no more than a foot tall, sat atop a cloud floats into the workshop. "What, can't you see that I'm busy Cantyl?" The woman retorted snidely, "Is there something the matter?" The creature, now having floated into the light from the lantern overhead so as able to be seen in a good detail is clearly a patchworked humanoid, made of metal scraps and upon a detailed inspection it would be found that the skin is painted on. "Oh, nothing is wrong per se, but you do realise that its the middle of the night? The servants are getting restless."
 
@@ -50,7 +50,7 @@ Whirring, hammering, and a whole manner of arcane noises escape from the 4th Tow
 
 "Incredible! It fits perfectly!" There is a large gemstone embedded into the gloves of the armour that is glowing, as if collecting energy. "Time to test it out!" Cygar raises her arm and points it out of the open window. "Firing in 3... 2... 1..." A loud click can be heard, to the magical construct Cantyl the flow of magic in the armour can be seen, but then nothing happens. "Huh? thats od-" A large explosion can be heard, parts of the armour are sent flying across the room and Cantyl is sent to the other side of the workshop. As the dust settles, Cygar is seen taking notes on a parchment sheet that was sent flying, and a large burn mark is seen on her left cheek.
 
-"Mechanica Fallus. Its a good name don't you think!" Cygar looks unphased by the injury, with a big grin and a clear determination to work on this all night.
+"Mechanica Fallus. Its a good name don't you think!" Cygar looks nonphased by the injury, with a big grin and a clear determination to work on this all night.
 
 ## Slayer of Braa'g Mauth
 
