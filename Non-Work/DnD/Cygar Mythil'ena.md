@@ -23,7 +23,7 @@ Southern Guardian of the Dei,
 Longest Consecutive Sleepless Nights (13) (Cantyl drugged her to stop it),
 Inventor of the Second Wheel,
 Lover to a faithful Frixfal,
-
+Finisher of Castimus Grandios,
 
 
 # Stories
