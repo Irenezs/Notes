@@ -19,6 +19,12 @@ Forgiver of the Forgotten One,
 Right-hand to The General Staax,
 Left-hand to The General Staax, 
 The General is not very useful.
+Southern Guardian of the Dei,
+Longest Consecutive Sleepless Nights (13) (Cantyl drugged her to stop it),
+Inventor of the Second Wheel,
+Lover to a faithful Frixfal,
+
+
 
 # Stories
 
