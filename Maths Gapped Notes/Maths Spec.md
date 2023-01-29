@@ -31,6 +31,8 @@
 - [x] [[M3 Logarithms]]
 - [ ] [[M4 Fur. Transformations of Graphs]]
 - [ ] [[M5 Proof]]
+- [ ] [[M6 Exponentials]]
+- [ ] [[M7 Functions]]
 # Mechanics
 - [ ] [[Mech1 Kinematics|Kinematics]]
 - [ ] [[Mech2 Forces and Motion|Forces and Motion]]
