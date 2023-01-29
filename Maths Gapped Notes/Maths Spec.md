@@ -9,6 +9,7 @@
 - [ ] [[C6 Numerical Integration]]
 - [ ] [[C7 Partial Fractions]]
 - [ ] [[C8 Integration & Applications]]
+- [ ] [[C9 Differentiation & Applications]]
 ## Geometry
 - [ ] [[G1 Vectors]]
 - [ ] [[G2 Radians, Arcs, and Sectors]]

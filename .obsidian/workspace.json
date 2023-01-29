@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8dc348093790409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Gapped Notes/Maths Spec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,17 +180,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dcea1dc60a30ed16",
+  "active": "a8dc348093790409",
   "lastOpenFiles": [
+    "Maths Gapped Notes/Calculus/C9 Differentiation & Applications.md",
+    "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Statistics/Stats2 Probability.md",
     "Maths Gapped Notes/Statistics/Stats3 Hypothesis Testing.md",
-    "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Statistics/Stats1 Working with Data.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Hololive.md",
     "Untitled.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
-    "Non-Work/DnD/Cygar.pdf",
-    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
+    "Non-Work/DnD/Cygar.pdf"
   ]
 }
