@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcea1dc60a30ed16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Gapped Notes/Maths Spec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,17 +168,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "65aaacfbc5061786",
+  "active": "dcea1dc60a30ed16",
   "lastOpenFiles": [
+    "Maths Gapped Notes/Statistics/Stats2 Probability.md",
+    "Maths Gapped Notes/Statistics/Stats3 Hypothesis Testing.md",
+    "Maths Gapped Notes/Maths Spec.md",
+    "Maths Gapped Notes/Statistics/Stats1 Working with Data.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Hololive.md",
     "Untitled.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/DnD/Cygar.pdf",
-    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
-    "Non-Work/Restarting Git.md",
-    "Non-Work/Good Media.md",
-    "Non-Work/DnD/Player's Handbook.pdf",
-    "Non-Work/Diary/22-01-04.md"
+    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
   ]
 }
