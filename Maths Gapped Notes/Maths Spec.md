@@ -35,7 +35,7 @@
 - [ ] [[Mech2 Forces and Motion|Forces and Motion]]
 - [x] [[Mech3 Forces in Context|Forces in Context]]
 - [ ] [[Mech4 Objects in Contact|Objects in Contact]]
-- [ ] [[Mech5 Projectiles]]
+- [ ] [[Mech5 Projectiles|Pro]]
 - [ ] [[Mech6 Moments]]
 # Statistics
 - [ ] 
