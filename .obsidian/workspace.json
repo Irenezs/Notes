@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Gapped Notes/Maths Spec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcea1dc60a30ed16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Gapped Notes/Maths Spec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8dc348093790409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Gapped Notes/Maths Spec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "110e02ba9b527886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Gapped Notes/Misc/M6 Exponentials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0192af050885591c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +155,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0192af050885591c",
+  "active": "65aaacfbc5061786",
   "lastOpenFiles": [
+    "Untitled.md",
     "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Misc/M6 Exponentials.md",
     "Maths Gapped Notes/Misc/M7 Functions.md",
@@ -214,7 +166,6 @@
     "Maths Gapped Notes/Statistics/Stats3 Hypothesis Testing.md",
     "Maths Gapped Notes/Statistics/Stats1 Working with Data.md",
     "Non-Work/Recurring Payments.md",
-    "Non-Work/Hololive.md",
-    "Untitled.md"
+    "Non-Work/Hololive.md"
   ]
 }
