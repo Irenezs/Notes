@@ -1,3 +1,4 @@
+
 # Pure
 ## Calculus
 - [ ] [[C1 Quadratics and Inequalities]]
