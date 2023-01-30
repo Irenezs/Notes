@@ -9,3 +9,9 @@
 
 Excitation - Where an electron moves to a higher energy state
 De-excitation - Where an electron moves to a lower energy state, releasing a photon
+Ground State - The lowest energy state, most stable
+Ionisation - When an electron is completely removed from an atom
+Ionisation Energy - The energy required to completely remove an electron from an atom
+
+An electron can be excited by a collision or absorbing a photon
+
