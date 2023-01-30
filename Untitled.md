@@ -15,3 +15,12 @@ Ionisation Energy - The energy required to completely remove an electron from an
 
 An electron can be excited by a collision or absorbing a photon
 
+- 20
+	- a
+		- i
+			- The electron absorbs just enough energy to move from ground state to n=20
+		- ii-iv
+			- In Paper
+	- b
+		- i
+			- 
