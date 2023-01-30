@@ -22,5 +22,4 @@ An electron can be excited by a collision or absorbing a photon
 		- ii-iv
 			- In Paper
 	- b
-		- i
-			- 
+		- In Paper
