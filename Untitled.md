@@ -22,3 +22,6 @@
 
 # Wednesday
 
+- The setup requires a laser, pointed at a screen perpendicularly through a diffraction grating. You also need a meter ruler.
+- You need to find the number of fringes and the corresponding angle from n=0. You need to be given the slit seperation.
+- $d\sin{\theta}
