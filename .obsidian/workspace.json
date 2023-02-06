@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +157,7 @@
   },
   "active": "65aaacfbc5061786",
   "lastOpenFiles": [
+    "Non-Work/Recurring Payments.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/DnD/DnD.md",
     "Non-Work/DnD/Cygar.pdf",
@@ -165,7 +166,6 @@
     "Maths Gapped Notes/Misc/M6 Exponentials.md",
     "Maths Gapped Notes/Misc/M7 Functions.md",
     "Maths Gapped Notes/Calculus/C9 Differentiation & Applications.md",
-    "Maths Gapped Notes/Statistics/Stats2 Probability.md",
-    "Maths Gapped Notes/Statistics/Stats3 Hypothesis Testing.md"
+    "Maths Gapped Notes/Statistics/Stats2 Probability.md"
   ]
 }
