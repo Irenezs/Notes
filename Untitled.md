@@ -29,4 +29,9 @@
 
 # Thursday
 
-Diffraction - The wave spreading out as it passes through a g
+Diffraction - The wave spreading out as it passes through a gap
+For significant diffraction, a gap of exactly one wavelength.
+
+As the wavelength is increased the diffraction pattern spreads out more but still has the same shape
+
+As the width of the slit is increased the diffraction pattern gets squashed but still has the same shape 
