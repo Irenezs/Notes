@@ -1,8 +1,3 @@
-# Anime
-- [K-On]
-- [Rascal does not dream of bunny girl senpai]
-- [No Game No Life]
-
 # Manga
 - [Even If It Was Just Once, I Regret It](https://chap.manganelo.com/manga-fl119905)
 - [Asumi-Chan Is Interested In Lesbian Brothels!](https://m.manganelo.com/manga-jr123985)
