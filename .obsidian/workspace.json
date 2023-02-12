@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "deb73ddaa5d8d26e",
-        "type": "tabs",
+        "id": "8576eacc4ab8251f",
+        "type": "split",
         "children": [
           {
-            "id": "65aaacfbc5061786",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "0d8d2c1103449753",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21aa7cda59db234b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a94c5ea8f4839e55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be77a6ccaf3d22d4",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,17 +176,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d1481f1f96a218b9",
+  "active": "21aa7cda59db234b",
   "lastOpenFiles": [
+    "Non-Work/Stardew Valley.md",
+    "Untitled.md",
+    "Non-Work/Restarting Git.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Personal.md",
-    "Non-Work/DnD/Cygar Mythil'ena.md",
-    "Non-Work/DnD/Cygar.pdf",
-    "Untitled.md",
     "Non-Work/DnD/DnD.md",
     "Maths Gapped Notes/Maths Spec.md",
-    "Maths Gapped Notes/Misc/M6 Exponentials.md",
-    "Maths Gapped Notes/Misc/M7 Functions.md",
-    "Maths Gapped Notes/Calculus/C9 Differentiation & Applications.md"
+    "Non-Work/DnD/Cygar Mythil'ena.md",
+    "Non-Work/No Man's Sky Unit Generator.md",
+    "Non-Work/DnD/Cygar.pdf"
   ]
 }
