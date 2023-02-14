@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8576eacc4ab8251f",
-        "type": "split",
+        "id": "0d8d2c1103449753",
+        "type": "tabs",
         "children": [
           {
-            "id": "0d8d2c1103449753",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "21aa7cda59db234b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "21aa7cda59db234b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Work/Hololive.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "a94c5ea8f4839e55",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "be77a6ccaf3d22d4",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/Hololive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/Hololive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +157,8 @@
   },
   "active": "21aa7cda59db234b",
   "lastOpenFiles": [
-    "Non-Work/Stardew Valley.md",
     "Untitled.md",
+    "Non-Work/Stardew Valley.md",
     "Non-Work/Restarting Git.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Personal.md",
