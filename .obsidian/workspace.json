@@ -23,9 +23,11 @@
             "id": "248611aaffaece93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +170,7 @@
   },
   "active": "248611aaffaece93",
   "lastOpenFiles": [
+    "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Hololive.md",
     "Untitled.md",
@@ -176,7 +179,6 @@
     "Non-Work/Personal.md",
     "Non-Work/DnD/DnD.md",
     "Maths Gapped Notes/Maths Spec.md",
-    "Non-Work/DnD/Cygar Mythil'ena.md",
-    "Non-Work/No Man's Sky Unit Generator.md"
+    "Non-Work/DnD/Cygar Mythil'ena.md"
   ]
 }
