@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Cygar Mythil'ena.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +170,7 @@
   },
   "active": "248611aaffaece93",
   "lastOpenFiles": [
+    "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Recurring Payments.md",
     "Untitled.md",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
@@ -178,7 +179,6 @@
     "Non-Work/Restarting Git.md",
     "Non-Work/Personal.md",
     "Non-Work/DnD/DnD.md",
-    "Maths Gapped Notes/Maths Spec.md",
-    "Non-Work/DnD/Cygar Mythil'ena.md"
+    "Maths Gapped Notes/Maths Spec.md"
   ]
 }
