@@ -1,5 +1,5 @@
-# Wednesday
+# Wednesday ==6/6==
 
 - When connected to a power source, charging, the cell pushes electrons onto one plate, and pulls them from the other, charging both with -ve and +ve charge respectively. This causes a potential difference across the plates.
 - When disconnected and discharging through a resistance, the current, charge, and voltage decrease exponentially over time as the electrons flow from the plate to the other side. The time taken to discharge depends on the time constant of the circuit, $RC$. This is the time it takes for V, Q, or I to fall to 37% of the initial value.
-- To find the capacitance of a capacitor, one must find the $RC$ of the circuit. Discharge the capacitor through a resistor, recording $V_0$ and various values of V. Find the time taken to fall to $0.37V_0$. $C=-\frac{t}{\ln{\frac{V}{V_0}}}$
+- To find the capacitance of a capacitor, discharge the capacitor through a resistor, recording $V_0$ and various values of V. As $\ln{\frac{V}{V_0}}=-\frac{1}{RC}t$, plot a graph of $\ln{\frac{V}{V_0}}$ against $t$, then $-\frac{1}{RC}$ is the gradient, simply rearrange to get the capacitance.
