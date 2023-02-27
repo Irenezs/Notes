@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c617cfc1d753937",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "248611aaffaece93",
+  "active": "1c617cfc1d753937",
   "lastOpenFiles": [
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Recurring Payments.md",
