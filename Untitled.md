@@ -12,4 +12,5 @@
 		- If the mass is increased, the friction on the wheels will increase, which will decrease the maximum range of the wheelchair.
 		- If the speed is increased, the range is decreased as the air resistance will increase
 - 4
-	- 
+	- 1
+		- The two slits act as coherent sources. This means that they produce waves that share a wavelength and phase difference. As the slits are seperated, the two waves created interfere with each other based on the path difference between the waves. if the waves are a whole number of wavelengths different in their paths, meaning they interfere at the same point in phase, they interfere construct
