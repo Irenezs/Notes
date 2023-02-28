@@ -6,4 +6,10 @@
 	- 2-5
 		- In Paper
 - 3
+	- 1-4
+		- In Paper
+	- 5
+		- If the mass is increased, the friction on the wheels will increase, which will decrease the maximum range of the wheelchair.
+		- If the speed is increased, the range is decreased as the air resistance will increase
+- 4
 	- 
