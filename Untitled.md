@@ -13,4 +13,8 @@
 		- If the speed is increased, the range is decreased as the air resistance will increase
 - 4
 	- 1
-		- The two slits act as coherent sources. This means that they produce waves that share a wavelength and phase difference. As the slits are seperated, the two waves created interfere with each other based on the path difference between the waves. if the waves are a whole number of wavelengths different in their paths, meaning they interfere at the same point in phase, they interfere construct
+		- The two slits act as coherent sources. This means that they produce waves that share a wavelength and phase difference. As the slits are separated, the two waves created interfere with each other based on the path difference between the waves. if the waves are a whole number of wavelengths different in their paths, meaning they interfere at the same point in phase, they interfere constructively, while if they are at a path difference of (n+1/2) wavelengths, they interfere destructively as they interfere at a pair of points in antiphase.
+	- 2
+		- In Paper
+	- 4
+		- The antenna will be picking up waves from the environment, so even though at
