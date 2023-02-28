@@ -16,5 +16,7 @@
 		- The two slits act as coherent sources. This means that they produce waves that share a wavelength and phase difference. As the slits are separated, the two waves created interfere with each other based on the path difference between the waves. if the waves are a whole number of wavelengths different in their paths, meaning they interfere at the same point in phase, they interfere constructively, while if they are at a path difference of (n+1/2) wavelengths, they interfere destructively as they interfere at a pair of points in antiphase.
 	- 2
 		- In Paper
+	- 3
+		- The antenna will be picking up waves from the environment, so even though complete destructive interference there will be some waves hitting the antenna from sources in the environment, called background radiation.
 	- 4
-		- The antenna will be picking up waves from the environment, so even though at
+		- At 0$^\circ$, there will be a large value, as the antenna is rotated, the value will very quickly drop off to a minimum, as the microwaves are polarised, meaning they only travel in one plane, in this case vertical, as they can pass through the slits.
