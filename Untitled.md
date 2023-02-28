@@ -2,4 +2,8 @@
 	- In Paper
 - 2
 	- 1
-		- As the electrons move through the filament, they collide with atoms inside of the filament, causing a change in momentum which is expressed as heat. As the atoms heat up, they will vibrate more strongly, which will increase the likely-hood they are struck by moving electrons, which will generate more heat. 
+		- As the electrons move through the filament, they collide with atoms inside of the filament, causing a change in momentum which is expressed as heat. As the atoms heat up, they will vibrate more strongly, which will increase the likely-hood they are struck by moving electrons, which will generate more heat, slowing the flow of charge down. This means resistance increases, meaning more voltage is needed for a higher current flow.
+	- 2-5
+		- In Paper
+- 3
+	- 
