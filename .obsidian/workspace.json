@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77868329854771dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "248611aaffaece93",
+  "active": "77868329854771dc",
   "lastOpenFiles": [
     "Untitled.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
