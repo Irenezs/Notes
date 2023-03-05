@@ -47,9 +47,11 @@
             "id": "f9d01449acf6807a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
