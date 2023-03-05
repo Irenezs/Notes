@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9d01449acf6807a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77868329854771dc",
+  "active": "f9d01449acf6807a",
   "lastOpenFiles": [
     "Untitled.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
