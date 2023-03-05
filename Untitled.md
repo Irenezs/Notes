@@ -20,3 +20,13 @@
 		- The antenna will be picking up waves from the environment, so even though complete destructive interference there will be some waves hitting the antenna from sources in the environment, called background radiation.
 	- 4
 		- At 0$^\circ$, there will be a large value, as the antenna is rotated, the value will very quickly drop off to a minimum, as the microwaves are polarised, meaning they only travel in one plane, in this case vertical, as they can pass through the slits.
+- 5
+	- 1-2
+		- In Paper
+	- 3
+		- The wind causes a disturbance in the wire, causing a wave to propagate through the wire and reflect on each of the masts, where the reflected waves will then interfere, causing a stationary wave. This is only possible at specific frequencies as the masts must be nodes.
+	- 4-6
+		- In Paper
+	- 7
+		- The copper may be stretched beyond its elastic limit, meaning it became permanently deformed.
+		- 
