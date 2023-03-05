@@ -15,3 +15,7 @@ Gas
 
 Brownian Motion
 	Smoke particles were observed through a microscope
+	Moving randomly and unpredictably
+	The smoke was colliding with air
+	Proving the existence of molecules and atoms
+
