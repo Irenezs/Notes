@@ -1,41 +1,17 @@
-- 1
-	- In Paper
-- 2
-	- 1
-		- As the electrons move through the filament, they collide with atoms inside of the filament, causing a change in momentum which is expressed as heat. As the atoms heat up, they will vibrate more strongly, which will increase the likely-hood they are struck by moving electrons, which will generate more heat, slowing the flow of charge down. This means resistance increases, meaning more voltage is needed for a higher current flow.
-	- 2-5
-		- In Paper
-- 3
-	- 1-4
-		- In Paper
-	- 5
-		- If the mass is increased, the friction on the wheels will increase, which will decrease the maximum range of the wheelchair.
-		- If the speed is increased, the range is decreased as the air resistance will increase
-- 4
-	- 1
-		- The two slits act as coherent sources. This means that they produce waves that share a wavelength and phase difference. As the slits are separated, the two waves created interfere with each other based on the path difference between the waves. if the waves are a whole number of wavelengths different in their paths, meaning they interfere at the same point in phase, they interfere constructively, while if they are at a path difference of (n+1/2) wavelengths, they interfere destructively as they interfere at a pair of points in antiphase.
-	- 2
-		- In Paper
-	- 3
-		- The antenna will be picking up waves from the environment, so even though complete destructive interference there will be some waves hitting the antenna from sources in the environment, called background radiation.
-	- 4
-		- At 0$^\circ$, there will be a large value, as the antenna is rotated, the value will very quickly drop off to a minimum, as the microwaves are polarised, meaning they only travel in one plane, in this case vertical, as they can pass through the slits.
-- 5
-	- 1-2
-		- In Paper
-	- 3
-		- The wind causes a disturbance in the wire, causing a wave to propagate through the wire and reflect on each of the masts, where the reflected waves will then interfere, causing a stationary wave. This is only possible at specific frequencies as the masts must be nodes.
-	- 4-6
-		- In Paper
-	- 7
-		- The copper may be stretched beyond its elastic limit, meaning it became permanently deformed.
-- 6
-	- In Paper
-- 7
-	- 1-4
-		- In Paper
-	- 5
-		- The potential difference produces high speed electrons in the tube, meaning these electrons collide with orbital electrons. These collisions must be of sufficient energy to raise the electron to an excited state.
-		- The spectrum results in excited electrons moving into lover levels. Each transition produces a photon of light, where $\Delta E = hf$.
-		- $\lambda=\frac{hc}{\Delta E}$
-		- $-0.54eV\mapsto -3.40eV : \lambda=\frac{hc}{2.86\times 1.6\times 10^{-19}}=434nm$
+# Monday
+
+Solid
+	Packed in a regular pattern
+	Vibrate about a fixed point
+	Strong bonds with all neighbours
+Liquid
+	Closely packed with no pattern
+	Vibrate and can move past neighbours
+	Bonds with neighbours
+Gas
+	Spread out with large gaps between them
+	Moving quickly in random directions
+	No bonds between atoms
+
+Brownian Motion
+	Smoke particles were observed through a microscope
