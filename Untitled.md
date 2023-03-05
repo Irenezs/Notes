@@ -35,4 +35,5 @@
 	- 1-4
 		- In Paper
 	- 5
-		- 
+		- The potential difference produces high speed electrons in the tube, meaning these electrons collide with orbital electrons. These collisions must be of sufficient energy to raise the electron to an excited state.
+		- The sp3ec
