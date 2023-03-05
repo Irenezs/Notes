@@ -21,3 +21,5 @@ Brownian Motion
 
 # Wednesday
 
+- See Paper for diagram / Bullet 1
+- The change is temperature is needed, so the theremo
