@@ -29,4 +29,5 @@
 		- In Paper
 	- 7
 		- The copper may be stretched beyond its elastic limit, meaning it became permanently deformed.
-		- 
+- 6
+	- 
