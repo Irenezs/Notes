@@ -37,5 +37,6 @@
 	- 5
 		- The potential difference produces high speed electrons in the tube, meaning these electrons collide with orbital electrons. These collisions must be of sufficient energy to raise the electron to an excited state.
 		- The spectrum results in excited electrons moving into lover levels. Each transition produces a photon of light, where $\Delta E = hf$.
-		- $-0.54eV\mapsto -1.51eV : \lambda=\frac{hc}{0.97\ti}$
-		- 
+		- $\lambda=\frac{hc}{\Delta E}$
+		- $-0.54eV\mapsto -1.51eV : \lambda=\frac{hc}{0.97\times 1.6\times 10^{-19}}=1282nm$
+		
