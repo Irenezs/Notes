@@ -45,3 +45,4 @@
 - [ ] [[Stats1 Working with Data|Working with Data]]
 - [ ] [[Stats2 Probability|Probability]]
 - [ ] [[Stats3 Hypothesis Testing|Hypothesis Testing]]
+- [ ] [[Stats4 Further Hypothesis Testing|Further Hypothesis Testing]]
