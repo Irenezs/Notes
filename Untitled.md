@@ -27,5 +27,8 @@
 		- In Paper
 	- 3
 		- Metallic instruments placed between the spheres will affect the separation, can be solved by using non-conducting callipers.
-	- 4
+	- 4-6
+		- In Paper
+- 5
+	- 1
 		- 
