@@ -30,5 +30,8 @@
 	- 4-6
 		- In Paper
 - 5
-	- 1
-		- 
+	- In Paper
+- 6
+	- Not Set
+- 7-31
+	- In Paper
