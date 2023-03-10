@@ -4,4 +4,8 @@
 	- 1
 		- The total average kinetic and potential energies in the gas.
 	- 2
+		-  Absolute zero can be understood as the temperature at which the average kinetic energy of the particles in a gas is 0. It can also be interpereted as the temperature where pV=0, via the ideal gas law (pV=nRT).
+	- 3
+		- In Paper
+	- 4
 		- 
