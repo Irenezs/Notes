@@ -8,4 +8,6 @@
 	- 3
 		- In Paper
 	- 4
+		- Argon is heavier, so will have a greater mean kinetic energy for the same temperature.
+	- 5
 		- 
