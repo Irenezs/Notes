@@ -4,7 +4,7 @@
 	- 1
 		- The total average kinetic and potential energies in the gas.
 	- 2
-		-  Absolute zero can be understood as the temperature at which the average kinetic energy of the particles in a gas is 0. It can also be interpereted as the temperature where pV=0, via the ideal gas law (pV=nRT).
+		-  Absolute zero can be understood as the temperature at which the average kinetic energy of the particles in a gas is 0. It can also be interpreted as the temperature where pV=0, via the ideal gas law (pV=nRT).
 	- 3
 		- In Paper
 	- 4
@@ -14,4 +14,9 @@
 	- 6
 		- $p\propto \frac{1}{V}$, $p\propto T$.
 		- The volume can be increased, this increases the time between collisions with the container walls and as such reduces the rate of change of momentum, aka force.
-		- The temperature can be decreased, which reduces the momentum change at the wall, as temperature is the kinetic energy of the particles, so the particles wo
+		- The temperature can be decreased, which reduces the momentum change at the wall, as temperature is the kinetic energy of the particles, so the particles would move slower.
+- 3
+	- 1
+		- The energy per unit mass required to move a  test mass through the field from infinity to that point.
+	- 2
+		- The equipotwe
