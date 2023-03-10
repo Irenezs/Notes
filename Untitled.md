@@ -19,4 +19,8 @@
 	- 1
 		- The energy per unit mass required to move a  test mass through the field from infinity to that point.
 	- 2
-		- The equipotwe
+		- The equipotentials are curved.
+	- 3
+		- In Paper
+- 4
+	- 
