@@ -10,4 +10,8 @@
 	- 4
 		- As they have the same temperature, they have the same mean kinetic energy.
 	- 5
-		- Particles in the gas collide with the walls and change momentum, $F=\frac{\Delta mv}{\Delta t}$
+		- Particles in the gas collide with the walls and change momentum, Equal and opposite force required in changing direction, due to newton's laws. As pressure = $\frac{F}{A}$, There is a pressure on the container walls.
+	- 6
+		- $p\propto \frac{1}{V}$, $p\propto T$.
+		- The volume can be increased, this increases the time between collisions with the container walls and as such reduces the rate of change of momentum, aka force.
+		- The temperature can be decreased, which reduces the momentum change at the wall, as temperature is the kinetic energy of the particles, so the particles wo
