@@ -8,6 +8,6 @@
 	- 3
 		- In Paper
 	- 4
-		- Argon is heavier, so will have a greater mean kinetic energy for the same temperature.
+		- As they have the same temperature, they have the same mean kinetic energy.
 	- 5
-		- 
+		- Particles in the gas collide with the walls and change momentum, $F=\frac{\Delta mv}{\Delta t}$
