@@ -5,3 +5,5 @@
 		- If the aerial is rotated in a vertical plane, there will be a changing in the intensity of microwaves detected. There will be a maximum when aerial is vertical, and a minimum when aerial is horizontal. Maximum is the plane of polarisation of the microwaves.
 	- 2
 		- The observed signal will go through a series of maxima and minima, this is because the reflected and direct microwaves interfere. The path difference increases as the plate moves.
+	- 3
+		- 
