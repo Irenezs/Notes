@@ -2,4 +2,4 @@
 	- In Paper
 - 2
 	- 1
-		- 
+		- If the aerial is rotated in a plane perpendicular , there will be a changing 
