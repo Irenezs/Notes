@@ -2,4 +2,6 @@
 	- In Paper
 - 2
 	- 1
-		- If the aerial is rotated in a plane perpendicular , there will be a changing 
+		- If the aerial is rotated in a vertical plane, there will be a changing in the intensity of microwaves detected. There will be a maximum when aerial is vertical, and a minimum when aerial is horizontal. Maximum is the plane of polarisation of the microwaves.
+	- 2
+		- 
