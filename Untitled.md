@@ -6,3 +6,6 @@ Particle|Charge $/C$|Mass $/kg$
 Proton|$+1.6\times10^{-19}$|$1.67\times10^{-27}$
 Electron|$-1.6\times10^{-19}$|$9.11\times10^{-31}$
 Neutron|0|$1.67\times10^{-27}$
+
+- $^A_ZX$ is notation for chemicals, where $A$ is the proton number, $Z$ is the nucleon number, and $X$ is the chemical symbol.
+- 
