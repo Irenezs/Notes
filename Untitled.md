@@ -15,4 +15,4 @@
 	- 2
 		- In Paper
 	- 3
-		- 
+		- The angle of incidence on the core-cladding boundary decreases, so is now less than the critical angle. 
