@@ -19,7 +19,10 @@
 - 4
 	- 1
 		- A centripetal force acts inwards towards O, and there will be a reaction force from the ship's floor on the astronaut, which will mimic gravity.
-	- 2
+	- 2-4
 		- In Paper
-	- 3
-		- 
+- 5
+	- 1-4
+		- In Paper
+	- 5
+		- The gradient is the acceleration of the ball, the area under the graph is the vertical distance travelled. Without air resistance, the gradient is constant negative, =g, and the area under the graph is 0 as the ball starts and finishes on the ground, reaching a 
