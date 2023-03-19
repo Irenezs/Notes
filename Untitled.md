@@ -6,4 +6,8 @@
 	- 2
 		- The observed signal will go through a series of maxima and minima, this is because the reflected and direct microwaves interfere. The path difference increases as the plate moves.
 	- 3
-		- 
+		- Only valid when D is much greater than s.
+	- 4
+		- In Paper
+- 3
+	- 1
