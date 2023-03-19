@@ -9,4 +9,4 @@ Neutron|0|$1.67\times10^{-27}$
 
 - $^A_ZX$ is notation for chemicals, where $A$ is the proton number, $Z$ is the nucleon number, and $X$ is the chemical symbol.
 - An isotope is a variation of an atom where it has the same proton number, but a different nucleon number.
-- 
+- Ions are an atoms w
