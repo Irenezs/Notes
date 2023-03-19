@@ -1,6 +1,7 @@
-# Wednesday
+# Wednesday ==6/6==
 
 - An atom consists of a nucleus, made of protons and neutrons (nucleons), with orbits of electrons. The number of protons is the same as the number of electrons to give an overall charge of zero. The   particles in the atom takes up less than 1% of the atom. 
+
 Particle|Charge $/C$|Mass $/kg$
 ---|:---:|---
 Proton|$+1.6\times10^{-19}$|$1.67\times10^{-27}$
@@ -10,4 +11,5 @@ Neutron|0|$1.67\times10^{-27}$
 - $^A_ZX$ is notation for chemicals, where $A$ is the proton number, $Z$ is the nucleon number, and $X$ is the chemical symbol.
 - An isotope is a variation of an atom where it has the same proton number, but a different nucleon number.
 - Ions are atoms that have an overall charge, due to gaining or losing orbital electrons.
-- A photon is a quantum of energy given by the equation $E=hf$, $h$ is Planck's constant
+- A photon is a discrete quantum of energy given by the equation $E=hf$, $h$ is Planck's constant, $f$ is the frequency of the photon.
+- Photons are released from annihilation, which is where a particle and its antiparticle touch and their mass is converted into energy.
