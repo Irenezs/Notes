@@ -15,4 +15,7 @@
 	- 2
 		- In Paper
 	- 3
-		- The angle of incidence on the core-cladding boundary decreases, so is now less than the critical angle. 
+		- The angle of incidence on the core-cladding boundary decreases, so is now less than the critical angle.
+- 4
+	- 1
+		- A centripetal force acts inwards towards O, and there will be a 
