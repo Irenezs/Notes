@@ -27,5 +27,4 @@
 	- 5
 		- The gradient is the acceleration of the ball, the area under the graph is the vertical distance travelled. Without air resistance, the gradient is constant negative, =g, and the area under the graph is 0 as the ball starts and finishes on the ground, reaching a higher height as area above time axis is greater. With air resistance, there is initially a steep gradient as air resistance in same direction as weight, and the total area under graph is 0, while air resistance causes the max height to be smaller.
 - 6
-	- 1
-		- 
+	- In Paper
