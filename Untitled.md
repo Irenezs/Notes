@@ -21,9 +21,9 @@ A force field is a space where a force is experienced.
 
 Name|Gravitational Fields|Electric Fields
 ---|---|---
-Force acts on:|
-Nature of force:|
-Const. of proportionality:|
+Force acts on:|Masses|Charges
+Nature of force:|Attractive|Attractive between opposite, repulsive for like charges
+Const. of proportionality:|$G$|$\frac{1}{4\pi\epsilon_0}$
 Force equation:|
 Scalar vs Vector|
 Unit:|
@@ -45,3 +45,11 @@ When -ve:|
 When +ve:|
 Work done moving between potentials:|
 Scalar vs Vector|
+Unit:|
+Connection between lines and equipotentials:|
+Work Done moving on equipotential:|
+ |
+Potential from field strength-distance:|
+Field strength from potential-distance:|
+Field Strength equation:|
+What happens when an object enters the field at right angles to the field lines?|
