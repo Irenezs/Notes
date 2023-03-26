@@ -8,4 +8,6 @@
 	- 4
 		- In Paper
 	- 5
-		- Reducing the air gap to 1/3
+		- Reducing the air gap to 0.25x original, or inserting a dielectric with relative permittivity of 4.
+- 2
+	- 
