@@ -3,11 +3,14 @@
 		- The permittivity of the dielectric is 6 times the permittivity of free space
 	- 2
 		- The polar molecules align with the positive side facing the negative plate, producing a countering electric fiel, thus the pd reduces between the plates but the charge remains the same, therefore capacitance increases, as $C=\frac{Q}{V}$
-	- 3
-		- In Paper
-	- 4
+	- 3-4
 		- In Paper
 	- 5
 		- Reducing the air gap to 0.25x original, or inserting a dielectric with relative permittivity of 4.
 - 2
-	- 
+	- 1-2
+		- In Paper
+	- 3
+		- Site Z, as it has the highest initial speed of any of the sites due to the Earths rotation
+	- 4
+		- 
