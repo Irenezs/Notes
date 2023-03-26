@@ -8,4 +8,4 @@
 	- 4
 		- In Paper
 	- 5
-		- 0
+		- Reducing the air gap to 1/3
