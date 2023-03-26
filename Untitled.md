@@ -11,4 +11,19 @@ $$r_g^3=\frac{GM_E}{4\pi^2}T_g^2=\frac{G\times5.97\times10^{24}}{4\pi^2}\times(2
 
 Escape Velocity is the minimum speed an object must be travelling at the surface to completely break free of the gravitational field of the planet.
 Objects leaving the surface that have rockets travel at a speed lower than the escape velocity as the rockets provide a continual thrust.
-$$v=\sqrt{\frac{2GM}{r}}=\sqrt{\frac{2G\times5.97\times10^{24}}{}}$$
+$$v=\sqrt{\frac{2GM}{r}}=\sqrt{\frac{2G\times5.97\times10^{24}}{6.37\times10^{6}}}=11183\mspace{0.2em}\text{ms}^{-1}$$
+
+# Thursday 
+
+Contact Forces : Friction, Air Resistance, Normal Reaction.
+Non-Contact Forces : Gravity, Electromagnetic, Strong Nuclear Force.
+A force field is a space where a force is experienced.
+
+Name|Gravitational Fields|Electric Fields
+---|---|---
+Force acts on:|
+Nature of force:|
+Const. of proportionality:|
+Force equation:|
+Scalar vs Vector|
+Unit:|
