@@ -24,12 +24,12 @@ Name|Gravitational Fields|Electric Fields
 Force acts on:|Masses|Charges
 Nature of force:|Attractive|Attractive between opposite, repulsive for like charges
 Const. of proportionality:|$G$|$\frac{1}{4\pi\epsilon_0}$
-Force equation:|
-Scalar vs Vector|
-Unit:|
+Force equation:|$F=\frac{GMm}{r^2}$|$F=\frac{1}{4\pi\epsilon_0}\frac{Qq}{r^2}$
+Scalar vs Vector|Vector|Vector
+Unit:|N|N
  |
-Field Lines show:|
-Direction of lines:|
+Field Lines show:|Direction of Force|Direction of Force
+Direction of lines:|Towards Masses|Out of +ve, into -ve
 Field Strength:|
 Scalar vs Vector|
 Unit:|
