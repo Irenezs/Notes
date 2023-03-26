@@ -44,12 +44,12 @@ Value at infinity:|0|0
 When -ve:|Always|When force is attractive
 When +ve:|Never|When force is repulsive
 Work done moving between potentials:|$\Delta W=m\Delta V$|$\Delta W=Q\Delta V$
-Scalar vs Vector|
-Unit:|
-Connection between lines and equipotentials:|
-Work Done moving on equipotential:|
+Scalar vs Vector|Scalar|Scalar
+Unit:|J|J
+Connection between lines and equipotentials:|Perpendicular|Perpendicular
+Work Done moving on equipotential:|0|0
  |
-Potential from field strength-distance:|
-Field strength from potential-distance:|
-Field Strength equation:|
-What happens when an object enters the field at right angles to the field lines?|
+Potential from field strength-distance:|Area under|Area under
+Field strength from potential-distance:|Gradient|Gradient
+Field Strength equation:|$g=-\frac{\Delta V}{\Delta r}$|$E=\frac{\Delta V}{\Delta r}$
+What happens when an object enters the field at right angles to the field lines?|Accelerates in direction of field lines|Accelerates toward field lines if +ve, if -ve away.
