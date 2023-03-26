@@ -1,7 +1,9 @@
 - 1
 	- 1
-		- The permittivity of free space is 6 times the permittivity of free space
+		- The permittivity of the dielectric is 6 times the permittivity of free space
 	- 2
 		- The polar molecules align with the positive side facing the negative plate, producing a countering electric fiel, thus the pd reduces between the plates but the charge remains the same, therefore capacitance increases, as $C=\frac{Q}{V}$
 	- 3
-		- 
+		- In Paper
+	- 4
+		- In Pa
