@@ -13,4 +13,6 @@
 	- 3
 		- Site Z, as it has the highest initial speed of any of the sites due to the Earths rotation
 	- 4
-		- 
+		- In Paper
+	- 5
+		- In a higher orbit, the linear speed is lower as $v=\sqrt{\frac{GM}{r}}$.
