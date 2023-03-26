@@ -34,16 +34,16 @@ Field Strength:|Force per unit mass|Force per unit charge
 Scalar vs Vector|Vector|Vector
 Unit:|$\text{Nkg}^{-1}$|$\text{NC}^{-1}$
 Radial Field Strength Equ:|$g=\frac{GM}{r^2}$|$E=\frac{1}{4\pi\epsilon_0}\frac{Q}{r^2}$
-Connection between lines and strength:|
+Connection between lines and strength:|Closer <=> Stronger|Closer <=> Stronger
  |
-Definition of potential:|
-Radial potential equation:|
-Scalar vs Vector|
-Unit:|
-Value at infinity:|
-When -ve:|
-When +ve:|
-Work done moving between potentials:|
+Definition of potential:|Work Done per unit mass against field when moving from infinity to the point|Work Done per unit charge against field when moving from infinity to the point
+Radial potential equation:|$V=\frac{GM}{r}$|$V=\frac{1}{4\pi\epsilon_0}\frac{Q}{r}$
+Scalar vs Vector|Scalar|Scalar
+Unit:|$\text{Jkg}^{-1}$|$\text{JC}^{-1}$
+Value at infinity:|0|0
+When -ve:|Always|When force is attractive
+When +ve:|Never|When force is repulsive
+Work done moving between potentials:|$\Delta W=m\Delta V$|$\Delta W=Q\Delta V$
 Scalar vs Vector|
 Unit:|
 Connection between lines and equipotentials:|
