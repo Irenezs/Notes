@@ -30,10 +30,10 @@ Unit:|N|N
  |
 Field Lines show:|Direction of Force|Direction of Force
 Direction of lines:|Towards Masses|Out of +ve, into -ve
-Field Strength:|
-Scalar vs Vector|
-Unit:|
-Radial Field Strength Equ:|
+Field Strength:|Force per unit mass|Force per unit charge
+Scalar vs Vector|Vector|Vector
+Unit:|$\text{Nkg}^{-1}$|$\text{NC}^{-1}$
+Radial Field Strength Equ:|$g=\frac{GM}{r^2}$|$E=\frac{1}{4\pi\epsilon_0}\frac{Q}{r^2}$
 Connection between lines and strength:|
  |
 Definition of potential:|
