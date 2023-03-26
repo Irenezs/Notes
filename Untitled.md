@@ -27,3 +27,21 @@ Const. of proportionality:|
 Force equation:|
 Scalar vs Vector|
 Unit:|
+ |
+Field Lines show:|
+Direction of lines:|
+Field Strength:|
+Scalar vs Vector|
+Unit:|
+Radial Field Strength Equ:|
+Connection between lines and strength:|
+ |
+Definition of potential:|
+Radial potential equation:|
+Scalar vs Vector|
+Unit:|
+Value at infinity:|
+When -ve:|
+When +ve:|
+Work done moving between potentials:|
+Scalar vs Vector|
