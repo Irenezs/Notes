@@ -16,3 +16,8 @@
 		- In Paper
 	- 5
 		- In a higher orbit, the linear speed is lower as $v=\sqrt{\frac{GM}{r}}$.
+- 3
+	- 1
+		- So that the gas from the oven does not collide with air atoms, changing their speed.
+	- 2
+		- 
