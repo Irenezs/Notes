@@ -19,5 +19,7 @@
 - 3
 	- 1
 		- So that the gas from the oven does not collide with air atoms, changing their speed.
-	- 2
-		- 
+	- 2-3
+		- In Paper
+	- 4
+		- Pressure is due to collisions of atoms with the oven walls. If the frequency of collisions reduces but average change in momentum stays the same, 
