@@ -37,5 +37,7 @@
 - 5
 	- 1
 		- According to the LHR, The magnetic force on a moving particle is perpendicular to both the current and the field, which causes circular motion, as this force becomes the centripetal force.
-	- 2
-		- 
+	- 2-4
+		- In Paper
+- 6
+	- 
