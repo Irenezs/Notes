@@ -31,4 +31,6 @@
 	- 1
 		- In Paper
 	- 2
-		- As the coil moves there is a rate of change of flux through the coil. The induced emf is proportional to the rate of change of flux linkage so the magnitude of the emf decreases
+		- As the coil moves there is a rate of change of flux through the coil. The induced emf is proportional to the rate of change of flux linkage so the magnitude of the emf decreases.
+	- 3
+		- In Paper
