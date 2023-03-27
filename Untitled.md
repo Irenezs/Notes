@@ -34,3 +34,6 @@
 		- As the coil moves there is a rate of change of flux through the coil. The induced emf is proportional to the rate of change of flux linkage so the magnitude of the emf decreases.
 	- 3
 		- In Paper
+- 5
+	- 1
+		- According to the LHR, The magnetic force on a moving particle is perpendicular to both the current and the field.
