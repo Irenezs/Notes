@@ -28,4 +28,7 @@
 	- 6
 		- At higher temps the atoms will move faster, so the drum will not turn as far, therefore the darkest area will be closer to A.
 - 4
-	- 
+	- 1
+		- In Paper
+	- 2
+		- As the coil moves there is a rate of change of flux through the coil. The induced emf is proportional to the rate of change of flux linkage so the magnitude of the emf decreases
