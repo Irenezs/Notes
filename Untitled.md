@@ -22,4 +22,10 @@
 	- 2-3
 		- In Paper
 	- 4
-		- Pressure is due to collisions of atoms with the oven walls. If the frequency of collisions reduces but average change in momentum stays the same, 
+		- Pressure is due to collisions of atoms with the oven walls. If the frequency of collisions reduces but average change in momentum stays the same, the pressure will drop.
+	- 5
+		- In Paper
+	- 6
+		- At higher temps the atoms will move faster, so the drum will not turn as far, therefore the darkest area will be closer to A.
+- 4
+	- 
