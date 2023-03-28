@@ -6,4 +6,8 @@
 	- Oscillating magnetic and electric fields, each one inducing the other. Always perpendicular to each other.
 	- ![[Untitled Diagram.svg]]
 - 4
-	- $$c=\frac{1}{\sqrt{$$
+	- $$c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}$$
+- 1
+	- Passing an induced current over a very small gap to produce a spark, making an electric field, causing em waves.
+- 2
+	- Passing them through a coil of wire with a small gap, if an em wave passed through, there will be a spark in the gap.
