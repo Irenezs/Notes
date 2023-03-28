@@ -10,4 +10,13 @@
 - 1
 	- Passing an induced current over a very small gap to produce a spark, making an electric field, causing em waves.
 - 2
-	- Passing them through a coil of wire with a small gap, if an em wave passed through, there will be a spark in the gap.
+	- Passing them through a coil of wire with a small gap, if an em wave passed through, there will be a spark in the gap, due to Faraday's law.
+- 3
+	- a
+		- The detector will read nothing.
+	- b
+		- The detector will still detect em waves
+- 4
+	- The intensity of waves will increase as waves are being reflected back toward the detector
+- 5
+	- 
