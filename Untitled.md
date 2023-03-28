@@ -4,3 +4,6 @@
 	- $\mu_0$ is the permeability of free space, meaning how well free space allows magnetic fields to travel through
 - 3
 	- Oscillating magnetic and electric fields, each one inducing the other. Always perpendicular to each other.
+	- ![[Untitled Diagram.svg]]
+- 4
+	- $$c=\frac{1}{\sqrt{$$
