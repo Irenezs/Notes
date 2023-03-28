@@ -1,0 +1,1 @@
+$$t=\frac{T}{2N}\mspace{2em}c=frac{2d}{t}$$
