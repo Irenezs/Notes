@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1481f1f96a218b9",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram.svg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,16 +43,6 @@
         "id": "ac92549f08fed136",
         "type": "tabs",
         "children": [
-          {
-            "id": "d1481f1f96a218b9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "d49f960f13db9563",
             "type": "leaf",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +156,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c21cd7a4daa414c",
+  "active": "d1481f1f96a218b9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled Diagram.svg",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Non-Work/Recurring Payments.md",
-    "Untitled.md",
     "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Statistics/Stats4 Further Hypothesis Testing.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
