@@ -10,4 +10,12 @@
 			- In internal energy, loss of orbital $e^-$, while in $\beta^-$ decay, no change in orbital shells.
 - 2
 	- 1
-		- TR
+		- The light hits the first prism normally.
+	- 2
+		- 1
+			- Prism and glass have the same optical density.
+		- 2
+			- No gap between prism and glass.
+	- 3
+		- In Paper
+	- 
