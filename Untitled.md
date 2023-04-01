@@ -27,4 +27,9 @@
 	- 5
 		- Light may change direction if the optical density changes, however a change of only a few per cent is unlikely to be significant.
 	- 6
-		- 
+		- 1
+			- As the light travels more of the windscreen, it is more likely to detect water droplets., so more sensitive.
+		- 2
+			- Any curvature in the windscreen affects the light more, so will become less sensitive.
+- 3
+	- 
