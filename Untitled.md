@@ -32,4 +32,7 @@
 		- 2
 			- Any curvature in the windscreen affects the light more, so will become less sensitive.
 - 3
-	- A large central bright spot with smaller bright spots on either side of lower intensity
+	- 1
+		- A large central bright spot with smaller bright spots on either side of lower intensity.
+	- 2
+		- The red filter creates a monochromatic light of a higher 
