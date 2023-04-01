@@ -1,5 +1,9 @@
 - 1
-	- 1-3
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
 		- In Paper
 	- 4
 		- 1
@@ -18,4 +22,7 @@
 			- No gap between prism and glass.
 	- 3
 		- In Paper
-	- 
+	- 4
+		- In Paper
+	- 5
+		- 
