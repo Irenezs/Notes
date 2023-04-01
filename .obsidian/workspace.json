@@ -23,9 +23,11 @@
             "id": "d1481f1f96a218b9",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +171,8 @@
   },
   "active": "d1481f1f96a218b9",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled Diagram.svg",
+    "Untitled.md",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Non-Work/Recurring Payments.md",

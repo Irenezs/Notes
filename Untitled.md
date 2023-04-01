@@ -1,22 +1,5 @@
 - 1
-	- $\varepsilon_0$ is the permittivity of free space, meaning how well free space allows electric fields to travel through
-- 2
-	- $\mu_0$ is the permeability of free space, meaning how well free space allows magnetic fields to travel through
-- 3
-	- Oscillating magnetic and electric fields, each one inducing the other. Always perpendicular to each other.
-	- ![[Untitled Diagram.svg]]
-- 4
-	- $$c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}$$
-- 1
-	- Passing an induced current over a very small gap to produce a spark, making an electric field, causing em waves.
-- 2
-	- Passing them through a coil of wire with a small gap, if an em wave passed through, there will be a spark in the gap, due to Faraday's law.
-- 3
-	- a
-		- The detector will read nothing.
-	- b
-		- The detector will still detect em waves
-- 4
-	- The intensity of waves will increase as waves are being reflected back toward the detector
-- 5
-	- 
+	- 1-3
+		- In Paper
+	- 4
+		- 
