@@ -5,4 +5,4 @@
 		- 1
 			- In internal energy, no change in constituents of the nuclei, in $\beta^-$ decay, there is a change, $n\mapsto p$.
 		- 2
-			- 
+			- In internal energy, only an $e^-$ is released, while in $\beta^-$ decay, an $e^-$ and an $\overline{\nu_e}$.
