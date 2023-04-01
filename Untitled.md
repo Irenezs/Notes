@@ -25,4 +25,6 @@
 	- 4
 		- In Paper
 	- 5
+		- Light may change direction if the optical density changes, however a change of only a few per cent is unlikely to be significant.
+	- 6
 		- 
