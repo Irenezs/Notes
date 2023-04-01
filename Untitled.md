@@ -6,3 +6,8 @@
 			- In internal energy, no change in constituents of the nuclei, in $\beta^-$ decay, there is a change, $n\mapsto p$.
 		- 2
 			- In internal energy, only an $e^-$ is released, while in $\beta^-$ decay, an $e^-$ and an $\overline{\nu_e}$.
+		- 3
+			- In internal energy, loss of orbital $e^-$, while in $\beta^-$ decay, no change in orbital shells.
+- 2
+	- 1
+		- TR
