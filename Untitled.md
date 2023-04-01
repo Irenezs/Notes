@@ -3,4 +3,6 @@
 		- In Paper
 	- 4
 		- 1
+			- In internal energy, no change in constituents of the nuclei, in $\beta^-$ decay, there is a change, $n\mapsto p$.
+		- 2
 			- 
