@@ -32,4 +32,4 @@
 		- 2
 			- Any curvature in the windscreen affects the light more, so will become less sensitive.
 - 3
-	- 
+	- A large central bright spot with 
