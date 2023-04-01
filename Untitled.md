@@ -33,6 +33,6 @@
 			- Any curvature in the windscreen affects the light more, so will become less sensitive.
 - 3
 	- 1
-		- A large central bright spot with smaller bright spots on either side of lower intensity.
+		- A large central bright fringes with smaller bright fringes on either side of lower intensity.
 	- 2
-		- The red filter creates a monochromatic light of a higher 
+		- The red filter creates a monochromatic light of a higher wavelength, meaning the fringes will increase in size.
