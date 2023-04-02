@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d1481f1f96a218b9",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
     "Untitled.md",

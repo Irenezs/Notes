@@ -62,4 +62,13 @@
 		- The steel barrier is better as it increases the time of impact as the material deforms, and as Impulse = Change in momentum, this implies the force on the dummies is smaller, therefore safer. ($F\Delta t=\Delta(mv)$)
 - 6
 	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- A longitudinal wave is produced, wherein oscillations are parallel to the direction of energy travel.
+- 7
+	- 1
+		- The lamp has a constant resistance, and the variable resistor therefore must reduce resistance to increase the brightness of the bulb, therefore as the resistance is lower, by $V=IR$, the voltage decreases.
+	- 2
 		- 
