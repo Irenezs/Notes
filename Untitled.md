@@ -39,4 +39,7 @@
 	- 3
 		- In Paper
 	- 4
-		- 
+		- The range of wavelengths will result in broader maxima, increasing in width increase as $\theta$ is increased.
+- 4
+	- 1
+		- The combined centre of mass of the wooden box + the beam will be directly over the pivot, so no moments are acting on the rope, so no tension is caused by the beam and box.
