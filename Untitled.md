@@ -72,3 +72,5 @@
 		- The lamp has a constant resistance, and the variable resistor therefore must reduce resistance to increase the brightness of the bulb, therefore as the resistance is lower, by $V=IR$, the voltage decreases.
 	- 2
 		- The value is greater as the two cells are able to produce a larger current together, so will overcome more resistance and produce a larger V.
+- MCQ
+	- In Paper
