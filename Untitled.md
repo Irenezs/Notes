@@ -59,4 +59,7 @@
 	- 4
 		- In Paper
 	- 5
+		- The steel barrier is better as it increases the time of impact as the material deforms, and as Impulse = Change in momentum, this implies the force on the dummies is smaller, therefore safer. ($F\Delta t=\Delta(mv)$)
+- 6
+	- 1
 		- 
