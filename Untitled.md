@@ -43,3 +43,10 @@
 - 4
 	- 1
 		- The combined centre of mass of the wooden box + the beam will be directly over the pivot, so no moments are acting on the rope, so no tension is caused by the beam and box.
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- The projectile has an initial vertical component, so will take longer to hit the ground, so will increase range, however the horizontal component is no longer 18$ms^{-1}$, so will reduce range, so the total effect on the range is indeterminate without the angle released at.
+	- 
