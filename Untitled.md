@@ -49,4 +49,14 @@
 		- In Paper
 	- 4
 		- The projectile has an initial vertical component, so will take longer to hit the ground, so will increase range, however the horizontal component is no longer 18$ms^{-1}$, so will reduce range, so the total effect on the range is indeterminate without the angle released at.
-	- 
+- 5
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- 
