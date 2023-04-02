@@ -36,3 +36,7 @@
 		- A large central bright fringes with smaller bright fringes on either side of lower intensity.
 	- 2
 		- The red filter creates a monochromatic light of a higher wavelength, meaning the fringes will increase in size.
+	- 3
+		- In Paper
+	- 4
+		- 
