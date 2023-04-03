@@ -29,4 +29,4 @@ z|$\zeta$
 
 Hello Courteney, this message is written in code. Can you figure it out? Hint: Greek Letters.
 
-$\eta\varepsilon\lambda\lambda\omicron$ $\gamma\omicron\upsilon\rho\tau\varepsilon\theta\varepsilon\phi$  
+$\eta\varepsilon\lambda\lambda\omicron$ $\gamma\omicron\upsilon\rho\tau\varepsilon\theta\varepsilon\varphi$, $\tau\eta\iota\sigma$  
