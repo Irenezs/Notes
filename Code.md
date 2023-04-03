@@ -27,3 +27,6 @@ x|$\chi$
 y|$\psi$
 z|$\zeta$
 
+Hello Courteney, this message is written in code. Can you figure it out? Hint: Greek Letters.
+
+$\eta\varepsilon\lambda\lambda\omicron$ $\gamma\omicron\upsilon\rho\tau\varepsilon\theta\varepsilon\phi$  
