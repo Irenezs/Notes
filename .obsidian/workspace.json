@@ -11,28 +11,18 @@
             "id": "0c21cd7a4daa414c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7166d7d0e2acb378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 4.5643310546875,
+                  "y": 2.738616943359375,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
+                "file": "Maths Gapped Notes/Misc/M7 Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
+                "file": "Maths Gapped Notes/Misc/M7 Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,14 +159,27 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7166d7d0e2acb378",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
+    "Code.md",
+    "Untitled.canvas",
+    "Maths Gapped Notes/Misc/M7 Functions.md",
+    "Maths Gapped Notes/Misc/M6 Exponentials.md",
+    "Maths Gapped Notes/Misc/M5 Proof.md",
+    "Maths Gapped Notes/Misc/M4 Fur. Transformations of Graphs.md",
+    "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
+    "Maths Gapped Notes/Misc/M2 Using Graphs.md",
+    "Maths Gapped Notes/Geometry/G3 Co-ordinate Geometry.md",
+    "Maths Gapped Notes/Geometry/G4 Triangle Geometry.md",
+    "Maths Gapped Notes/Calculus/C1 Quadratics and Inequalities.md",
+    "Maths Gapped Notes/Calculus/C2 Polynomials.md",
+    "Maths Gapped Notes/Calculus/C3 Differentiation.md",
+    "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Maths Gapped Notes/Calculus/C4 Integration.md",
     "Maths Gapped Notes/Calculus/C6 Numerical Integration.md",
     "Maths Gapped Notes/Calculus/C8 Integration & Applications.md",
     "Untitled.md",
-    "Code.md",
     "Untitled Diagram.svg",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
@@ -186,8 +189,6 @@
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Hololive.md",
     "Non-Work/Stardew Valley.md",
-    "Non-Work/Restarting Git.md",
-    "Non-Work/Personal.md",
-    "Non-Work/DnD/DnD.md"
+    "Non-Work/Restarting Git.md"
   ]
 }
