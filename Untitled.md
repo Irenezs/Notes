@@ -12,4 +12,4 @@
 	- 1
 		- In Paper
 	- 2
-		- Maxwell's model predicts that light is a series of oscillating E and B fields propagating through space.
+		- Maxwell's model predicts that light is a series of oscillating E and B fields propagating through space. Oscillating current in T provides an oscillating E field, leading to oscillating perpendicular B fields. These B fields will produce a varying emf in the loop
