@@ -25,4 +25,7 @@
 		- she should take multiple readings of $T_\frac{1}{2}$, then reject anomalous results and take an average, plus correct for any zero error.
 		- Theory is correct if the time constant is about 20% of the value using the 15V range.
 	- 6
-		- V i
+		- V is recorded to the nearest volt as there is low scale markings on the meter
+		- more lover values of V as to make the intervals in time about the same.
+	- 7
+		- 
