@@ -17,4 +17,8 @@
 	- 2
 		- To mitigate parallax error. This is done by lining up the pointer with its reflection, ensuring the meter is read properly.
 	- 3
+		- In Paper
+	- 4
+		- In Paper
+	- 5
 		- 
