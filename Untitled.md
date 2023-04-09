@@ -28,4 +28,6 @@
 		- V is recorded to the nearest volt as there is low scale markings on the meter
 		- more lover values of V as to make the intervals in time about the same.
 	- 7
-		- 
+		- In Paper
+	- 8
+		- In Paper
