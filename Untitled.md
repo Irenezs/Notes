@@ -6,4 +6,14 @@
 	- 1
 		- In Paper
 	- 2
-		- 
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- In Paper
+	- 6
+		- Measure the value of d at multiple points across the length of the wire, and average the non-anomalous results.
+	- 7
+		- In Paper
