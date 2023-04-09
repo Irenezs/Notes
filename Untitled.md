@@ -21,4 +21,5 @@
 	- 4
 		- In Paper
 	- 5
-		- 
+		- The student should fully discharge the capacitor through the voltmeter in the 15V mode, then change the output pd of X to less than 3V, then adjust till the meter reads 3V.
+		- she should re
