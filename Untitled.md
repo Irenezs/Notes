@@ -15,4 +15,12 @@
 			- Force acts attracting them to the water
 			- Attraction only affects motion at the interface
 			- Only one component of momentum changes at the interface
-			- The vertical component of momentum 
+			- The vertical component of momentum increases, which causes the change in direction
+		- Wave Theory:
+			- Wave front is incident on the interface
+			- The slowing down of the waves causes the change in direction
+		- Acceptance:
+			- Newton's theory required light to travel faster in water, while Huygen's required light to slow down. After measurement, Huygen's model was found to be correct.
+			- Light was also shown to have interference properties that cannot be explained using corpuscles, therefore Huygen was proven right.
+	- 3
+		- 
