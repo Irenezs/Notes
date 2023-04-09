@@ -1,4 +1,6 @@
 - 1
 	- 1
-		- $V_1$ Passes over part A, a thin metal filament. This leads to thermionic emission, meaning electrons gain enough kinetic energy to leave the wire. These electrons are accelerated towards part B, an anode with a hole in the centre, so that the electrons will pass through the anode to the target.
-		- $V_2$ passes over the anode and the wire behind the electrons. $V_2$ is a large supply, measured in kV, meaning it generates an electric field
+		- $V_1$ Passes over part A, a thin metal filament. This leads to thermionic emission, meaning electrons gain enough kinetic energy to leave the wire. $V_1$ does not need to be a high voltage, only around 6V. These electrons are accelerated towards part B, an anode with a hole in the centre, so that the electrons will pass through the anode to the target.
+		- $V_2$ passes over the anode and the wire behind the electrons. $V_2$ is a large supply, measured in kV, meaning it generates an electric field towards the filament, so electrons fly toward the anode.
+	- 2
+		- iN pAPER
