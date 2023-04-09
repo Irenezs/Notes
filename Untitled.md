@@ -5,4 +5,4 @@
 	- 2
 		- In Paper
 	- 3
-		- 
+		- The de Broglie hypothesis states $\lambda\propto\frac{1}{p}$. As $p=\sqrt{2meV}$, $V_2$ is linked to the wavelength of the electrons. The ring diameter is related to wavelength by the fringe spacing equation. There is a change in ring diameter due to a change in $V_2$, which is consistent with de Broglie's hypothesis.
