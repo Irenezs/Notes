@@ -32,5 +32,8 @@
 	- 3
 		- Using a target with a greater spacing between atoms as a larger separation decreases fringe width.
 		- Decrease the distance between the foil and the film, as for the same angle it will reduce the fringe spacing
-	- 4
-		- 
+- 4
+	- 1
+		- In Paper
+	- 2
+		- v has an upper limit as $E_k$ increases. This is as v increases mass increases, as v approaches c, mass approaches infinity, so near c $E_k$ approaches i
