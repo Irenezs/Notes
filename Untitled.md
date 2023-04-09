@@ -11,4 +11,6 @@
 	- 2
 		- In Paper
 	- 3
-		- 
+		- Work must be done on the positive proton because P is at a positive potential, and the potential at infinity is zero.
+	- 4
+		- The vertical component of velocity will increase normally with gravity, and the ball will accelerate away from the wall until it passes the end 
