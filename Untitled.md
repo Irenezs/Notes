@@ -1,3 +1,6 @@
 - 1
 	- 1
-		- Gravity, Electrostatic force
+		- Gravitational force, Electrostatic force
+		- Equal magnitudes in opposite directions, with gravitational directed downwards.
+	- 2
+		- 
