@@ -3,4 +3,11 @@
 		- Gravitational force, Electrostatic force
 		- Equal magnitudes in opposite directions, with gravitational directed downwards.
 	- 2
+		- In Paper
+	- 3
+		- The number of excess electrons on the droplet is 3, for each half to remain stationary the charge would need to be split equally, which is not possible as charge is quantised. Thus the student is wrong.
+- 2
+	- 1
+		- In Paper
+	- 2
 		- 
