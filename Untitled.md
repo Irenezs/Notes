@@ -13,4 +13,11 @@
 	- 3
 		- Work must be done on the positive proton because P is at a positive potential, and the potential at infinity is zero.
 	- 4
-		- The vertical component of velocity will increase normally with gravity, and the ball will accelerate away from the wall until it passes the end 
+		- The vertical component of force is weight, so the ball accelerates vertically downwards, and the ball will accelerate away from the wall until it passes the end of the uniform electric field.
+- 3
+	- 1
+		- A capacitor that can store 370$\mu C$ per unit voltage.
+	- 2
+		- In Paper
+	- 3
+		- 
