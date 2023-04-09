@@ -13,3 +13,7 @@
 		- In Paper
 	- 2
 		- Maxwell's model predicts that light is a series of oscillating E and B fields propagating through space. Oscillating current in T provides an oscillating E field, leading to oscillating perpendicular B fields. These B fields will produce a varying emf in the loop
+	- 3
+		- In Paper
+- 3
+	- The semi-silvered glass block splits the beam into two, The plane block ensures both beams pass through the same thickness of glass and air. Beams combine back 
