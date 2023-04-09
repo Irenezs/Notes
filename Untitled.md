@@ -4,4 +4,8 @@
 	- 1
 		- In Paper
 	- 2
+		- The maximum is less defined, meaning it is harder to take its measurement.
+	- 3
+		- In Paper
+	- 4
 		- 
