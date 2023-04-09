@@ -30,4 +30,7 @@
 	- 2
 		- In Paper
 	- 3
+		- Using a target with a greater spacing between atoms as a larger separation decreases fringe width.
+		- Decrease the distance between the foil and the film, as for the same angle it will reduce the fringe spacing
+	- 4
 		- 
