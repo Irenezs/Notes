@@ -36,4 +36,6 @@
 	- 1
 		- In Paper
 	- 2
-		- v has an upper limit as $E_k$ increases. This is as v increases mass increases, as v approaches c, mass approaches infinity, so near c $E_k$ approaches i
+		- v has an upper limit as $E_k$ increases. This is as v increases mass increases, as v approaches c, mass approaches infinity, so near c $E_k$ approaches infinity.
+	- 3
+		- In Paper
