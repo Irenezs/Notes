@@ -23,4 +23,11 @@
 			- Newton's theory required light to travel faster in water, while Huygen's required light to slow down. After measurement, Huygen's model was found to be correct.
 			- Light was also shown to have interference properties that cannot be explained using corpuscles, therefore Huygen was proven right.
 	- 3
+		- In Paper
+- 3
+	- 1
+		- The wavelength of a particle is proportional to the inverse of its momentum.
+	- 2
+		- In Paper
+	- 3
 		- 
