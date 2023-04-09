@@ -9,3 +9,7 @@
 	- 4
 		- In Paper
 - 2
+	- 1
+		- In Paper
+	- 2
+		- Maxwell's model predicts that light is a series of oscillating E and B fields propagating through space.
