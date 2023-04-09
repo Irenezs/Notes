@@ -11,14 +11,11 @@
             "id": "0c21cd7a4daa414c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 4.5643310546875,
-                  "y": 2.738616943359375,
-                  "zoom": 0
-                }
+                "file": "Non-Work/DnD/Aust Nailo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -65,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.0036334991455
+    "width": 200
   },
   "right": {
     "id": "e0d5c99f8413c511",
@@ -81,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Gapped Notes/Misc/M7 Functions.md",
+                "file": "Non-Work/DnD/Aust Nailo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Gapped Notes/Misc/M7 Functions.md",
+                "file": "Non-Work/DnD/Aust Nailo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,16 +150,18 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false
     }
   },
   "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
-    "Code.md",
+    "Non-Work/DnD/Aust.pdf",
+    "Non-Work/DnD/Aust Nailo.md",
     "Untitled.canvas",
+    "Code.md",
     "Maths Gapped Notes/Misc/M7 Functions.md",
     "Maths Gapped Notes/Misc/M6 Exponentials.md",
     "Maths Gapped Notes/Misc/M5 Proof.md",
@@ -188,7 +187,6 @@
     "Maths Gapped Notes/Statistics/Stats4 Further Hypothesis Testing.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Non-Work/Hololive.md",
-    "Non-Work/Stardew Valley.md",
-    "Non-Work/Restarting Git.md"
+    "Non-Work/Stardew Valley.md"
   ]
 }
