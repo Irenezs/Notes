@@ -16,4 +16,9 @@
 	- 3
 		- In Paper
 - 3
-	- The semi-silvered glass block splits the beam into two, The plane block ensures both beams pass through the same thickness of glass and air. Beams combine back 
+	- The semi-silvered glass block splits the beam into two, The plane block ensures both beams pass through the same thickness of glass and air. Beams combine back at the telescope with a path difference, therefore the observer will see an interference pattern from the beams.
+	- The expected result was that the pattern would shift when the apparatus was rotated 90 degrees as the speed of light was presumed different depending on motion of the apparatus, therefore ether exists.
+	- The actual result was no shift in the pattern, therefore no evidence of ether, and the speed of light is invariant.
+- 4
+	- 1
+		- 
