@@ -10,4 +10,9 @@
 	- 1
 		- In Paper
 	- 2
-		- 
+		- Corpuscular Theory:
+			- Light is made up of corpuscles
+			- Force acts attracting them to the water
+			- Attraction only affects motion at the interface
+			- Only one component of momentum changes at the interface
+			- The vertical component of momentum 
