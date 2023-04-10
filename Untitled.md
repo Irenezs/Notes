@@ -20,4 +20,12 @@
 	- 2
 		- In Paper
 	- 3
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- In Paper
+- 4
+	- 1
+		- $\varepsilon=N\frac{\Delta\Phi}{\Delta t}$
 		- 
