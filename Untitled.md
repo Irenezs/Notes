@@ -21,3 +21,16 @@
 - 3
 	- 1
 		- The force due to a magnetic field is perpendicular to the direction of the field AND the direction of velocity of the particle, so the force can never change the magnitude of velocity in the Ds.
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+- 4
+	- Radioactivity, Not Set
+- 5
+	- Radioactivity, Not Set
+- 6
+	- 1
+		- The direction of gravitational force, and the relative magnitude of force.
+	- 2
+		- The lines are closer so the field is stronger, meaning the material at K has a higher density
