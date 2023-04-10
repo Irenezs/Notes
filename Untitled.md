@@ -44,7 +44,7 @@
 		- In Paper
 - 7
 	- In Paper
-- 8-28
+- 8-25
 	- In Paper
-- 29-32
+- 26-32
 	- Radioactivity, Not Set
