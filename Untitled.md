@@ -27,5 +27,8 @@
 		- In Paper
 - 4
 	- 1
-		- $\varepsilon=N\frac{\Delta\Phi}{\Delta t}$
+		- The direction of the induced emf is such that it will try to oppose the change of flux that is producing it.
+	- 2
+		- The reading shows a dc current flow which becomes zero when the magnet stops moving.
+	- 3
 		- 
