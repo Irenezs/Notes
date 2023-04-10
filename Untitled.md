@@ -35,4 +35,10 @@
 	- 4
 		- In Paper
 	- 5
-		- 
+		- In Paper
+- 5
+	- Radioactivity, Not Set
+- 6
+	- Radioactivity, Not Set
+- 7
+	- 
