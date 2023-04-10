@@ -18,3 +18,6 @@
 		- The tesla is a measure of the magnetic flux density that produces a force of 1 unit force in a wire of length 1 unit length with 1 unit current flowing perpendicular to the field.
 	- 4
 		- In Paper
+- 3
+	- 1
+		- The force due to a magnetic field is perpendicular to the direction of the field AND the direction of velocity of the particle, so the force can never change the magnitude of velocity in the Ds.
