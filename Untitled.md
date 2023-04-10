@@ -15,4 +15,6 @@
 	- 2
 		- In Paper
 	- 3
-		- The tesla is the s
+		- The tesla is a measure of the magnetic flux density that produces a force of 1 unit force in a wire of length 1 unit length with 1 unit current flowing perpendicular to the field.
+	- 4
+		- In Paper
