@@ -31,4 +31,8 @@
 	- 2
 		- The reading shows a dc current flow which becomes zero when the magnet stops moving.
 	- 3
+		- The induced current produces a north pole on the right hand side of the coil which opposes the motion of the bar magnet.
+	- 4
+		- In Paper
+	- 5
 		- 
