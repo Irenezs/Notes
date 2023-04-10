@@ -34,3 +34,11 @@
 		- The direction of gravitational force, and the relative magnitude of force.
 	- 2
 		- The lines are closer so the field is stronger, meaning the material at K has a higher density
+	- 3
+		- The ball will speed up when moving towards K as the potential is lower at K.
+	- 4
+		- Gravitational forces are not nominally repulsive.
+	- 5
+		- In Paper
+	- 6
+		- In Paper
