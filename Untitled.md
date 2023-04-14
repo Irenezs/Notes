@@ -1,50 +1,10 @@
-- 1
-	- 1
-		- The size of the molecules is negligible compared to the size of the container
-	- 2
-		- In Paper
-	- 3
-		- In Paper
-	- 4
-		- In Paper
-	- 5
-		- In Paper
-- 2
-	- 1
-		- In Paper
-	- 2
-		- In Paper
-	- 3
-		- The tesla is a measure of the magnetic flux density that produces a force of 1 unit force in a wire of length 1 unit length with 1 unit current flowing perpendicular to the field.
-	- 4
-		- In Paper
-- 3
-	- 1
-		- The force due to a magnetic field is perpendicular to the direction of the field AND the direction of velocity of the particle, so the force can never change the magnitude of velocity in the Ds.
-	- 2
-		- In Paper
-	- 3
-		- In Paper
-- 4
-	- Radioactivity, Not Set
-- 5
-	- Radioactivity, Not Set
-- 6
-	- 1
-		- The direction of gravitational force, and the relative magnitude of force.
-	- 2
-		- The lines are closer so the field is stronger, meaning the material at K has a higher density
-	- 3
-		- The ball will speed up when moving towards K as the potential is lower at K.
-	- 4
-		- Gravitational forces are not nominally repulsive.
-	- 5
-		- In Paper
-	- 6
-		- In Paper
-- 7
-	- In Paper
-- 8-25
-	- In Paper
-- 26-32
-	- Radioactivity, Not Set
+# Wednesday
+
+## Gravitational Field
+When a charged particle enters a gravitational field it will move in a parabola given it enters perpendicular to the field, moving down a field line, accelerating down the line.
+
+## Electric Field
+When a +ve charge enters a field it will move in a parabola given it enters perpendicular to the field, moving down a field line, and accelerating down the line.
+
+## Magnetic Field
+When a charged particle enters a field it will move in a circle, given it enters perpendicular to the field, in one direction if +ve, the other if -ve.
