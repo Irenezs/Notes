@@ -15,3 +15,10 @@
 - 2.2.2
 	- 1
 		- ![[emwave.gif]]
+		- An electromagnetic wave is perpendicular oscillating magnetic and electric fields in phase, which cause each other. 
+	- 2
+		- The speed of light is invariant, and depends on the constants for electric and magnetic fields.
+	- 3
+		- a
+			- He set up a transmitter, a reciever, and a metal plate like so:
+			- 
