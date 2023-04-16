@@ -31,4 +31,9 @@
 			- Time for one tooth rotation = $T=\frac{1}{f}\frac{1}{1440}=\frac{1}{12.6\times1440}=5.51\times10^{-5}s$
 		- b
 			- i
-				- 
+				- $37.8=3\times12.6$, Therefore this frequency value is correspondent with a tooth moving 3 places, therefore the light is blocked when it comes back.
+			- ii
+				- $12.6\times5=63.0\text{Hz}$.
+- 2.2.3
+	- 1
+		- 
