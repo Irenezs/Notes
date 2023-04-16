@@ -20,6 +20,12 @@
 		- The speed of light is invariant, and depends on the constants for electric and magnetic fields.
 	- 3
 		- a
-			- He set up a transmitter, a reciever, and a metal plate like so:
+			- He set up a transmitter, a receiver, and a metal plate like so:
 			- ![[Untitled Diagram 1.svg]]
-			- Radiowaves travel towards the metal reflector and reflect back, superposing on the waves 
+			- Radiowaves travel towards the metal reflector and reflect back, superposing on the waves coming the opposite direction. These waves are coherent. The receiver is moved along the wave, when a maximum is detected, that is an antinode. the distance between two of these is $\frac{1}{2}\lambda$.
+		- b
+			- The transmitter and receiver used by Hertz were dipole, meaning the wave is polarised. Due to this, the strength of the signal is maximum when the poles are in phase ($0^\circ$) and minimum when the poles are at $90^\circ$ to each other.
+	- 4
+		- a
+			- i
+				- 
