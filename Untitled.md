@@ -46,4 +46,9 @@
 		- If $hf>\phi$ then the electron immediately receives enough energy and leaves. electrons cannot collect energy from multiple photons so it happens immediately or not at all.
 - 2.2.4
 	- 1
-		- 
+		- In Book
+	- 2
+		- In Book
+	- 3
+		- a
+			- 
