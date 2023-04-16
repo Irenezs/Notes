@@ -27,5 +27,8 @@
 			- The transmitter and receiver used by Hertz were dipole, meaning the wave is polarised. Due to this, the strength of the signal is maximum when the poles are in phase ($0^\circ$) and minimum when the poles are at $90^\circ$ to each other.
 	- 4
 		- a
+			- Light cannot be seen $\implies$ 1 tooth rotation = $\frac{1}{2\times720}$.
+			- Time for one tooth rotation = $T=\frac{1}{f}\frac{1}{1440}=\frac{1}{12.6\times1440}=5.51\times10^{-5}s$
+		- b
 			- i
 				- 
