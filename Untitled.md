@@ -22,4 +22,4 @@
 		- a
 			- He set up a transmitter, a reciever, and a metal plate like so:
 			- ![[Untitled Diagram 1.svg]]
-			- 
+			- Radiowaves travel towards the metal reflector and reflect back, superposing on the waves 
