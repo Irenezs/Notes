@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06a048b9d401be66",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram 1.svg"
+              }
+            }
           }
         ]
       }
@@ -46,29 +56,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "5caad6fe6c915998",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
-            }
-          },
-          {
-            "id": "06a048b9d401be66",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +155,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5caad6fe6c915998",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
+    "Untitled Diagram 1.svg",
     "Untitled.md",
     "Untitled Diagram.svg",
     "emwave.gif",
