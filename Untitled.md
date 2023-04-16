@@ -40,4 +40,10 @@
 	- 2
 		- In Book
 	- 3
-		- The photoelectric effect occurs when individual photons are absorbed by individual electrons, therefore the electron can leave the surface if and only if a photon provides a great enough energy to overcome the work function,.
+		- The photoelectric effect occurs when individual photons are absorbed by individual electrons, therefore the electron can leave the surface if and only if a photon provides a great enough energy to overcome the work function. $E=hf=\frac{hc}{\lambda}$. Red light has photon of higher wavelength, therefore of lower energy, thus do not have enough energy to overcome the work function.
+	- 4
+		- Wave theory cannot account for the effect being immediate when light is greater than a certain frequency.
+		- If $hf>\phi$ then the electron immediately receives enough energy and leaves. electrons cannot collect energy from multiple photons so it happens immediately or not at all.
+- 2.2.4
+	- 1
+		- 
