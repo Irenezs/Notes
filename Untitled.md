@@ -40,4 +40,4 @@
 	- 2
 		- In Book
 	- 3
-		- 
+		- The photoelectric effect occurs when individual photons are absorbed by individual electrons, therefore the electron can leave the surface if and only if a photon provides a great enough energy to overcome the work function,.
