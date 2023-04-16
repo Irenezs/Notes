@@ -4,4 +4,7 @@
 		- Newton's required light to speed up in a substance, Huygen's required it to slow down
 	- 2
 		- ![[Untitled Diagram.svg]]
-		- 
+		- Newton believed the corpuscles were attracted into the substance, so the speed perpendicular to the substance, $v_\perp$, increases, but the speed parallel to the substance, $v_\parallel$ remained the same, so the net result was a bend toward the normal.
+	- 3
+		- a
+			- Bright maxima seperated by dark minima, this is caused by the superposing of waves, interfering constructively at maxima and destructively at minima
