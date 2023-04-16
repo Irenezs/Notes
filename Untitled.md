@@ -2,4 +2,5 @@
 	- 1
 		- Newton's used corpuscles, Huygen's used waves.
 		- Newton's required light to speed up in a substance, Huygen's required it to slow down
-	- 
+	- 2
+		- 
