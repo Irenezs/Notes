@@ -1,1 +1,2 @@
-$$\lim_{h\rightarrow0}\Big[\frac{\sin{h}}{h}\Big]=\lim_{h\rightarrow0}\Big[\frac{h}{h}\Big]=\lim_{h\rightarrow0}\Big[1\Big]=1$$
+O = 2 H = 3 A = $\sqrt{5}$
+$\tan{x} = \pm\frac{2}{\sqrt{5}}$
