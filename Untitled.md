@@ -5,4 +5,10 @@
 		- $\beta^- \text{decay} : n \rightarrow p + \beta^- + \overline{\nu_e}$
 		- proton number increases by one.
 	- 3
-		- There is missing energy which is carried off by a third parti
+		- There is missing energy which is carried off by a third particle, as conservation of energy must be conserved.
+	- 4
+		- It must be an electron antineutrino to conserve lepton number. An electron antineutrino has opposite signs to an electron.
+	- 5
+		- In Paper
+	- 6
+		- 
