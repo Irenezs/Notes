@@ -15,4 +15,10 @@
 	- 7
 		- The positron as it is charged, while $\overline{\nu}_e$ is neutral.
 		- The antineutrino only interracts via the weak force, the lowest ranged force.
-- 
+- 2
+	- 1
+		- 1 wavelength
+	- 2
+		- The light from the slits undergo diffraction, where they arrive at the screen with 0 phase difference they superpose and so produce a bright fringe
+	- 3
+		- 
