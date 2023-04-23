@@ -21,4 +21,7 @@
 	- 2
 		- The light from the slits undergo diffraction, where they arrive at the screen with 0 phase difference they superpose and so produce a bright fringe
 	- 3
-		- 
+		- Pointer A and CD. As the greatest number of maxima is given by $n_\text{max}=\frac{d}{\lambda}$.
+	- 4
+		- 0
+		- .
