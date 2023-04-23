@@ -3,4 +3,6 @@
 		- In Paper
 	- 2
 		- $\beta^- \text{decay} : n \rightarrow p + \beta^- + \overline{\nu_e}$
-		- 
+		- proton number increases by one.
+	- 3
+		- There is missing energy which is carried off by a third parti
