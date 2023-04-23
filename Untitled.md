@@ -1,1 +1,6 @@
-$$$$
+- 1
+	- 1
+		- In Paper
+	- 2
+		- $\beta^- \text{decay} : n \rightarrow p + \beta^- + \overline{\nu_e}$
+		- 

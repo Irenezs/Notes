@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06a048b9d401be66",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram 1.svg"
-              }
-            }
-          },
-          {
-            "id": "83b4129ed29d068a",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,12 +155,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "83b4129ed29d068a",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
+    "Untitled Diagram 1.svg",
+    "Untitled Diagram.svg",
     "Untitled.md",
     "Pasted image 20230423151149.png",
-    "Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
     "emwave.gif",
     "Non-Work/DnD/Aust Nailo.md",
     "Non-Work/DnD/Aust.pdf",
