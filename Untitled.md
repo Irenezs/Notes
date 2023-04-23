@@ -11,4 +11,8 @@
 	- 5
 		- In Paper
 	- 6
-		- 
+		- The proton collides with electrons in the water in a proces called annihilation where two photons are produced that travel in opposite directions
+	- 7
+		- The positron as it is charged, while $\overline{\nu}_e$ is neutral.
+		- The antineutrino only interracts via the weak force, the lowest ranged force.
+- 
