@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +175,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "83b4129ed29d068a",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled Diagram.svg",
+    "Untitled.md",
     "Untitled Diagram 1.svg",
     "emwave.gif",
     "Non-Work/DnD/Aust Nailo.md",
