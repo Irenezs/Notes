@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c21cd7a4daa414c",
+  "active": "9487b1b1f1293c9f",
   "lastOpenFiles": [
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
