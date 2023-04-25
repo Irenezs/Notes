@@ -23,5 +23,13 @@
 	- 3
 		- Pointer A and CD. As the greatest number of maxima is given by $n_\text{max}=\frac{d}{\lambda}$.
 	- 4
-		- 0
-		- .
+		- In Paper
+- 3
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- 
