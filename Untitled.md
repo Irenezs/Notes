@@ -43,4 +43,6 @@
 		- In Paper
 	- 2
 		- The propeller acts on the water, which produces an equal force on the propeller from the opposite direction, as stated in Newton's third law.
-		- The force on the ship equals the drag force on the ship, as the ship is at constant velocity and 
+		- The force on the ship equals the drag force on the ship, as the ship is at constant velocity and an object will continue at a velocity if it is not acted on by any external forces, due to Newton's first law.
+	- 3
+		- When the system is enabled, drag decreases by more than the thrust. To maintain constant momentum then drag must equal thrust. 
