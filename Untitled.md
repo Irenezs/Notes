@@ -46,3 +46,8 @@
 		- The force on the ship equals the drag force on the ship, as the ship is at constant velocity and an object will continue at a velocity if it is not acted on by any external forces, due to Newton's first law.
 	- 3
 		- When the system is enabled, drag decreases by more than the thrust. To maintain constant momentum then drag must equal thrust. 
+- 6
+	- 1
+		- 5.3J of energy per coulomb of charge
+	- 2
+		- 
