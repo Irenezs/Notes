@@ -37,4 +37,9 @@
 	- 1
 		- In Paper
 	- 2
-		- V is of greater magnitude than U as S and weight are both vertical as S is larger in magnitude than D
+		- V is of greater magnitude than U as S and weight are both vertical as S is larger in magnitude than D due to being vertical.
+- 5
+	- 1
+		- In Paper
+	- 2
+		- 
