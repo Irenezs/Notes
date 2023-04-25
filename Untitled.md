@@ -32,4 +32,4 @@
 	- 3
 		- In Paper
 	- 4
-		- 
+		- Q will have a larger v
