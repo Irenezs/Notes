@@ -42,4 +42,5 @@
 	- 1
 		- In Paper
 	- 2
-		- 
+		- The propeller acts on the water, which produces an equal force on the propeller from the opposite direction, as stated in Newton's third law.
+		- The force on the ship equals the drag force on the ship, as the ship is at constant velocity and 
