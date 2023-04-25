@@ -62,5 +62,11 @@
 - 7
 	- 1
 		- Pulse broadening, due to light taking different paths through the optical fibre.
-	- 22
-		- 
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- The refractive index of the core for blue light is greater than the refractive index for red, thus the speed of blue light is less than the speed of the red light and travel the dame distance
+	- 5
+		- The blue now travels a shorter distance than the red light.
