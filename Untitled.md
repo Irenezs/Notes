@@ -32,4 +32,7 @@
 	- 3
 		- In Paper
 	- 4
-		- Q will have a larger v
+		- Q will have a larger volume, thus will experience a greater resistive force for any given speed, therefore Q will experience a greater deceleration.
+- 4
+	- 1
+		- 
