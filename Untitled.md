@@ -50,4 +50,12 @@
 	- 1
 		- 5.3J of energy per coulomb of charge
 	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- In Paper
+	- 6
 		- 
