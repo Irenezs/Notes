@@ -1,1 +1,2 @@
-$$\frac{dy}{dx}=xy\frac{d^2y}{dx^2}$$
+- 1
+	- Due to an electron's probability wave
