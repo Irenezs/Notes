@@ -58,4 +58,9 @@
 	- 5
 		- In Paper
 	- 6
+		- Current in the circuit changes as voltmeter position changes, as the resistance in the circuit changes.
+- 7
+	- 1
+		- Pulse broadening, due to light taking different paths through the optical fibre.
+	- 22
 		- 
