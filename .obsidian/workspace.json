@@ -11,9 +11,11 @@
             "id": "0c21cd7a4daa414c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230423151149.png"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230423151149.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230423151149.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +158,10 @@
   },
   "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
+    "Pasted image 20230423151149.png",
     "Untitled.md",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
-    "Pasted image 20230423151149.png",
     "emwave.gif",
     "Non-Work/DnD/Aust Nailo.md",
     "Non-Work/DnD/Aust.pdf",
