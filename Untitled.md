@@ -1,2 +1,1 @@
-- 1
-	- Due to an electron's probability wave
+$^238_$
