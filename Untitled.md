@@ -35,4 +35,6 @@
 		- Q will have a larger volume, thus will experience a greater resistive force for any given speed, therefore Q will experience a greater deceleration.
 - 4
 	- 1
-		- 
+		- In Paper
+	- 2
+		- V is of greater magnitude than U as S and weight are both vertical as S is larger in magnitude than D
