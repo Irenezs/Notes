@@ -6,3 +6,7 @@
 	- 3
 		- In Paper
 	- 4
+		- The specific charge of the cathode rays is much greater than the hydrogen ion. This provided evidence that cathode rays were composed of electrons.
+- 2
+	- 1
+		- 
