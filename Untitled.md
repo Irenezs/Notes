@@ -16,6 +16,6 @@
 		- Classical Wave Model
 			- Wave model predicts an increase in the photocurrent, as the energy transferred into each electron increases with time.
 		- Photon Model
-			- The photon model predicts no change in the photocurrent
+			- The photon model predicts no change in the photocurrent, as the energy of a photon depends on frequency not intensity
 	- 3
 		- 
