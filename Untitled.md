@@ -23,7 +23,7 @@
 		- In Paper
 - 4
 	- 1
-
+		- $PM_2$ lies in the direction of earth's velocity, speed of light was predicted to be different in both directions. Thus time taken on path to $M_2$ 
 
 
 
