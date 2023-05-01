@@ -1,0 +1,11 @@
+- 1
+	- 1
+		- In Paper
+	- 2
+		- The energy transferred breaks some of the atomic bonds, allowing atoms to move their centre of vibration
+	- 3
+		- The total kinetic energy remains constant and the total potential energy increases.
+	- 4
+		- The mean speed increases
+	- 5
+		- In Paper
