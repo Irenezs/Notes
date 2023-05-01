@@ -12,9 +12,7 @@
 	- 6
 		- In Paper
 - 2
+	- In Paper
+- 3
 	- 1
-		- In Paper
-	- 2
-		- In Paper
-	- 3
-		- In Paper
+		- 
