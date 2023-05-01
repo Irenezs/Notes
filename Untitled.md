@@ -8,5 +8,12 @@
 	- 4
 		- The specific charge of the cathode rays is much greater than the hydrogen ion. This provided evidence that cathode rays were composed of electrons.
 - 2
+	- In Paper
+- 3
 	- 1
-		- 
+		- In Paper
+	- 2
+		- Classical Wave Model
+			- Wave model predicts an increase in the photocurrent, as the energy transferred into each electron increases with time.
+		- Photon Model
+			- The photon model predicts no change in the photocurrent
