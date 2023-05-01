@@ -1,3 +1,8 @@
 - 1
 	- 1
-		- Thermionic Emission is where, due to heating via current in the wire, conduction electrons 
+		- Thermionic Emission is where, due to heating via current in the wire, conduction electrons gain sufficient kinetic energy to leave the metal surface.
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
