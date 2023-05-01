@@ -17,4 +17,6 @@
 	- 1-5
 		- In Paper
 	- 6
-		- $v\propto\frac{1}{\sqrt{m}}$, Therefore $t\propto\{\sqrt{m}}$
+		- $v\propto\frac{1}{\sqrt{m}}$, Therefore $t\propto\sqrt{m}$, so a small mass gives a small time interval. Work done on the ions is the same, so smaller mass is given a greater speed, thus smaller time interval.
+- 4
+	- 
