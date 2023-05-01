@@ -14,7 +14,7 @@
 - 2
 	- In Paper
 - 3
-	- 1-4
+	- 1-5
 		- In Paper
-	- 5
-		- 
+	- 6
+		- $v\propto\frac{1}{\sqrt{m}}$, Therefore $t\propto\{\sqrt{m}}$
