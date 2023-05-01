@@ -22,4 +22,9 @@
 	- 1-5
 		- In Paper
 	- 6
-		- Reducing the time-base setting. Uncertanty is due to the closeness of the divisions 
+		- Reducing the time-base setting. Uncertainty is due to the closeness of the divisions, increasing the time-base will stretch the waveform horizontally.
+- 5
+	- 1
+		- Electromagnetic Force
+	- 2
+		- 
