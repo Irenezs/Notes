@@ -67,4 +67,14 @@
 	- 2
 		- It can damage the proteins in DNA, causing cancer
 	- 3
-		- 
+		- Living Cells are killed and cancerous cells are formed
+	- 4
+		- To estimate the dose of ionising radiation
+	- 5
+		- The badge contains a strip of photographic film in a light-proof wrapper
+	- 6
+		- As low as reasonably possible
+	- 7
+		- Air, Medicine, Ground and buildings, food and drink, cosmic rays, nuclear weapons, air travel, nuclear power
+	- 8
+		- Stored in lea
