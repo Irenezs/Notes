@@ -51,9 +51,9 @@
             "id": "9487b1b1f1293c9f",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 1157.5110359191895
   },
   "right": {
     "id": "e0d5c99f8413c511",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +156,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c21cd7a4daa414c",
+  "active": "9487b1b1f1293c9f",
   "lastOpenFiles": [
-    "Non-Work/Recurring Payments.md",
     "Untitled.md",
+    "Untitled Diagram.svg",
+    "Non-Work/Recurring Payments.md",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
-    "Untitled Diagram.svg",
     "emwave.gif",
     "Non-Work/DnD/Aust Nailo.md",
     "Non-Work/DnD/Aust.pdf",

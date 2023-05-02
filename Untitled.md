@@ -10,4 +10,8 @@
 		- b
 			- Foil must be very thin to reduce chance that alpha particles are deflected more than once.
 		- c
-			- 
+			- The alpha particles must all have the same speed otherwise the slower particles would be deflected more.
+		- d
+			- The alpha particle beam must be narrow to allow for the angle of deflection to be measured accurately.
+	- 3
+		- 
