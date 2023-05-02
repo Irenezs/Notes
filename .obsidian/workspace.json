@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39e29e317ec59241",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram.svg"
+              }
+            }
           }
         ]
       }
@@ -38,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:untit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1157.5110359191895,
-    "collapsed": true
+    "width": 475.51103591918945
   },
   "right": {
     "id": "e0d5c99f8413c511",
@@ -146,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d49f960f13db9563",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
     "Untitled.md",

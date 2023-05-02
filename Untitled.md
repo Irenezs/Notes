@@ -14,7 +14,7 @@
 		- d
 			- The alpha particle beam must be narrow to allow for the angle of deflection to be measured accurately.
 	- 3
-		- a![[Untitled Diagram.svg|800]]
+		- a![[Untitled Diagram.svg|600]]
 		- b
 			- i
 				- As the alpha particle moves closer to the nucleus the kinetic energy will decrease until it becomes a minimum when it is closest to the nucleus.
@@ -77,4 +77,8 @@
 	- 7
 		- Air, Medicine, Ground and buildings, food and drink, cosmic rays, nuclear weapons, air travel, nuclear power
 	- 8
-		- Stored in lea
+		- Stored in lead-lined containers
+	- 9
+		- So that no radioactive matherial comes into contact with skin
+	- 10
+		- To ensure there is no leakage of radioactive material that contaminates people.
