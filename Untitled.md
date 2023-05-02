@@ -58,4 +58,13 @@
 			- % stopped = 100-42 = 58%
 	- 4
 		- a
-			- 
+			- The source emits gamma ray as the count rate is above background. Also the source emits either alpha or beta but it isn't possible to tell which as aluminum will absorb both.
+		- b
+			- The aluminum will absorb all radiation apart from gamma, the radiation passing through obeys the inverse square law, which only gamma does.
+- 26.4 Pre
+	- 1
+		- Destroying the cell membrane
+	- 2
+		- It can damage the proteins in DNA, causing cancer
+	- 3
+		- 
