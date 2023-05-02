@@ -20,3 +20,10 @@
 				- As the alpha particle moves closer to the nucleus the kinetic energy will decrease until it becomes a minimum when it is closest to the nucleus.
 			- ii
 				- The potential energy of the alpha particle is small when it is a long distance away from the nucleus. Potential energy rises to a maximum when closest to the nucleus.
+	- 4
+		- a
+			- Assuming alpha particles are only scattered once, and 1 in 10000 atoms are scattered on a single layer of atoms.
+			- Thus if there are n layers, there are 1 in 10000n chance of being deflected by an atom
+		- b
+			- $\frac{1}{10000n}=\frac{A_n}{A_a}$
+			- $\frac{1}{10000n}=\frac{A_n}{A_a}
