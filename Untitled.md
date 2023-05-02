@@ -38,4 +38,15 @@
 			- $r=4.6\times10^{-14}$
 - 26.2
 	- 1
-		- 
+		- a
+			- Beta
+		- b
+			- Place an electric field around the source and measure the deflection. This will tell you the polarity of the charge, which can verify if alpha or beta.
+	- 2
+		- a
+			- As the beta particles hit the photographic plate, they cause a chemical reaction in the plate which turns the plate black. The beta particles are blocked by the key so a mask of the key is produced.
+		- b
+			- Least - gamma
+			- Most - Alpha
+		- c
+			- Alpja 
