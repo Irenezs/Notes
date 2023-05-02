@@ -14,4 +14,9 @@
 		- d
 			- The alpha particle beam must be narrow to allow for the angle of deflection to be measured accurately.
 	- 3
-		- 
+		- a![[Untitled Diagram.svg|800]]
+		- b
+			- i
+				- As the alpha particle moves closer to the nucleus the kinetic energy will decrease until it becomes a minimum when it is closest to the nucleus.
+			- ii
+				- The potential energy of the alpha particle is small when it is a long distance away from the nucleus. Potential energy rises to a maximum when closest to the nucleus.
