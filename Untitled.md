@@ -49,4 +49,13 @@
 			- Least - gamma
 			- Most - Alpha
 		- c
-			- Alpja 
+			- Alpha particles are absorbed by air. The distance travelled by alpha particles is dependent on the initial kinetic energy of the particle. When the ionisation chamber is close to a source , alpha particles ionise the air inside the chamber so current flows.
+	- 3
+		- a
+			- Corrected counts : 7.8 counts without 3.3 counts with
+			- % pass through = $\frac{3.3}{7.8}=42\%$ 
+		- b
+			- % stopped = 100-42 = 58%
+	- 4
+		- a
+			- 
