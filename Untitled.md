@@ -29,5 +29,8 @@
 			- $\frac{1}{10000n}=\frac{\frac{\pi}{4}d_n^2}{\frac{\pi}{4}d_a^2}$
 			- $\frac{1}{10000n}=\frac{d_n^2}{d_a^2}$
 			- $n=\frac{\text{Thickness of foil}}{\text{Thickness of atom}}=\frac{10\times10^{-6}}{0.5\times10^{-9}}=20000$
-			- $\frac{1}{2\times10^8}=\frac{d_n^2}{d_a^2}$
+			- $\frac{d_a^2}{2\times10^8}=d_n^2$
+			- $d_n=\sqrt{\frac{(0.5\times10^{-9})^2}{2\times10^8}}$
+			- $d_n=4\times10^{-14}\text{m}$
+		- c
 			- 
