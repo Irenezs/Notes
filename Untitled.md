@@ -26,4 +26,8 @@
 			- Thus if there are n layers, there are 1 in 10000n chance of being deflected by an atom
 		- b
 			- $\frac{1}{10000n}=\frac{A_n}{A_a}$
-			- $\frac{1}{10000n}=\frac{A_n}{A_a}
+			- $\frac{1}{10000n}=\frac{\frac{\pi}{4}d_n^2}{\frac{\pi}{4}d_a^2}$
+			- $\frac{1}{10000n}=\frac{d_n^2}{d_a^2}$
+			- $n=\frac{\text{Thickness of foil}}{\text{Thickness of atom}}=\frac{10\times10^{-6}}{0.5\times10^{-9}}=20000$
+			- $\frac{1}{2\times10^8}=\frac{d_n^2}{d_a^2}$
+			- 
