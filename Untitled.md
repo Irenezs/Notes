@@ -33,4 +33,9 @@
 			- $d_n=\sqrt{\frac{(0.5\times10^{-9})^2}{2\times10^8}}$
 			- $d_n=4\times10^{-14}\text{m}$
 		- c
-			- 
+			- $r=\frac{Q_1Q_2}{4\pi\varepsilon_0E_k}$
+			- $r=\frac{2\times79\times e^2}{4\pi\varepsilon_0\times8.0\times10^{-13}}$
+			- $r=4.6\times10^{-14}$
+- 26.2
+	- 1
+		- 
