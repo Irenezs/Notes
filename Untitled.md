@@ -1,0 +1,7 @@
+- 1
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- The Strong Nuclear force is repulsive from 0-0.5fm, and attractive from 0.5-3fm. As there is only a small number of nucleons in 
