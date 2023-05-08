@@ -10,6 +10,8 @@
 	- youtube -£11.99
 - 23-06-16
 	- youtube -£11.99
+- 23-06-07
+	- MyFitnessPal -£64.99
 - 23-05-16
 	- youtube -£11.99
 

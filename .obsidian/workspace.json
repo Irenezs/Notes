@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b81e7ff63f1ae2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,12 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 248.51103591918945
   },
   "right": {
     "id": "e0d5c99f8413c511",
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +177,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6b81e7ff63f1ae2a",
+  "active": "39e29e317ec59241",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Untitled.md",
+    "Untitled Diagram.svg",
     "Non-Work/Recurring Payments.md",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
