@@ -21,4 +21,5 @@
 	- 4
 		- Part X is the core, which propagates the wave via TIR.
 		- Part Y is the cladding, which protects the core from damage, prevents crosstalk between fibres, and provides a good boundary for TIR, being a lower optical density than the core.
-		- Modal Dispersion is where different paths have different path lengths, so effective time along fibres
+		- Modal Dispersion is where different paths have different path lengths, to fix this, use a single mode fibre.
+		- Material Dispersion is where different wavelengths travel through the core at different speeds, to fix this use a monochromatic beam.
