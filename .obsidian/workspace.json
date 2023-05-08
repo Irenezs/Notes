@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +176,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "39e29e317ec59241",
+  "active": "0c21cd7a4daa414c",
   "lastOpenFiles": [
+    "Non-Work/Recurring Payments.md",
     "Untitled.md",
     "Untitled Diagram.svg",
-    "Non-Work/Recurring Payments.md",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
     "emwave.gif",
