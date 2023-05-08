@@ -6,4 +6,7 @@
 	- 3
 		- The Strong Nuclear force is repulsive from 0-0.5fm, and attractive from 0.5-3fm. As there is only a small number of nucleons in a deuterium atom, the nucleons strongly attract each other to a distance of 0.5fm.
 	- 4
-		- Alpha decay does produce a new element, however is not possible as it requires releasing 2 protons, while tritium only has 1. Beta Minus Decay also produces a new element of one higher proton number, which is possible, creating $_2^3He$, 
+		- Alpha decay does produce a new element, however is not possible as it requires releasing 2 protons, while tritium only has 1. Beta Minus Decay also produces a new element of one higher proton number, which is possible, creating $_2^3He$, releasing an electron and electron antineutrino. Electron capture also produces a new element, but similarly to alpha decay, it reduces the proton number, and as tritium only has one, it is not possible to have an element with less than one protons. Thus beta minus decay is the only possible decay.
+- 2
+	- 1
+		- 
