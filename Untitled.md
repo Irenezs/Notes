@@ -3,4 +3,8 @@
 		- In Paper
 	- 4
 		- Hadrons are particles made up of quarks, and are the only particle that interacts with the strong force.
-		- The two classes are Baryons
+		- The two classes are Baryons, made up of 3 quarks, and Mesons, made up of a quark-antiquark pair.
+		- There is only one stable free baryon: the proton.
+- 2
+	- 1
+		- 
