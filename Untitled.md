@@ -30,4 +30,10 @@
 		- Longitudinal - oscillations are parallel to the direction of energy transfer
 - 5
 	- 1
+		- In Paper
+	- 2
+		- The forces act in the same direction, so they are not a couple, as a couple is 2 equal magnitude forces in opposite directions.
+	- 3
+		- In Paper
+	- 4
 		- 
