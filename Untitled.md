@@ -23,3 +23,11 @@
 		- Part Y is the cladding, which protects the core from damage, prevents crosstalk between fibres, and provides a good boundary for TIR, being a lower optical density than the core.
 		- Modal Dispersion is where different paths have different path lengths, to fix this, use a single mode fibre.
 		- Material Dispersion is where different wavelengths travel through the core at different speeds, to fix this use a monochromatic beam.
+	- 5
+		- The angle of incidence may become less than the critical angle, or the bending may induce cracks in the core.
+	- 6
+		- Transverse - oscillations are perpendicular to the direction of energy transfer
+		- Longitudinal - oscillations are parallel to the direction of energy transfer
+- 5
+	- 1
+		- 
