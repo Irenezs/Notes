@@ -36,4 +36,13 @@
 	- 3
 		- In Paper
 	- 4
-		- 
+		- In Paper
+- 6
+	- 1
+		- In Paper
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
+		- Atomic energy levels are discrete, meaning the photon released when an atom is de-excited is also a discrete energy, leading to a single wavelength per energy transition.
