@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +57,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c8c9bb8d9f696f73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +166,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c21cd7a4daa414c",
+  "active": "39e29e317ec59241",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Untitled.md",
+    "Untitled Diagram.svg",
     "Non-Work/Recurring Payments.md",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
