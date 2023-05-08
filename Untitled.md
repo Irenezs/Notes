@@ -8,5 +8,9 @@
 	- 4
 		- Alpha decay does produce a new element, however is not possible as it requires releasing 2 protons, while tritium only has 1. Beta Minus Decay also produces a new element of one higher proton number, which is possible, creating $_2^3He$, releasing an electron and electron antineutrino. Electron capture also produces a new element, but similarly to alpha decay, it reduces the proton number, and as tritium only has one, it is not possible to have an element with less than one protons. Thus beta minus decay is the only possible decay.
 - 2
+	- In Paper
+- 3
+	- In Paper
+- 4
 	- 1
 		- 
