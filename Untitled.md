@@ -1,2 +1,6 @@
 - 1
-	- 1
+	- 1-3
+		- In Paper
+	- 4
+		- Hadrons are particles made up of quarks, and are the only particle that interacts with the strong force.
+		- The two classes are Baryons
