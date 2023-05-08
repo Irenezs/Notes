@@ -13,4 +13,10 @@
 	- In Paper
 - 4
 	- 1
+		- As the refractive index of water is greater than air, and the angle of incidence is greater than the critical angle, total internal reflection occurs.
+	- 2
+		- In Paper
+	- 3
+		- In Paper
+	- 4
 		- 
