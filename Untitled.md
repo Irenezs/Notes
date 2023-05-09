@@ -5,7 +5,14 @@
 		- a
 			- Ionising radiation is dangerous as it can destroy cell membranes, or cause cancer by damaging DNA.
 		- b
-			- Film badges measure a person's exposiure to inoising radiation. the filters allow different ltypes oif radiation through, if any detect a dose, itmeans the worker was exposed to radiation.
+			- Film badges measure a person's exposure to ionising radiation. the filters allow different types of radiation through, if any detect a dose, it means the worker was exposed to radiation.
 	- 3
 		- a
-			- Radioactive sources should be kep
+			- Radioactive sources should be kept in a lead-lined box when not in use as the lead will reduce the emissions to background levels. Keep sources away from each other, keep user as far away from the source.
+		- b
+			- Follow rules set out in 3a, follow local regulations
+	- 4
+		- a
+			- Common radioactive sources: air, medical, ground+buildings, food and drink, cosmic rays, etc.
+		- b
+			- cosmic rays may affect air crew more than the average profession. radiotherapists would be constantly getting radioactity
