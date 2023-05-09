@@ -1,30 +1,11 @@
-- 1
-	- 1-3
-		- In Paper
-	- 4
-		- Hadrons are particles made up of quarks, and are the only particle that interacts with the strong force.
-		- The two classes are Baryons, made up of 3 quarks, and Mesons, made up of a quark-antiquark pair.
-		- There is only one stable free baryon: the proton.
-- 2
+- 23.4
 	- 1
-		- In Paper
+		- Ionisation is where an electron leaves an atom, forming a positive ion. Alpha radiation is more strongly ionising, but it is not as dangerous as it does not penetrate the outer layer of skin.
 	- 2
-		- The momentum of the gas changes, which requires a force, according to Newton's second law
+		- a
+			- Ionising radiation is dangerous as it can destroy cell membranes, or cause cancer by damaging DNA.
+		- b
+			- Film badges measure a person's exposiure to inoising radiation. the filters allow different ltypes oif radiation through, if any detect a dose, itmeans the worker was exposed to radiation.
 	- 3
-		- In Paper
-	- 4
-		- More mass to displace, so will create a greater decelerating force.
-- 3
-	- 1-5
-		- In Paper
-	- 6
-		- Smaller horizontal velocity, thus needs to travel for more time to reach X, thus needs to have a greater initial vertical velocity to counteract gravity
-- 4
-	- In Paper
-- 5
-	- 1-5
-		- In Paper
-	- 6
-		- Cells added must be added in parallel to produce more current without increasing voltage
-- 6
-	- In Paper
+		- a
+			- Radioactive sources should be kep
