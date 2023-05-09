@@ -1,20 +1,5 @@
-- 23.4
-	- 1
-		- Ionisation is where an electron leaves an atom, forming a positive ion. Alpha radiation is more strongly ionising, but it is not as dangerous as it does not penetrate the outer layer of skin.
-	- 2
-		- a
-			- Ionising radiation is dangerous as it can destroy cell membranes, or cause cancer by damaging DNA.
-		- b
-			- Film badges measure a person's exposure to ionising radiation. the filters allow different types of radiation through, if any detect a dose, it means the worker was exposed to radiation.
-	- 3
-		- a
-			- Radioactive sources should be kept in a lead-lined box when not in use as the lead will reduce the emissions to background levels. Keep sources away from each other, keep user as far away from the source.
-		- b
-			- Follow rules set out in 3a, follow local regulations
-	- 4
-		- a
-			- Common radioactive sources: air, medical, ground+buildings, food and drink, cosmic rays, etc.
-		- b
-			- cosmic rays may affect air crew more than the average profession. radiotherapists would be constantly getting contamination from working the machines.
-		- c
-			- Radon leakage is a serious health issue as it is an alpha emitter, if breathed in, the alpha particles will easily ionise the softer interior tissue.
+1. The Weak Nuclear Force
+2. You cannot, it is random
+3. The rate of decay will decrease over time
+4. The time a radioactive source will take for half of its material to decay
+5. 
