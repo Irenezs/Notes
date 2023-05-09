@@ -20,5 +20,9 @@
 	- 6
 		- Smaller horizontal velocity, thus needs to travel for more time to reach X, thus needs to have a greater initial vertical velocity to counteract gravity
 - 4
-	- 1
+	- In Paper
+- 5
+	- 1-5
+		- In Paper
+	- 6
 		- 
