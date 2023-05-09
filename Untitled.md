@@ -14,3 +14,11 @@
 		- In Paper
 	- 4
 		- More mass to displace, so will create a greater decelerating force.
+- 3
+	- 1-5
+		- In Paper
+	- 6
+		- Smaller horizontal velocity, thus needs to travel for more time to reach X, thus needs to have a greater initial vertical velocity to counteract gravity
+- 4
+	- 1
+		- 
