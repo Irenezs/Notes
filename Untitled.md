@@ -25,4 +25,4 @@
 	- 1-5
 		- In Paper
 	- 6
-		- 
+		- Cells added must be added in parallel to produce more current without increasing voltage
