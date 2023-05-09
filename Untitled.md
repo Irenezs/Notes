@@ -9,4 +9,8 @@
 	- 1
 		- In Paper
 	- 2
-		- The momentum of the gas changes, which requires 
+		- The momentum of the gas changes, which requires a force, according to Newton's second law
+	- 3
+		- In Paper
+	- 4
+		- More mass to displace, so will create a greater decelerating force.
