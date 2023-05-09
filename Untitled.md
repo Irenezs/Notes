@@ -15,4 +15,6 @@
 		- a
 			- Common radioactive sources: air, medical, ground+buildings, food and drink, cosmic rays, etc.
 		- b
-			- cosmic rays may affect air crew more than the average profession. radiotherapists would be constantly getting radioactity
+			- cosmic rays may affect air crew more than the average profession. radiotherapists would be constantly getting contamination from working the machines.
+		- c
+			- Radon leakage is a serious health issue as it is an alpha emitter, if breathed in, the alpha particles will easily ionise the softer interior tissue.
