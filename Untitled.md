@@ -9,4 +9,4 @@
 	- 1
 		- In Paper
 	- 2
-		- 
+		- The momentum of the gas changes, which requires 
