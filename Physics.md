@@ -23,4 +23,18 @@
 	- 2
 		- The mass defect $\Delta$M of a nucleus is defined as the  difference between the mass of the separated nucleons and  the mass of the nucleus
 	- 3
-		- 
+		- $\Delta mc^2$
+	- 4
+		- u
+	- 5
+		- The binding energy  per nucleon of a nucleus is the average work done per nucleon  to remove all the nucleons
+	- 6
+		- More binding energy, more stable
+	- 7
+		- The most stable nuclei
+	- 8
+		- Large unstable nuclei splits into two more stable nuclei
+	- 9
+		- small nuclei fuse together to form a larger nucleus
+	- 10
+		- fission, before the turning point, 
