@@ -20,4 +20,6 @@
 		- Light is made of photons, remaining energy of the photon becomes the max Ek of the photoelectron.
 - 3
 	- 1
-		- 
+		- The electrons in the surface of the sample must overcome the potential barrier. Due to the wave property of electrons, there is a probability of the electron being on the other side of the potential barrier, so some electrons pass the barrier.
+	- 2
+		- The tip of the probe will maintain a certain distance above the surface. When the tip reaches the higher layer of atoms, this distance will close, meaning a higher current will be felt by the pro
