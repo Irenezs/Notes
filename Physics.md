@@ -5,4 +5,6 @@
 		- The strong nuclear force holds the nucleus together. It only acts on hadrons, so the muon cannot be the particle responsible for this force. The Rest Energy range is from 0.51-470MeV, so the Kaon cannot be the particle, as it has a rest energy of 490MeV. Thus, the only possible particle in this list is the pion, as it has a rest energy in the range and is a hadron.
 - 2
 	- 1
-		- 
+		- To pull an electron from the surface of the metal, the photon must be of higher energy than the metal's work function. The  energy of a photon is directly proportional to its frequency, therefore there is a minimum frequency for the photoelectric effect to happen
+	- 2
+		- In Paper
