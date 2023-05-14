@@ -15,4 +15,9 @@
 	- 3
 		- Energy is quantized, meaning it is transferred in fundamental units, like charge cannot be lower than 1e. $E=hf$.
 	- 4
+		- The relationship of photons to electrons emitted from the plate was 1:1. There was no photoelectric emission below a threshold frequency.
+		- Using the wave theory of light, the intensity of the light should determine whether photoelectrons are emitted, and that the wave should take time to reach the energy threshold required for photoelectron emission.
+		- Light is made of photons, remaining energy of the photon becomes the max Ek of the photoelectron.
+- 3
+	- 1
 		- 
