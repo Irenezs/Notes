@@ -4,4 +4,6 @@
 	- 2
 		- In Paper
 	- 3
-		- When the path is straight, the Electric Force is equal to the Magnetic Force. $$
+		- When the path is straight, the Electric Force is equal to the Magnetic Force. $EQ=BQv\implies v=\frac E B$. Therefore, increase E or decrease B to increase v.
+	- 4
+		- Thomson's result was 1000x bigger than the ion with the largest specific ch
