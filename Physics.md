@@ -4,4 +4,4 @@
 	- 2
 		- In Paper
 	- 3
-		- 
+		- When the path is straight, the Electric Force is equal to the Magnetic Force. $$
