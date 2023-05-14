@@ -1,34 +1,8 @@
 - 1
-	- 1
-		- The high potential difference causes the gas atoms to ionise, the positive ions are accelerated towards C, while electrons accelerate toward B, and will pass through the hole in the anode.
-	- 2
+	- 1-3
 		- In Paper
-	- 3
-		- When the path is straight, the Electric Force is equal to the Magnetic Force. $EQ=BQv\implies v=\frac E B$. Therefore, increase E or decrease B to increase v.
 	- 4
-		- Thomson's result was 1000x bigger than the ion with the largest specific charge known at the time (hydrogen ion), thus from this, he could conclude the charge was much greater on the electron or the mass is much smaller.
+		- The strong nuclear force holds the nucleus together. It only acts on hadrons, so the muon cannot be the particle responsible for this force. The Rest Energy range is from 0.51-470MeV, so the Kaon cannot be the particle, as it has a rest energy of 490MeV. Thus, the only possible particle in this list is the pion, as it has a rest energy in the range and is a hadron.
 - 2
 	- 1
-		- A black body is a body that absorbs 100% of the light that hits it, and as such emits a continuous spectra of wavelengths of EM radiation.
-	- 2
-		- UV Catastrophe
-	- 3
-		- Energy is quantized, meaning it is transferred in fundamental units, like charge cannot be lower than 1e. $E=hf$.
-	- 4
-		- The relationship of photons to electrons emitted from the plate was 1:1. There was no photoelectric emission below a threshold frequency.
-		- Using the wave theory of light, the intensity of the light should determine whether photoelectrons are emitted, and that the wave should take time to reach the energy threshold required for photoelectron emission.
-		- Light is made of photons, remaining energy of the photon becomes the max Ek of the photoelectron.
-- 3
-	- 1
-		- The electrons in the surface of the sample must overcome the potential barrier. Due to the wave property of electrons, there is a probability of the electron being on the other side of the potential barrier, so some electrons pass the barrier.
-	- 2
-		- The tip of the probe will maintain a certain distance above the surface. When the tip reaches the higher layer of atoms, this distance will close, meaning a higher current will be felt by the probe, thus the feedback loop will apply a current to the piezoelectric crystal to increase the distance, so the current returns to normal. This change in height is mapped, so a computer can create a 3d map of the surface of the sample.
-	- 3
-		- In Paper
-- 4
-	- 1
-		- In Paper
-	- 2
-		- The number of muons passing through a detector in the upper atmosphere and the number passing through a detector on the ground can be used. Measurements show far fewer muons decay than previous theory predicts, as the perceived time travelled by the muon is smaller than that of the detectors.
-	- 3
-		- A lower velocity means the muons take a longer time to travel to the ground, so the time dilation effect is less, so more muons will decay before reaching the ground detector.
+		- 
