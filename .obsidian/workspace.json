@@ -23,9 +23,11 @@
             "id": "2959dbbc9c3c2406",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
