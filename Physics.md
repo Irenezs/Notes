@@ -4,4 +4,16 @@
 	- 2
 		- All energy transfers
 	- 3
-		- 
+		- total mass after the change is always less than the total mass before the change
+	- 4
+		- electron, proton, electron antineutrino
+	- 5
+		- positron, neutron, electron neutrino
+	- 6
+		- When the vacant orbital is filled
+	- 7
+		- $1.661 × 10^{–27}$
+	- 8
+		- 931.3 MeV
+	- 9
+		- Quarks
