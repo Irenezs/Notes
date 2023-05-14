@@ -21,5 +21,7 @@
 		- The sound wave superpose, at A and B the waves are in phase, meaning they produce a maximum. Moving from A introduces a path difference, so they superpose destructively, leading to a lower amplitude.
 	- 3
 		- In Paper
-	- 3
-	-
+	- 4
+		- In Paper
+	- 5
+		- The wavelength will gradually increase. So the path difference at C will get closer to one wavelength, so the sound will get louder as the waves move into phase.
