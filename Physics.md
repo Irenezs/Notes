@@ -9,4 +9,10 @@
 		- Thomson's result was 1000x bigger than the ion with the largest specific charge known at the time (hydrogen ion), thus from this, he could conclude the charge was much greater on the electron or the mass is much smaller.
 - 2
 	- 1
-		- A black body is a body that absorbs 100% of the light that hits it, and as such emits a continuous spectra of wavelengths of light.
+		- A black body is a body that absorbs 100% of the light that hits it, and as such emits a continuous spectra of wavelengths of EM radiation.
+	- 2
+		- UV Catastrophe
+	- 3
+		- Energy is quantized, meaning it is transferred in fundamental units, like charge cannot be lower than 1e. $E=hf$.
+	- 4
+		- 
