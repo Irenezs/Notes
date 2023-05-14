@@ -20,4 +20,6 @@
 	- 2
 		- The sound wave superpose, at A and B the waves are in phase, meaning they produce a maximum. Moving from A introduces a path difference, so they superpose destructively, leading to a lower amplitude.
 	- 3
-		- 
+		- In Paper
+	- 3
+	-
