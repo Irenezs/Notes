@@ -17,3 +17,7 @@
 - 3
 	- 1
 		- They are connected to the same signal generator, so their frequency and phase difference will be the same
+	- 2
+		- The sound wave superpose, at A and B the waves are in phase, meaning they produce a maximum. Moving from A introduces a path difference, so they superpose destructively, leading to a lower amplitude.
+	- 3
+		- 
