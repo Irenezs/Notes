@@ -22,4 +22,7 @@
 	- 1
 		- The electrons in the surface of the sample must overcome the potential barrier. Due to the wave property of electrons, there is a probability of the electron being on the other side of the potential barrier, so some electrons pass the barrier.
 	- 2
-		- The tip of the probe will maintain a certain distance above the surface. When the tip reaches the higher layer of atoms, this distance will close, meaning a higher current will be felt by the pro
+		- The tip of the probe will maintain a certain distance above the surface. When the tip reaches the higher layer of atoms, this distance will close, meaning a higher current will be felt by the probe, thus the feedback loop will apply a current to the piezoelectric crystal to increase the distance, so the current returns to normal. This change in height is mapped, so a computer can create a 3d map of the surface of the sample.
+	- 3
+		- In Paper
+- 4
