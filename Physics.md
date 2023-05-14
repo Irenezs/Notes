@@ -31,4 +31,10 @@
 	- 4
 		- The car in front will not stop instantaneously, so would also be taking into account distance travelled, so there is no need to care about it when comparing relatively.
 	- 5
-		- 
+		- In Paper
+- 5
+	- 1-4
+		- In Paper
+	- 5
+		- Adv: Superconductors have zero resistance, meaning that current can flow in them with no losses.
+		- Disadv: To do this, all currently known superconducting materials require extremely high pressure, extremely low temperatures, or both.
