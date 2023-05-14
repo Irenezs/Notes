@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "2959dbbc9c3c2406",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "39e29e317ec59241",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0c21cd7a4daa414c",
+  "active": "2959dbbc9c3c2406",
   "lastOpenFiles": [
     "Non-Work/Recurring Payments.md",
     "Untitled.md",
