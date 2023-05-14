@@ -31,4 +31,4 @@
 	- 2
 		- The number of muons passing through a detector in the upper atmosphere and the number passing through a detector on the ground can be used. Measurements show far fewer muons decay than previous theory predicts, as the perceived time travelled by the muon is smaller than that of the detectors.
 	- 3
-		- A lower velocity means the muonsa take a longer time to travel to the ground, so the time dilation effect is less
+		- A lower velocity means the muons take a longer time to travel to the ground, so the time dilation effect is less, so more muons will decay before reaching the ground detector.
