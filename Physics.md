@@ -38,3 +38,5 @@
 	- 5
 		- Adv: Superconductors have zero resistance, meaning that current can flow in them with no losses.
 		- Disadv: To do this, all currently known superconducting materials require extremely high pressure, extremely low temperatures, or both.
+- MCQ
+	- In Paper
