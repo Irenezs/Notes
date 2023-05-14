@@ -8,3 +8,4 @@
 
 1. Mix all dough together
 2. Stir in warm water, knead
+3. DeepFry

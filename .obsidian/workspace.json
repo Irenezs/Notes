@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c21cd7a4daa414c",
+            "id": "cd4f62cc57cbde16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2959dbbc9c3c2406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e29e317ec59241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +164,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2959dbbc9c3c2406",
+  "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
+    "Non-Work/Personal.md",
+    "Physics.md",
+    "Non-Work/Frybread.md",
     "Non-Work/Recurring Payments.md",
-    "Untitled.md",
     "Untitled Diagram.svg",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
@@ -222,7 +199,6 @@
     "Maths Gapped Notes/Maths Spec.md",
     "Maths Gapped Notes/Statistics/Stats4 Further Hypothesis Testing.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
-    "Non-Work/Hololive.md",
-    "Non-Work/Stardew Valley.md"
+    "Non-Work/Hololive.md"
   ]
 }
