@@ -25,3 +25,10 @@
 		- In Paper
 	- 5
 		- The wavelength will gradually increase. So the path difference at C will get closer to one wavelength, so the sound will get louder as the waves move into phase.
+- 4
+	- 1-3
+		- In Paper
+	- 4
+		- The car in front will not stop instantaneously, so would also be taking into account distance travelled, so there is no need to care about it when comparing relatively.
+	- 5
+		- 
