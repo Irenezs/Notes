@@ -37,4 +37,4 @@
 	- 9
 		- small nuclei fuse together to form a larger nucleus
 	- 10
-		- fission, before the turning point, 
+		- fusion before the turning point, fission after
