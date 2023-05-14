@@ -22,3 +22,5 @@
 		- The binding energy of the nucleus is the work that must be done to separate a nucleus into its constituent neutrons and protons.
 	- 2
 		- The mass defect $\Delta$M of a nucleus is defined as the  difference between the mass of the separated nucleons and  the mass of the nucleus
+	- 3
+		- 
