@@ -7,4 +7,8 @@
 	- 1
 		- To pull an electron from the surface of the metal, the photon must be of higher energy than the metal's work function. The  energy of a photon is directly proportional to its frequency, therefore there is a minimum frequency for the photoelectric effect to happen
 	- 2
-		- In Paper
+		- In Paper 
+	- 3
+		- The number of photoelectrons emitted depends on the intensity of the incident photons. The constant current is reached when all photoelectrons released reach the anode.
+	- 4
+		- The electrons must pass through an electric field that is opposing their motion. Thus, as the pd increases, the field strength increases, so the electrons are pushed back towards the plate with more force, which their max $E_k$ cannot overcome.
