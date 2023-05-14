@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Frybread.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Frybread.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Frybread.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,9 @@
   },
   "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
+    "Non-Work/Frybread.md",
     "Physics.md",
     "Non-Work/Personal.md",
-    "Non-Work/Frybread.md",
     "Non-Work/Recurring Payments.md",
     "Untitled Diagram.svg",
     "Pasted image 20230423151149.png",
