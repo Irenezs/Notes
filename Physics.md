@@ -12,3 +12,8 @@
 		- The number of photoelectrons emitted depends on the intensity of the incident photons. The constant current is reached when all photoelectrons released reach the anode.
 	- 4
 		- The electrons must pass through an electric field that is opposing their motion. Thus, as the pd increases, the field strength increases, so the electrons are pushed back towards the plate with more force, which their max $E_k$ cannot overcome.
+	- 5
+		- The stopping potential will increase, as it is related to the maximum kinetic energy of the electrons. The maximum kinetic energy of the electrons increases as the energy from the photons has to use less energy to overcome the work function.
+- 3
+	- 1
+		- They are connected to the same signal generator, so their frequency and phase difference will be the same
