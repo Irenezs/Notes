@@ -6,4 +6,7 @@
 	- 3
 		- When the path is straight, the Electric Force is equal to the Magnetic Force. $EQ=BQv\implies v=\frac E B$. Therefore, increase E or decrease B to increase v.
 	- 4
-		- Thomson's result was 1000x bigger than the ion with the largest specific ch
+		- Thomson's result was 1000x bigger than the ion with the largest specific charge known at the time (hydrogen ion), thus from this, he could conclude the charge was much greater on the electron or the mass is much smaller.
+- 2
+	- 1
+		- A black body is a body that absorbs 100% of the light that hits it, and as such emits a continuous spectra of wavelengths of light.
