@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ac7ff13c81436a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "39e29e317ec59241",
+  "active": "6ac7ff13c81436a2",
   "lastOpenFiles": [
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
