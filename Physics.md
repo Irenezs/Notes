@@ -1,3 +1,3 @@
 - 1
 	- i
-		- Interrupt means an instruction is sent to the CPU
+		- Interrupt means an instruction is sent to the CPU that will stop the current process and run itself, depending on the priority of 
