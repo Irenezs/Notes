@@ -1,3 +1,5 @@
 - 1
 	- i
-		- Interrupt means an instruction is sent to the CPU that will stop the current process and run itself, depending on the priority of the interrupt
+		- Interrupt means an instruction is sent to the CPU that will stop the current process and run itself, depending on the priority of the interrupt.
+	- ii
+		- The CPU will first store all of the values of the registers on a frame on the interrupt stack, then will begin running the fetch decode execute cycle
