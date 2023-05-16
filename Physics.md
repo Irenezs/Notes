@@ -8,4 +8,7 @@
 		- No
 	- b
 		- i
+			- There are no duplicate rows
+			- Rows do not have an intrinsic order
+		- ii
 			- 
