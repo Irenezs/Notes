@@ -38,6 +38,7 @@ As an action, you can change your appearance and your voice. You determine the s
 -   You stay in the new form until you use an action to revert to your true form or until you die.
 
 # Criminal Contact
+You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 
 # Abilities
 ![[Pasted image 20230517172552.png]]
