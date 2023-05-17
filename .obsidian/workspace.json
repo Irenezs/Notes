@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "4d98c04175dc6d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5927be9f577591b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Non-Work/DnD/Vist Besak.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +182,10 @@
   },
   "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
-    "Non-Work/Recurring Payments.md",
+    "Pasted image 20230517172552.png",
+    "Non-Work/DnD/Vist Besak.pdf",
     "Non-Work/DnD/Vist Besak.md",
+    "Non-Work/Recurring Payments.md",
     "Physics.md",
     "Non-Work/Frybread.md",
     "Non-Work/Personal.md",
@@ -198,7 +216,6 @@
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Maths Gapped Notes/Maths Spec.md",
-    "Maths Gapped Notes/Statistics/Stats4 Further Hypothesis Testing.md",
-    "Non-Work/DnD/Cygar Mythil'ena.md"
+    "Maths Gapped Notes/Statistics/Stats4 Further Hypothesis Testing.md"
   ]
 }
