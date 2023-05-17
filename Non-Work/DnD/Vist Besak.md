@@ -11,7 +11,15 @@ Poisoner's Kit
 Arrows
 Backpack
 Ball Bearings
-Chain
+Chain - 10ft
+Bell
+Candle
+Crowbar
+Hammer
+Piton
+Lantern - Hooded
+Flask of Oil
+Rations
 # Sneak Attack
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have [advantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_2) on the attack roll. The attack must use a [finesse](https://roll20.net/compendium/dnd5e/Rules:Weapons?expansion=0#toc_4) or a ranged weapon.  
   
@@ -58,3 +66,5 @@ You have a reliable and trustworthy contact who acts as your liaison to a networ
 ![[Pasted image 20230517172552.png]]
 ## Proficiencies
 ![[Pasted image 20230517172648.png]]
+# Notes
+Town Vandimion
