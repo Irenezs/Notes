@@ -1,3 +1,17 @@
+# Equipment
+Rapier, shortbow, dagger (2), breastplate, thieves' tools, poisoner's kit, 20 arrows, backpack, ball bearings/1000, chain/10 feet, bell, candle (5), crowbar, hammer, piton (10), lantern/hooded, oil/flask (2), rations/1 day (5), tinderbox, waterskin, rope/hempen 50 feet, crowbar, clothes/common, belt pouch
+Equipment|Quantity|Weight
+---|---|---
+Rapier|
+Shortbow
+Dagger
+Breastplate
+Thieves' Tools
+Poisoner's Kit
+Arrows
+Backpack
+Ball Bearings
+Chain
 # Sneak Attack
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have [advantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_2) on the attack roll. The attack must use a [finesse](https://roll20.net/compendium/dnd5e/Rules:Weapons?expansion=0#toc_4) or a ranged weapon.  
   
