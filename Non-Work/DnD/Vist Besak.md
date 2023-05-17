@@ -41,3 +41,5 @@ As an action, you can change your appearance and your voice. You determine the s
 
 # Abilities
 ![[Pasted image 20230517172552.png]]
+## Proficiencies
+![[Pasted image 20230517172648.png]]
