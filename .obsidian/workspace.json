@@ -11,28 +11,8 @@
             "id": "cd4f62cc57cbde16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-Work/DnD/Vist Besak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4d98c04175dc6d66",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5927be9f577591b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Non-Work/DnD/Vist Besak.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Vist Besak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Vist Besak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +160,9 @@
   },
   "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
+    "Non-Work/DnD/DnD.md",
+    "Non-Work/DnD/Vist Besak.md",
+    "Non-Work/DnD/Vist Besak.pdf",
     "Non-Work/DnD/Vist Besak (1).pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf",
     "Non-Work/DnD/Pasted image 20230517172552.png",
@@ -189,9 +170,6 @@
     "Non-Work/DnD/Campaign Ideas.md",
     "Non-Work/DnD/Character Shet Fillable.pdf",
     "Non-Work/DnD/Characters.md",
-    "Non-Work/DnD/DnD.md",
-    "Non-Work/DnD/Vist Besak.md",
-    "Non-Work/DnD/Vist Besak.pdf",
     "Non-Work/Recurring Payments.md",
     "Physics.md",
     "Non-Work/Frybread.md",
