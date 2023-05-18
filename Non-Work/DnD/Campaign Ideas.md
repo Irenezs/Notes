@@ -5,3 +5,5 @@
  - At the end of the conversation and the chr makes peace with their death, the dealer offers a deal; life at a cost, or going on to whatever afterlife they will go to.
 
 # Murder Mystery Mansion
+
+- 
