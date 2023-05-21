@@ -5,3 +5,7 @@
 		- There is a rate of change in momentum, so there is a force acting on the air. Therefore the air exerts a force on the engine of the same magnitude but the opposite direction
 	- 3
 		- In Paper
+	- 4
+		- Momentum is a vector, therefore has a direction. The direction of the air has changed, therefore the momentum of the air changes.
+	- 5
+		- 
