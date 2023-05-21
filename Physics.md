@@ -1,2 +1,7 @@
-# Encounter at Destalis
-
+- 1
+	- 1
+		- The momentum increases
+	- 2
+		- There is a rate of change in momentum, so there is a force acting on the air. Therefore the air exerts a force on the engine of the same magnitude but the opposite direction
+	- 3
+		- In Paper
