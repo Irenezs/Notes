@@ -33,4 +33,6 @@
 		- In Paper
 	- 4
 		- B should be used for a lift cable. This is as it has a high breaking stress, and YM. All other materials rejected in part due to lower breaking stresses.
-		- D should be chosen for a bungee cord. This is as it can store a large amount of energy before failure. Not A as it is b
+		- D should be chosen for a bungee cord. This is as it can store a large amount of energy before failure. Not A as it is brittle.
+- 4
+	- 
