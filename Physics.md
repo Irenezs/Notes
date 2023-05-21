@@ -14,4 +14,11 @@
 	- 7
 		- The pilots may increase the throttle to decelerate quicker, or decrease the throttle to decelerate slower.
 - 2
-	- 
+	- 1
+		- Waves are reflected in the oven wall, which superpose with the incoming waves (opposite direction)
+	- 2
+		- Chocolate melts at position of energy maximum, called antinode.
+	- 3
+		- In Paper
+	- 4
+		- 
