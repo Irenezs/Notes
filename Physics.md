@@ -22,5 +22,12 @@
 		- In Paper
 	- 4
 		- In Paper
-	- 5
+- 3
+	- 1
+		- stress: The force exerted per cross-sectional area
+		- strain: The extension per original length
+	- 2
+		- The material is brittle
+		- shown by no plastic behaviour
+	- 3
 		- 
