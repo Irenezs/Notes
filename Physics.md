@@ -8,4 +8,10 @@
 	- 4
 		- Momentum is a vector, therefore has a direction. The direction of the air has changed, therefore the momentum of the air changes.
 	- 5
-		- 
+		- In Paper
+	- 6
+		- In Paper
+	- 7
+		- The pilots may increase the throttle to decelerate quicker, or decrease the throttle to decelerate slower.
+- 2
+	- 
