@@ -7,4 +7,6 @@
 5. ==C
 6. C ==B
 7.    ==B
-8. 
+
+# 47 EMF and Internal Resistance
+1. 
