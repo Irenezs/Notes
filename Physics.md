@@ -23,4 +23,6 @@
 	- 1
 		- In Paper
 	- 2
+		- The photon is absorbed, so must carry the exact amount of energy as the electron cannot be in between energy levels, while the colliding electron can carry away excess energy in the form of kinetic energy.
+	- 3
 		- 
