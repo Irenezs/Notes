@@ -29,4 +29,5 @@
 	- 4
 		- In Paper
 - 4
-	- 
+	- 1
+		- $\Sigma\text{(clockwise moments)}=\
