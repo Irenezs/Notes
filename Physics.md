@@ -39,3 +39,6 @@
 		- In Paper
 	- 6
 		- The voltmeter is measuring the relative potential difference between the paths in parallel, the internal resistance can be considered to be on both paths and therefore will not affect the relative potential difference.
+- 5
+	- 1
+		- There is a one-one relationship between photons and photoelectrons, meaning if a photon's energy is not high enough the electron does not escape the surface of the metal. The energy of a photon is directly proportional to its frequie
