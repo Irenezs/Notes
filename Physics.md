@@ -56,4 +56,8 @@
 	- 2
 		- This is to conserve momentum after the collision, so two photons of opposite direction created.
 	- 3
-		- 
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- In Paper
