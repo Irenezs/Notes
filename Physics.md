@@ -41,9 +41,14 @@
 	- 5
 		- In Paper
 - 5
+	- In Paper
+- 6
 	- 1
 		- In Paper
 	- 2
 		- At the terminals of lamp E, the potential difference at both terminals is +3V, as A and C both "use" the same amount of potential difference, therefore there is no potential difference across lamp E, so the lamp remains off, and the rest of the lamps stay at their original brightness.
 	- 3
+		- In Paper
+- 7
+	- 1
 		- 
