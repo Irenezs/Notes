@@ -45,4 +45,11 @@
 	- 2
 		- The number of electrons emitted increases, and as current is rate of flow of charge, current increases.
 	- 3
-		- 
+		- In Paper
+	- 4
+		- In Paper
+	- 5
+		- The stopping potential would be greater, as the max $E_k$ would be greater, as the $E_{k(max)}=hf-\phi$, and energy of the photons is being increased.
+- 6
+	- 1
+		- An isotope is an element with the same atomic number (Z number) but a different nucleon number (A number). This means it has a different number of neutrons but same number of 
