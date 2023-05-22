@@ -9,4 +9,9 @@
 	- 4
 		- In Paper
 	- 5
+		- Results must be independently checked before they can be confirmed. The machinery required in particle physics is very expensive and so collaboration allows for this cost to be reduced per party.
+- 2
+	- 1
+		- In Paper
+	- 2
 		- 
