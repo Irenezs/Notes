@@ -5,4 +5,5 @@ Name|Captain|Dwarf
 Name|First Mate|
 Name|Second Mate|
 Name|Quartermaster|
-Name|Captain's
+Name|Captain's assistant|
+Name|First Mate's assistant|
