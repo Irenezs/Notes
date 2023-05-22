@@ -52,4 +52,8 @@
 		- The stopping potential would be greater, as the max $E_k$ would be greater, as the $E_{k(max)}=hf-\phi$, and energy of the photons is being increased.
 - 6
 	- 1
-		- An isotope is an element with the same atomic number (Z number) but a different nucleon number (A number). This means it has a different number of neutrons but same number of 
+		- An isotope is an element with the same atomic number (Z number) but a different nucleon number (A number). This means it has a different number of neutrons but same number of protons to another atom.
+	- 2
+		- This is to conserve momentum after the collision, so two photons of opposite direction created.
+	- 3
+		- 
