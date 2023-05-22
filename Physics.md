@@ -30,4 +30,15 @@
 		- In Paper
 - 4
 	- 1
-		- $\Sigma\text{(clockwise moments)}=\
+		- $\Sigma\text{(clockwise moments)}=\Sigma\text{(anticlockwise moments)}$
+		- Resultant Force is zero
+	- 2
+		- The point about which the weight of an object can be considered to act.
+	- 3
+		- So that the resultant moment on the beam is zero.
+	- 4
+		- In Paper
+	- 5
+		- In Paper
+- 5
+	- 
