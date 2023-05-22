@@ -18,4 +18,9 @@
 	- 3
 		- the change in gravitational potential energy was the same, therefore the change in kinetic energy was the same.
 	- 4
+		- The rain has no initial horizontal momentum, and its vertical momentum decreases when it hits the truck. The mass of the truck increases, but its speed decreases, as it needs to accelerate the water.
+- 3
+	- 1
+		- In Paper
+	- 2
 		- 
