@@ -51,4 +51,8 @@
 		- In Paper
 - 7
 	- 1
-		- 
+		- A central white fringe with several fringes either side showing a colour spectrum, with red furthest from centre.
+	- 2
+		- The central fringe is a mixture of red and green light, with the spacing of the red fringes to either side being 1.2 times greater than the green fringes.
+	- 3
+		- Decreasing the slit spacing will increase the width of the fringe spacing on the screen, thus 
