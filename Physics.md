@@ -2,4 +2,7 @@
 	- 1
 		- The strong nuclear force keeps the nucleons together. It only acts on hadrons, and has a short range at ~3fm.
 	- 2
+		- In alpha decay, baryon number is conserved by the 4 nucleons leaving the nucleus as another particle, but they are not modified. (daughter nucleons total parent nucleons)
+		- In beta decay, baryon number is conserved as a neutron changes into a proton or vice versa, and so the baryon number is unchanged. Additionally, the electron and electron antineutrino, or positron and electron neutrino are leptons, and do not affect the baryon number. 
+	- 3
 		- 
