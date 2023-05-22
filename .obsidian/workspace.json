@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/DnD/Murder Mystery.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/DnD/Murder Mystery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/DnD/Murder Mystery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +166,7 @@
   },
   "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
+    "Physics.md",
     "Non-Work/DnD/Murder Mystery.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Computer Science/CompSci Spec.md",
@@ -181,7 +182,6 @@
     "Non-Work/DnD/Character Shet Fillable.pdf",
     "Non-Work/DnD/Characters.md",
     "Non-Work/Recurring Payments.md",
-    "Physics.md",
     "Non-Work/Frybread.md",
     "Non-Work/Personal.md",
     "Untitled Diagram.svg",
