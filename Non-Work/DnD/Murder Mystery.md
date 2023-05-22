@@ -1,5 +1,8 @@
 # Crew Manifest
 Name|Title|Species
 ---|---|---
-Name1|Captain|Dwarf
-Name2|First Mate|
+Name|Captain|Dwarf
+Name|First Mate|
+Name|Second Mate|
+Name|Quartermaster|
+Name|Captain's
