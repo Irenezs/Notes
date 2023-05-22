@@ -55,4 +55,5 @@
 	- 2
 		- The central fringe is a mixture of red and green light, with the spacing of the red fringes to either side being 1.2 times greater than the green fringes.
 	- 3
-		- Decreasing the slit spacing will increase the width of the fringe spacing on the screen, thus 
+		- Decreasing the slit spacing will increase the width of the fringe spacing on the screen, thus will decrease the uncertainty in measuring the fringe spacing. As this is required in measuring the wavelength, the uncertainty in the wavelength will decrease.
+		- Decreasing the distance D will increase the uncertainty in measuring D, also the fringe separation uncertainty will also decrease, thus the uncertainty in measuring the wavelength will increase.
