@@ -14,4 +14,8 @@
 	- 1
 		- In Paper
 	- 2
+		- The acceleration in Figure 1 is constant, in Figure 2 the acceleration is greatest at the start of the ramp, before decreasing to 0 at C.
+	- 3
+		- the change in gravitational potential energy was the same, therefore the change in kinetic energy was the same.
+	- 4
 		- 
