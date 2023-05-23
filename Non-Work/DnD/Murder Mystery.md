@@ -11,3 +11,4 @@ Name|Second Mates' assistant|
 Name|Quartermaster's assistant|
 Name|Bosun|
 Name|Admiral|
+Name|Head Cook
