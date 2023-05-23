@@ -11,4 +11,12 @@ Name|Second Mates' assistant|
 Name|Quartermaster's assistant|
 Name|Bosun|
 Name|Admiral|
-Name|Head Cook
+Name|Head Cook|
+Name|Cook|
+Name|Cook|
+Name|Cook|
+Name|Cook|
+Name|Carpenter|
+Name|Carpenter's assistant|
+Name|Medic|
+Name|Medic's assistant|
