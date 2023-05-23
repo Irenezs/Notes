@@ -18,6 +18,6 @@ Name|Cook|
 Name|Cook|
 Name|Carpenter|
 Name|Carpenter's assistant|
-Name|Medic|
+Name|Medic (Court)|
 Name|Medic's assistant|
 Name|Artist|
