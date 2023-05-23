@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/DnD/Murder Mystery.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Murder Mystery.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Murder Mystery.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,10 @@
   },
   "active": "cd4f62cc57cbde16",
   "lastOpenFiles": [
+    "Non-Work/DnD/Murder Mystery.md",
     "Pasted image 20230522174502.png",
     "Pasted image 20230522174459.png",
     "Physics.md",
-    "Non-Work/DnD/Murder Mystery.md",
     "Non-Work/DnD/Cygar Mythil'ena.md",
     "Computer Science/CompSci Spec.md",
     "Non-Work/DnD/DnD.md",

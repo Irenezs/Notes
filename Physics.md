@@ -1,38 +1,7 @@
-# 45 Potential Dividers Basics
+# Nuclear Safety
 
-1. ==B==
-2. ==A==
-3. ==A==
-4. ==D==
-5. ==C==
-6. C ==B==
-7.    ==B==
+Advantages : Nuclear Fuel is 1000000x more energy dense than coal, so less fuel is required per energy generated, and as such generates much less carbon dioxide, which is good for the planet.
 
-# 47 EMF and Internal Resistance
-1. ==D==
-2. ==D==
-3. ==A==
-4. ==D==
-5. B ==C==
-6. A ==B==
-7. ==C==
+Disadvantages : Waste is radioactive, and high level waste needs storing for millennia. Additionally, in the event of meltdowns, the effect on the environment is much worse than that of a coal fire plant.
 
-# 48 Cells in Series and Parallel
-1. ==B==
-2. ==A==
-3. ==D==
-4. ==A==
-5. D ==A==
-6. D ==C==
-7. ==A==
-
-# 50 Electrical Power
-1. ==D==
-2. ==C==
-3. C ==D==
-4. ==B==
-5. A ==B==
-6. ==D==
-7. ==B==
-
-
+Suitable 
