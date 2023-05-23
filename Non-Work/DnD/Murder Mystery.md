@@ -20,3 +20,4 @@ Name|Carpenter|
 Name|Carpenter's assistant|
 Name|Medic|
 Name|Medic's assistant|
+Name|Artist|
