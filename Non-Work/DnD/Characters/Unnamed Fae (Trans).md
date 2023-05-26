@@ -2,10 +2,10 @@
 ## Scores
 Ability|Dice Score|Bonus|Final Score|Modifier
 ---|---|---|---|---
-STR|
+STR|5
 DEX|
-CON|
+CON|12
 INT|
 WIS|
-CHA|
+CHA|18
 # Features
