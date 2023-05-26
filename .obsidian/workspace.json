@@ -6,7 +6,6 @@
       {
         "id": "0d8d2c1103449753",
         "type": "tabs",
-        "dimension": 39.02606310013718,
         "children": [
           {
             "id": "39e29e317ec59241",
@@ -17,23 +16,6 @@
                 "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9911cabf96a30f8b",
-        "type": "tabs",
-        "dimension": 60.97393689986282,
-        "children": [
-          {
-            "id": "122389939527840c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).pdf"
               }
             }
           }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).pdf",
+                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).pdf",
+                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,16 +164,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "122389939527840c",
+  "active": "39e29e317ec59241",
   "lastOpenFiles": [
-    "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
+    "Non-Work/DnD/Characters/Vist Abilities.png",
     "Non-Work/DnD/Characters/Unnamed Fae (Trans).pdf",
+    "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
+    "Non-Work/DnD/Characters/Unnamed Fae (Trans) (1).pdf",
     "Non-Work/DnD/Characters/Vist Besak.md",
     "Non-Work/DnD/Characters/Cygar Mythil'ena.md",
     "Non-Work/DnD/Characters/Cygar.pdf",
     "Non-Work/DnD/Characters/Aust.pdf",
     "Non-Work/DnD/Characters/Vist Proficiencies.png",
-    "Non-Work/DnD/Characters/Vist Abilities.png",
     "Non-Work/DnD/Character Shet Fillable.pdf",
     "Physics.md",
     "Non-Work/DnD/Characters",
