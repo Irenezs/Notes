@@ -23,4 +23,5 @@ You know the [Druidcraft](http://dnd5e.wikidot.com/spell:druidcraft) cantrip. St
 Hit Dice : d6
 Proficiencies
 - Armour : None
-- Weapons : Daggers, Darts, Slings
+- Weapons : Daggers, Darts, Slings, Quarterstaff, Light Crossbows
+- Tools : None
