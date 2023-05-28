@@ -11,5 +11,8 @@ WIS|15|0|15|+2
 CHA|18|+2 (Racial)|20|+5
 # Features
 ## Fairy Traits
-ABI : +2 CHA, +1 STR
-Languages: Common, 
+ABI: +2 CHA, +1 STR
+Languages: Common, Sylvan
+Size: Small
+Type: Fey
+Speed: 30ft
