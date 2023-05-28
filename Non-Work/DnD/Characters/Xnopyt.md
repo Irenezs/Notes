@@ -25,3 +25,4 @@ Proficiencies
 - Armour : None
 - Weapons : Daggers, Darts, Slings, Quarterstaff, Light Crossbows
 - Tools : None
+- Skills : Intimidation, Insight
