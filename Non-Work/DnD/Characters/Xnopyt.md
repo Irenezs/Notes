@@ -10,3 +10,6 @@ INT|16|0|16|+3
 WIS|15|0|15|+2
 CHA|18|+2 (Racial)|20|+5
 # Features
+## Fairy Traits
+ABI : +2 CHA, +1 STR
+Languages: Common, 
