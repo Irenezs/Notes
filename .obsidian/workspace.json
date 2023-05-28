@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
+                "file": "Non-Work/DnD/Characters/Xnopyt.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a380c1677ae7745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b63cb9dcc435ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Non-Work/DnD/Characters/Xnopyt.pdf"
               }
             }
           }
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
+                "file": "Non-Work/DnD/Characters/Xnopyt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
+                "file": "Non-Work/DnD/Characters/Xnopyt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +182,9 @@
   },
   "active": "39e29e317ec59241",
   "lastOpenFiles": [
+    "Non-Work/DnD/Characters/Xnopyt.pdf",
+    "Non-Work/DnD/Characters/Xnopyt.md",
     "Non-Work/DnD/Characters/Vist Abilities.png",
-    "Non-Work/DnD/Characters/Unnamed Fae (Trans).pdf",
-    "Non-Work/DnD/Characters/Unnamed Fae (Trans).md",
     "Non-Work/DnD/Characters/Unnamed Fae (Trans) (1).pdf",
     "Non-Work/DnD/Characters/Vist Besak.md",
     "Non-Work/DnD/Characters/Cygar Mythil'ena.md",
