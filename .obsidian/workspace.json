@@ -6,7 +6,6 @@
       {
         "id": "0d8d2c1103449753",
         "type": "tabs",
-        "dimension": 33.813443072702334,
         "children": [
           {
             "id": "39e29e317ec59241",
@@ -17,23 +16,6 @@
                 "file": "Non-Work/DnD/Characters/Xnopyt.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8a380c1677ae7745",
-        "type": "tabs",
-        "dimension": 66.18655692729767,
-        "children": [
-          {
-            "id": "63b63cb9dcc435ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Non-Work/DnD/Characters/Xnopyt.pdf"
               }
             }
           }
@@ -184,6 +166,7 @@
   },
   "active": "39e29e317ec59241",
   "lastOpenFiles": [
+    "Non-Work/DnD/Characters/Xnopyt (1).pdf",
     "Non-Work/DnD/Characters/Xnopyt.pdf",
     "Non-Work/DnD/Characters/Xnopyt.md",
     "Non-Work/DnD/Characters/Vist Abilities.png",
