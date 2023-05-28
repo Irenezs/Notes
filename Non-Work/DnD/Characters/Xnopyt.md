@@ -34,3 +34,5 @@ Starting at 1st level, you can manipulate the forces of chance and chaos to gain
 
 Any time before you regain the use of this feature, the DM can have you roll on the Wild Magic Surge table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
 ### $2^{nd}$ - Font of Magic
+
+### $6^{th}$ - Bend Luck
