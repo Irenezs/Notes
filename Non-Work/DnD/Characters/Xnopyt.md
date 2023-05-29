@@ -73,5 +73,17 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 - **Twinned Spell.** When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, _[magic missile](http://dnd5e.wikidot.com/spell:magic-missile)_ and _[scorching ray](http://dnd5e.wikidot.com/spell:scorching-ray)_ aren't eligible, but _[ray of frost](http://dnd5e.wikidot.com/spell:ray-of-frost)_ and _[chromatic orb](http://dnd5e.wikidot.com/spell:chromatic-orb)_ are.
 
+### $4^{th}$ - ABI (Feat : Telepathic)
+
+You awaken the ability to mentally connect with others, granting you the following benefits:
+
+- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+- You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+
+- You can cast the [Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+
+### $5^{th}$ - 
+
 ### $6^{th}$ - Bend Luck
 Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
