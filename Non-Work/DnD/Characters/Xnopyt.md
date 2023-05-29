@@ -7,7 +7,7 @@ STR|5|+1 (Racial)|6|-2
 DEX|8|0|8|-1
 CON|12|0|12|+1
 INT|16|0|16|+3
-WIS|15|0|15|+2
+WIS|15|+1 (Feat)|16|+3
 CHA|18|+2 (Racial)|20|+5
 # Features
 ## Fairy Traits
@@ -77,7 +77,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
-- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+WIS +1
 
 - You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 
