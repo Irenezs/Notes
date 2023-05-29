@@ -83,7 +83,10 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 - You can cast the [Detect Thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
 
-### $5^{th}$ - 
+### $5^{th}$ - Magical Guidance
+
+When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.
 
 ### $6^{th}$ - Bend Luck
+
 Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
