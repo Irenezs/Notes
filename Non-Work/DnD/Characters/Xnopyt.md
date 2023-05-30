@@ -1,5 +1,6 @@
+# Equipment
+- 
 # Abilities
-## Scores
 
 Ability|Dice Score|Bonus|Final Score|Modifier
 ---|---|---|---|---
