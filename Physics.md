@@ -1,1 +1,1 @@
-$$\lim_{n\rightarrow0}\Bigg[\frac{1}{\frac{1}{2}+n}\Bigg]=2$$
+$$A=\int_0^{20}y\mspace{0.2em}dx=\int_0^{20}y\mspace{0.2em}\frac{dx}{dt}dt$$
