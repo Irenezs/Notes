@@ -9,6 +9,7 @@ CON|12|0|12|+1
 INT|16|0|16|+3
 WIS|15|+1 (Feat)|16|+3
 CHA|18|+2 (Racial)|20|+5
+
 # Features
 ## Fairy Traits
 ABI: +2 CHA, +1 STR
