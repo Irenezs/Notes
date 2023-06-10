@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "391718ee56c2544b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "39e29e317ec59241",
+  "active": "391718ee56c2544b",
   "lastOpenFiles": [
     "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
     "Maths Gapped Notes/Calculus/C4 Integration.md",
