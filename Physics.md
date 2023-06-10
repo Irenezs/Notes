@@ -1,1 +1,1 @@
-$$A=\int_0^{20}y\mspace{0.2em}dx=\int_0^{20}y\mspace{0.2em}\frac{dx}{dt}dt$$
+$$\frac{i}{2}e^{-2\tan{x}}+c$$
