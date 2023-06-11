@@ -1,1 +1,1 @@
-$$\frac{i}{2}e^{-2\tan{x}}+c$$
+$$ax^2+bx+c\implies x$$
