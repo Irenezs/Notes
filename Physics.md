@@ -1,1 +1,1 @@
-$$ax^2+bx+c\implies x$$
+$$ax^2+bx+c,\therefore x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
