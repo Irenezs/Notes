@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Writing Practice.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e0d5c99f8413c511",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Writing Practice.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Writing Practice.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
