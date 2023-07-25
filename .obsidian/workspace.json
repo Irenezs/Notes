@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +166,7 @@
   },
   "active": "78a69e2456d81a5a",
   "lastOpenFiles": [
+    "Non-Work/Recurring Payments.md",
     "Non-Work/Writing Practice.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Physics.md",
@@ -191,7 +192,6 @@
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
     "Maths Gapped Notes/Maths Spec.md",
-    "Non-Work/Recurring Payments.md",
     "Untitled.md",
     "Non-Work/Frybread.md",
     "Untitled Diagram.svg",
