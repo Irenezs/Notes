@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,11 @@
   },
   "active": "78a69e2456d81a5a",
   "lastOpenFiles": [
+    "Non-Work/Personal.md",
+    "Physics.md",
     "Non-Work/Recurring Payments.md",
     "Non-Work/Writing Practice.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
-    "Physics.md",
     "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
     "Maths Gapped Notes/Calculus/C4 Integration.md",
     "Maths Gapped Notes/Calculus/C3 Differentiation.md",
@@ -208,7 +209,6 @@
     "Maths Gapped Notes/Misc/M2 Using Graphs.md",
     "Maths Gapped Notes/Geometry/G3 Co-ordinate Geometry.md",
     "Maths Gapped Notes/Geometry/G4 Triangle Geometry.md",
-    "Maths Gapped Notes/Calculus/C1 Quadratics and Inequalities.md",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
   ]
