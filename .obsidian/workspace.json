@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e96b4d604428797",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "78a69e2456d81a5a",
+  "active": "3e96b4d604428797",
   "lastOpenFiles": [
     "Non-Work/Personal.md",
     "Physics.md",
