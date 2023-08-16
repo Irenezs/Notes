@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Computer Science/1.1.3 Input, Output, Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Computer Science/1.1.3 Input, Output, Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Work/Recurring Payments.md",
+                "file": "Computer Science/1.1.3 Input, Output, Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,19 @@
   },
   "active": "78a69e2456d81a5a",
   "lastOpenFiles": [
+    "Computer Science/1.2.1 Software Systems.md",
+    "Computer Science/1.1.1 Structure of the Processor.md",
+    "Computer Science/CompSci Spec.md",
+    "Computer Science/1.4.3 Boolean Algebra.md",
+    "Computer Science/1.2.3 Software Development.md",
+    "Computer Science/1.2.2 Application Generation.md",
+    "Computer Science/1.1.3 Input, Output, Storage.md",
+    "Computer Science/1.1.2 Types of Processor.md",
+    "Maths Gapped Notes/Maths Spec.md",
     "Non-Work/Personal.md",
-    "Physics.md",
+    "Non-Work/No Man's Sky Unit Generator.md",
     "Non-Work/Recurring Payments.md",
+    "Physics.md",
     "Non-Work/Writing Practice.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
@@ -192,23 +202,13 @@
     "Non-Work/DnD/Characters/Vist Besak.pdf",
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
-    "Maths Gapped Notes/Maths Spec.md",
     "Untitled.md",
     "Non-Work/Frybread.md",
     "Untitled Diagram.svg",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
     "emwave.gif",
-    "Non-Work/DnD/Characters/Aust Nailo.md",
     "Untitled.canvas",
-    "Code.md",
-    "Maths Gapped Notes/Misc/M7 Functions.md",
-    "Maths Gapped Notes/Misc/M6 Exponentials.md",
-    "Maths Gapped Notes/Misc/M5 Proof.md",
-    "Maths Gapped Notes/Misc/M4 Fur. Transformations of Graphs.md",
-    "Maths Gapped Notes/Misc/M2 Using Graphs.md",
-    "Maths Gapped Notes/Geometry/G3 Co-ordinate Geometry.md",
-    "Maths Gapped Notes/Geometry/G4 Triangle Geometry.md",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
   ]
