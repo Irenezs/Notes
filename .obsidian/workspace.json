@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics.md",
+                "file": "Non-Work/Recurring Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,10 @@
   },
   "active": "b7318387a2ac5d75",
   "lastOpenFiles": [
-    "Non-Work/Stardew Valley.md",
     "Non-Work/Restarting Git.md",
+    "Non-Work/Writing Practice.md",
+    "Physics.md",
+    "Non-Work/Stardew Valley.md",
     "Non-Work/BingoSync.md",
     "Non-Work/Personal.md",
     "Non-Work/No Man's Sky Unit Generator.md",
@@ -196,8 +198,6 @@
     "Computer Science/1.1.2 Types of Processor.md",
     "Maths Gapped Notes/Maths Spec.md",
     "Non-Work/Recurring Payments.md",
-    "Physics.md",
-    "Non-Work/Writing Practice.md",
     "Maths Gapped Notes/Calculus/C5.5 Integration 2.md",
     "Maths Gapped Notes/Calculus/C5 Differentiation 2.md",
     "Maths Gapped Notes/Calculus/C4 Integration.md",
