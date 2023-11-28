@@ -23,9 +23,11 @@
             "id": "60ca2f0822079934",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -177,7 +179,13 @@
   },
   "active": "60ca2f0822079934",
   "lastOpenFiles": [
+    "Non-Work/Frybread.md",
+    "Non-Work/Hololive.md",
     "Non-Work/Writing Practice.md",
+    "Non-Work/Stardew Valley.md",
+    "Non-Work/Restarting Git.md",
+    "Non-Work/Recurring Payments.md",
+    "Physics.md",
     "Non-Work/DnD/Characters/Xnopyt.pdf",
     "Non-Work/DnD/Characters/Xnopyt.md",
     "Non-Work/DnD/Characters/Vist Proficiencies.png",
@@ -193,16 +201,13 @@
     "Non-Work/DnD/Pasted image 20230517172552.png",
     "Pasted image 20230522174459.png",
     "Pasted image 20230522174502.png",
-    "Physics.md",
     "Non-Work/DnD/Vist Besak.pdf",
     "Non-Work/DnD/Vist Besak.md",
     "Non-Work/DnD/Pasted image 20230517172648.png",
     "Maths Gapped Notes/Misc/M1 Surds and Indices.md",
     "Maths Gapped Notes/Misc/M3 Logarithms.md",
     "Maths Gapped Notes/Maths Spec.md",
-    "Non-Work/Recurring Payments.md",
     "Untitled.md",
-    "Non-Work/Frybread.md",
     "Untitled Diagram.svg",
     "Pasted image 20230423151149.png",
     "Untitled Diagram 1.svg",
@@ -217,9 +222,6 @@
     "Maths Gapped Notes/Misc/M4 Fur. Transformations of Graphs.md",
     "Maths Gapped Notes/Misc/M2 Using Graphs.md",
     "Maths Gapped Notes/Geometry/G3 Co-ordinate Geometry.md",
-    "Maths Gapped Notes/Geometry/G4 Triangle Geometry.md",
-    "Maths Gapped Notes/Calculus/C1 Quadratics and Inequalities.md",
-    "Maths Gapped Notes/Calculus/C2 Polynomials.md",
     "Non-Work/DnD/Player's Handbook.pdf",
     "Non-Work/DnD/Tasha’s Cauldron of Everything.pdf"
   ]
